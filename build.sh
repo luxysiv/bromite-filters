@@ -1,4 +1,4 @@
-wget -i filters.txt
+wget -i resources
 chmod +x ruleset_converter filters.txt
 ./ruleset_converter --input_format=filter-list \
                     --output_format=unindexed-ruleset \
