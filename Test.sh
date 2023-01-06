@@ -1,5 +1,6 @@
 #!/bin/bash
 mkdir ruleset_converter
+cd ruleset_converter
 wget https://filters.adtidy.org/android/filters/2_optimized.txt
      https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
      https://filters.adtidy.org/android/filters/17_optimized.txt
