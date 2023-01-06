@@ -4,3 +4,4 @@ https://filters.adtidy.org/android/filters/17_optimized.txt
 https://github.com/luxysiv/filters/raw/main/abpvn-ext.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
+https://github.com/bromite/bromite/releases/latest/download/ruleset_converter
