@@ -6,8 +6,14 @@
   <img src="https://www.bromite.org/release.svg" alt="current Bromite release" title="current Bromite release" /> </a>
 
 # Usage
-Copy
+Put
 ```
 https://github.com/luxysiv/bromite-filters/releases/latest/download/filters.dat
+```
 
 or
+```
+https://github.com/luxysiv/bromite-filters/raw/main/filters.dat
+```
+
+in Bromite 
