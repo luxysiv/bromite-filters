@@ -1,4 +1,4 @@
-wget -i resources
+aria2c -i resources
 cat *.txt > rules.txt
 wget https://github.com/bromite/bromite/releases/latest/download/ruleset_converter
 chmod +x ruleset_converter filters.txt
