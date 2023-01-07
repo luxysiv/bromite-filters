@@ -1,3 +1,3 @@
-[![Bromite](https://www.bromite.org/bromite.png)](https://github.com/luxysiv/userscripts/releases/latest/download/cosmetic.user.js)
+[![Bromite](https://www.bromite.org/bromite.png)](https://github.com/luxysiv/bromite-filters/releases/latest/download/filters.dat)
 
-[![Build](https://github.com/luxysiv/userscripts/actions/workflows/auto-generate.yml/badge.svg)](https://github.com/luxysiv/userscripts/actions/workflows/auto-generate.yml)
+[![Build](https://github.com/luxysiv/bromite-filters/actions/workflows/build.yml/badge.svg)](https://github.com/luxysiv/bromite-filters/actions/workflows/build.yml)
