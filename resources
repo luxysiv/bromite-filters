@@ -1,7 +1,14 @@
+#Bộ lọc EasyList + Adguard tiếng Anh
 https://filters.adtidy.org/android/filters/2_optimized.txt
+#Bộ lọc phiền toái 
 https://filters.adtidy.org/android/filters/14_optimized.txt
+#Bộ lọc theo dõi
 https://filters.adtidy.org/android/filters/17_optimized.txt
+#ABPVN mod
 https://github.com/luxysiv/filters/raw/main/abpvn-ext.txt
+#Spyware
 https://filters.adtidy.org/android/filters/3_optimized.txt
+#Social
 https://filters.adtidy.org/android/filters/4_optimized.txt
+#Ruleset_converter
 https://github.com/bromite/bromite/releases/latest/download/ruleset_converter
