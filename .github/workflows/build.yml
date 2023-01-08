@@ -1,4 +1,4 @@
-name: Tạo bộ lọc Bromite
+name: Xây dựng bộ lọc Bromite
 on:
   push:
     branches: [ "main" ]
@@ -13,7 +13,7 @@ jobs:
     steps:
     
       - uses: actions/checkout@v3
-      - name: build filters
+      - name: Build filters
         run: |
           chmod +x build.sh
           ./build.sh
@@ -26,14 +26,14 @@ jobs:
         with:
           add: 'filters.dat'
           default_author: github_actions
-          message: 'Update filters: ${{ env.DATE }}'
+          message: 'Cập nhật bộ lọc: ${{ env.DATE }}'
           push: true
           
-      - name: Release filter lists
+      - name: Release filters list
         uses: softprops/action-gh-release@v1
         with:
           files: filters.dat
-          name: Filterlist ${{ env.DATE }}
+          name: Bộ lọc ${{ env.DATE }}
           tag_name: ${{ env.DATE }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
