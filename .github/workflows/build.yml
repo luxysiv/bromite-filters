@@ -1,4 +1,4 @@
-name: Automatic build filters 
+name: Tạo bộ lọc Bromite
 on:
   push:
     branches: [ "main" ]
