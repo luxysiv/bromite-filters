@@ -1,5 +1,5 @@
 aria2c -i resources
-echo *.txt | xargs cat > merge-file
+echo *.txt* | xargs cat > merge-file
 aria2c https://github.com/bromite/bromite/releases/latest/download/ruleset_converter
 chmod +x ruleset_converter
 ./ruleset_converter --input_format=filter-list \
