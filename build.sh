@@ -1,6 +1,6 @@
-wget -i resources
+aria2c -i resources
 echo *.txt* | xargs cat > merge-file
-wget https://github.com/bromite/bromite/releases/latest/download/ruleset_converter
+aria2c https://github.com/bromite/bromite/releases/latest/download/ruleset_converter
 chmod +x ruleset_converter
 ./ruleset_converter --input_format=filter-list \
                     --output_format=unindexed-ruleset \
