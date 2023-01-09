@@ -1,4 +1,4 @@
-name: Xây dựng bộ lọc Bromite
+name: Tạo bộ lọc Bromite
 on:
   push:
     branches: [ "main" ]
@@ -13,12 +13,12 @@ jobs:
     steps:
     
       - uses: actions/checkout@v3
-      - name: Xây dựng bộ lọc
+      - name: Build filters 
         run: |
           chmod +x build.sh
           ./build.sh
 
-      - name: Tạo ngày
+      - name: Generate date 
         run: echo "DATE=$(date +%F)" >> $GITHUB_ENV
         
       - name: Commit filters 
