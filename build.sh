@@ -1,3 +1,4 @@
+#!bin/bash/sh
 aria2c -i resources
 echo *.txt* | xargs cat > merge-file
 aria2c https://github.com/bromite/bromite/releases/latest/download/ruleset_converter
