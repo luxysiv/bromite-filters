@@ -6,6 +6,6 @@
 [![Build](https://github.com/luxysiv/bromite-filters/actions/workflows/build.yml/badge.svg)](https://github.com/luxysiv/bromite-filters/actions/workflows/build.yml)
 
 
-[![Bromite](https://github.com/luxysiv/filters/raw/main/download.png)](https://github.com/luxysiv/bromite-filters/releases/latest/download/filters.dat)
+[![Bromite](https://github.com/luxysiv/filters/raw/main/Download.png)](https://github.com/luxysiv/bromite-filters/releases/latest/download/filters.dat)
 
  
