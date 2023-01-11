@@ -5,7 +5,7 @@
 # Status
 [![Build](https://github.com/luxysiv/bromite-filters/actions/workflows/build.yml/badge.svg)](https://github.com/luxysiv/bromite-filters/actions/workflows/build.yml)
 
-# Download
+
 [![Bromite](https://github.com/luxysiv/filters/raw/main/download.png)](https://github.com/luxysiv/bromite-filters/releases/latest/download/filters.dat)
 
  
