@@ -1,0 +1,29 @@
+name: Bromite filters
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  run:
+    name: Build filters
+    permissions: write-all
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@main
+        with:
+          fetch-depth: 0
+
+      - name: Convert
+        run: chmod +x ./main && ./main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 5
