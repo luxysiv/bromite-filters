@@ -15,8 +15,13 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Install Python
+        uses: actions/setup-python@main
+        with:
+          python-version: 3.11
+          
       - name: Convert
-        run: chmod +x ./main && ./main
+        run: python main.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
@@ -26,4 +31,4 @@ jobs:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
           retain_days: 0
-          keep_minimum_runs: 5
+          keep_minimum_runs: 1
