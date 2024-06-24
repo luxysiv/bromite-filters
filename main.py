@@ -1,6 +1,7 @@
 import os
 import subprocess
-from libs import requests
+import http.client
+from urllib.parse import urlparse
 
 RESOURCES = {
     'abpvn.txt': 'https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt',
@@ -12,11 +13,23 @@ RESOURCES = {
 MERGED_FILE = "merged.txt"
 OUTPUT_FILE = "filters.dat"
 
+def download_resource(url, filename):
+    parsed_url = urlparse(url)
+    conn = http.client.HTTPSConnection(parsed_url.netloc)
+    conn.request("GET", parsed_url.path)
+    response = conn.getresponse()
+
+    if response.status != 200:
+        raise Exception(f"Failed to download {url}, status code: {response.status}")
+    
+    with open(filename, 'wb') as file:
+        file.write(response.read())
+    
+    conn.close()
+
 def download_resources():
     for filename, url in RESOURCES.items():
-        response = requests.get(url)
-        with open(filename, 'wb') as file:
-            file.write(response.content)
+        download_resource(url, filename)
 
 def merge_files():
     with open(MERGED_FILE, 'w') as merged_file:
