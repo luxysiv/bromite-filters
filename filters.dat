@@ -706,7 +706,7 @@ ccf.com.cn08@R/ad_banner/
 ÿï08@R/adcgi?
 08@R/adchoice.png
 ÿï08@R
-/adcommon?Ÿ
+/adcommon?”
 08@R/adconfig.js
 08@R/adcount.js
 ÿï08@R/add-mymsn2.gif
@@ -747,9 +747,6 @@ SÏï*
 08@R/adrecover.js
 *ÿï*
 adright.com08@R	/adright.
-)ıï*
-
-adriver.co08@R	/adriver.
 08@R	/ads-250.
 08@R/ads-async.
 %08@R/ads-blocking-detector.
@@ -785,8 +782,8 @@ eoffcn.com08@R/ads/images/
 ßï08@R/ads/index.
 /ßï*
 kuchechina.com08@R/ads/index/
-!ßï08@R/ads/leaderboard-û
-ÿï08@R/ads/outbrain?
+!ßï08@R/ads/leaderboard-
+ÿï08@R/ads/outbrain?÷
 ÿï08@R/ads/popup_
 €08@R/ads/rectangle_
 08@R/ads/revgen.
@@ -865,8 +862,8 @@ adtrack.ca08@R	/adtrack.
 "ÿï08@R/adunit/track-view
 ÿï08@R/adunits/bcid?
 08@R
-/adutil.jsÄ
-08@R/adv-banner-
+/adutil.js
+08@R/adv-banner-Î
 $08@R/adv-scroll-sidebar.js
 08@R/adv-scroll.
 &08@R/adv-socialbar-scroll.js
@@ -953,8 +950,8 @@ $ÿï08@R/alertcookies.min.js
 $ÿï08@R/amp-web-push-0.1.js
 !08@R/amp4ads-host-v0.js
 -ÿï08@R/amundi-consent-disclaimer.js
-+ÿï08@R/analytics-trackoutbound.jsù
-$ÿï08@R/analytics_cookie.js
++ÿï08@R/analytics-trackoutbound.js
+$ÿï08@R/analytics_cookie.js
 '08@R/ane-popup-1/ane-popup.js
 "08@R/ane-popup-banner.js
 ÷ï08@R/anti-adblock/
@@ -1030,9 +1027,9 @@ viet69.art*
 "ÿï08@R/banner-social.jpg
 "ÿï08@R/banner-social.png
 ÿï08@R/banner.asp?
-ÿï08@R/banner.cgi?
+ÿï08@R/banner.cgi?
 8ßï*
-research.hchs.hc.edu.tw08@R/banner.php
+research.hchs.hc.edu.tw08@R/banner.php÷
 /ÿï*
 marsvenus.vn08@R/banner/*.gif
 !„08@R/banner/affiliate/
@@ -1099,8 +1096,8 @@ $ÿï08@R/bottom-facebook.png
 0ÿï08@R /bs5-cookie-consent/js/cookie.js
 <08@R./bsa-plugin-pro-scripteo/frontend/js/script.js
 508@R'/bsa-pro-scripteo/frontend/js/script.js
-ÿï08@R/bt_pagetop.gifÌ
-ÿï08@R/bt_pagetop.png
+ÿï08@R/bt_pagetop.gif
+ÿï08@R/bt_pagetop.pngÉ
 ÿï08@R/btag.min.js
 !ÿï08@R/btn_back2top.png
 ÿï08@R/btn_gotop.gif
@@ -1188,8 +1185,8 @@ tuoitre.vn*
 soha.vn08@R	/cms/arf-
 08@R/cms_ads.js
 8ÿï08@R(/cms_cookies_acceptance/cookie_policies-
-ÿï08@R/cnil.jsã
-ÿï08@R/cnil.min.js
+ÿï08@R/cnil.js
+ÿï08@R/cnil.min.jsì
 &ÿï08@R/code/https-v2.js?uid=
  08@R/code/native.js?h=
 08@R/code/pops.js?h=
@@ -1252,8 +1249,8 @@ $ÿï08@R/cookie-banner_v2.js
 &ÿï08@R/cookie-consent-min.js
 "ÿï08@R/cookie-consent.js
 &ÿï08@R/cookie-consent.min.js
-"ÿï08@R/cookie-control.js„
-%ÿï08@R/cookie-disclaimer.js
+"ÿï08@R/cookie-control.js
+%ÿï08@R/cookie-disclaimer.jsü
 )ÿï08@R/cookie-disclaimer.min.js
 !ÿï08@R/cookie-footer.js
 ÿï08@R/cookie-hint.js
@@ -1316,8 +1313,8 @@ $ÿï08@R/cookie-popup.min.js
 #ÿï08@R/cookieAgree.min.js
 #ÿï08@R/cookieAgreement.js
 &ÿï08@R/cookieBannerLoader.js
-$ÿï08@R/cookieBubble.min.js…
-08@R/cookieConsent-
+$ÿï08@R/cookieBubble.min.js
+08@R/cookieConsent-ƒ
 #ÿï08@R/cookieDSVGo.min.js
  ÿï08@R/cookieInfofr.js
 %ÿï08@R/cookieLaw-vanilla.js
@@ -1380,8 +1377,8 @@ $ÿï08@R/cookiebanner.min.js
 (ÿï08@R/cookiebar-latest.min.js
  08@R/cookiebar.jquery.
 ÿï08@R/cookiebar.js
-!ÿï08@R/cookiebar.min.jsµ
-ÿï08@R/cookiebar/
+!ÿï08@R/cookiebar.min.js
+ÿï08@R/cookiebar/¹
 ÷ï08@R/cookiebar_
 &ÿï08@R/cookieblocker.min.css
 ÿï08@R/cookiebox.js
@@ -1444,8 +1441,8 @@ $ÿï08@R/cookiefly/frontend/
 ÿï08@R/cookielay.js
 ÿï08@R/cookielayer.js
 %ÿï08@R/cookielayover-min.js
-!ÿï08@R/cookielayover.jså
-ÿï08@R/cookielegal.js
+!ÿï08@R/cookielayover.js
+ÿï08@R/cookielegal.jsî
 $ÿï08@R/cookiemanagement.js
 !ÿï08@R/cookiemessage.js
 !ÿï08@R/cookiemonster.js
@@ -1508,8 +1505,8 @@ $ÿï08@R/cookies-info.min.js
 ÿï08@R/cookiesJS.js
 'ÿï08@R/cookiesNotification.js
  ÿï08@R/cookiesPopup.js
-$ÿï08@R/cookiesPopup.min.js•
-(ÿï08@R/cookiesWidget/widget.js
+$ÿï08@R/cookiesPopup.min.js
+(ÿï08@R/cookiesWidget/widget.js
 !ÿï08@R/cookies_alert.js
 %ÿï08@R/cookies_alert.min.js
 ÿï08@R/cookies_bar.js
@@ -1579,8 +1576,8 @@ $ÿï08@R/data-consent.min.js
 /ÿï08@R/dc-cookie-notice-bar-public.js
 "ÿï08@R/dealsaver/widget/
 *ÿï08@R/debugged-cookiebar.min.js
-08@R/deliverad/fc.jsÅ
-#ÿï08@R/delivery.php?zone=
+08@R/deliverad/fc.js
+#ÿï08@R/delivery.php?zone=¸
 ‚08@R/delivery/ag.php
  ‚08@R/delivery/apu.php
  ‚08@R/delivery/avw.php
@@ -1645,8 +1642,8 @@ Mÿï08@R=/disabled-source-disabled-right-click-and-content-protection/
  ÿï08@R/dist/orejime.js
 ÿï08@R/diyscmp.min.js
 ÿï08@R/dkmb_gdpr.js
-ÿï08@R/dl.cmp.min.js×
-08@R/dmcads_
+ÿï08@R/dl.cmp.min.js
+08@R/dmcads_×
 -ÿï08@R/dock-privacy-settings.esm.js
 08@R/doubleclick.min
 $ÿï08@R/dp_cookieconsent.js
@@ -1708,12 +1705,12 @@ $ÿï08@R/eucookielaw3.min.js
 08@R/exitpopup.js
 08@R/exitsplash.php
 08@R/exoads/
-Pıï*
+Pİï*
 exoclick.bamboohr.co.uk*
 exoclick.kayako.com08@R
 /exoclick.
-08@R/exonb/²
-08@R/exonob/
+08@R/exonb/
+08@R/exonob/¾
 ÿï08@R/exponea.min.js
 ÿï08@R/exports/tour/
  €08@R/exports/tour_20/
@@ -1783,8 +1780,8 @@ $ÿï08@R/facebook_social.png
 ÿï08@R/fcmPush.js
 9ÿï08@R)/feedburner-subscription-widget/style.css
 08@R
-/fel456.jsè
-"ÿï08@R/feoCookies.min.js
+/fel456.js
+"ÿï08@R/feoCookies.min.jsé
 +ÿï08@R/feoCookiesGtmEvents.min.js
 08@R/fgh1ijKl.js
 6*
@@ -1853,8 +1850,8 @@ $ÿï08@R/fyckld0t/ckp/fd3w4/
 &ÿï08@R/gdpr-banner/bundle.js
 ÿï08@R/gdpr-bundle.
 &ÿï08@R/gdpr-cmp-bootstrap.js
-!ÿï08@R/gdpr-cmp-stub.jsû
-#ÿï08@R/gdpr-compliance.js
+!ÿï08@R/gdpr-cmp-stub.js
+#ÿï08@R/gdpr-compliance.js‡
 ÿï08@R/gdpr-consent-
  ÿï08@R/gdpr-consent.js
 $ÿï08@R/gdpr-consent.min.js
@@ -1917,8 +1914,8 @@ Gÿï08@R7/gen-share-master/assets/js/frontend/application.min.js
  08@R/google-adsense.js
 08@R/google_adsense-
 ÿï08@R/google_caf.js?
- ÿï08@R/gospel2Truth.js›
-/ÿï08@R/gp-cookie-consent/v1/script.js
+ ÿï08@R/gospel2Truth.js
+/ÿï08@R/gp-cookie-consent/v1/script.js‹
 /ÿï08@R/gp-cookie-consent/v2/script.js
 08@R/gpt-prebid.js
 08@R/gpt.js
@@ -2011,8 +2008,8 @@ edatop.com08@R/image/ads/
 08@R/index_ads.js
 "ÿï08@R/infinity.js.aspx?
 ÿï08@R/info_cookie.js
-#ÿï08@R/infobar-cookies.jsñ
-ÿï08@R/infocookies.js
+#ÿï08@R/infobar-cookies.js
+ÿï08@R/infocookies.jsñ
 $ÿï08@R/informativa-cookie/
 &ÿï08@R/informativa_cookie.js
 *ÿï08@R/informativa_cookie.min.js
@@ -2076,8 +2073,8 @@ $ÿï08@R/jquery.cookiecuttr.
 ,ÿï08@R/jquery.eu-cookie-consent.js
 *ÿï08@R/jquery.fscookieconsent.js
 !08@R/jquery.openxtag.js
-)ÿï08@R/jquery.particleground.jsß
-08@R/jquery.peelback.
+)ÿï08@R/jquery.particleground.js
+08@R/jquery.peelback.ß
 8ÿï08@R(/jquery.shareaholic-publishers-sb.min.js
 )ÿï08@R/jquery.sharecount.min.js
 9*
@@ -2142,8 +2139,8 @@ $ÿï08@R/js/CookieManager.js
 ÿï08@R/likebox.php
 !ÿï08@R/likefacebook.jpg
 !ÿï08@R/likefacebook.png
-ÿï08@R/likegate.js²
-ÿï08@R/likesScript.js
+ÿï08@R/likegate.js
+ÿï08@R/likesScript.js°
 &ÿï08@R/lin_gdpr_cookiejar.js
 €08@R/link?z=
 (ÿï08@R/list_notificaciones.php
@@ -2211,8 +2208,8 @@ $ÿï08@R/msmCookieConsent.js
 0ÿï08@R /mws-cookie-solution-config.json
 #ÿï08@R/myshare/assets/js/
 *08@R/mysimpleads/mysa_output.php
-‚08@R/myvids/click/¼
-‚08@R/myvids/mltbn/
+‚08@R/myvids/click/
+‚08@R/myvids/mltbn/¹
 ‚08@R/myvids/mltbn2/
 ‚08@R/myvids/rek/
  ÿï08@R/nanoGDPR.min.js
@@ -2276,9 +2273,9 @@ $ÿï08@R/newsletters/widget/
 %ÿï08@R/npo_cookiecontrol.js
 "ÿï08@R/nrelate_js.min.js
 %ÿï08@R/nsd-cookie-banner.js
-+ÿï08@R/nt-cookie-form.full.min.jsš
++ÿï08@R/nt-cookie-form.full.min.js
 ÿï08@R
-/ntfc.php?
+/ntfc.php?š
 ÿï08@R/ntv.json?key=
 08@R/nwm-pw2.min.js
 @ÿï08@R0/nxst-advertising/dist/htlbid-advertising.min.js
@@ -2350,8 +2347,8 @@ toltech.cn08@R/partnerbanner.
 /ÿï08@R/pdcookiepro//views/js/front.js
 $ÿï08@R/pdcookiepro/cookie?
 ÿï08@R
-/peel.php?Æ
-08@R/peel_ads.js
+/peel.php?
+08@R/peel_ads.jsë
 08@R	/peelads/
 )ÿï08@R/perfecty-push-sdk.min.js
 "ÿï08@R/pescookies.min.js
@@ -2420,8 +2417,8 @@ $ßï08@R/plugins/ane-preroll
 ;ÿï08@R+/plugins/delicious-bookmark-button/delit.js
 Aÿï08@R1/plugins/dpSocialShare/js/jquery.dpSocialShare.js
 08@R/plugins/dx-ads/
-/ÿï08@R/plugins/easy-facebook-likebox/İ
-?ÿï08@R//plugins/easy-twitter-feeds/public/js/widget.js
+/ÿï08@R/plugins/easy-facebook-likebox/
+?ÿï08@R//plugins/easy-twitter-feeds/public/js/widget.jsÃ
 .ÿï08@R/plugins/easy-wp-cookie-popup/
  
 08@R/plugins/easyazon-
@@ -2492,8 +2489,8 @@ $÷ï08@R/plugins/wp-moreads/
 ]ÿï*
 rollingstone.com*
 deadline.com*	
-bgr.com08@R/pmc-adm-v2/build/setup-ads.js±
-%ÿï08@R/pn07uscr/f/tr/zavbn/
+bgr.com08@R/pmc-adm-v2/build/setup-ads.js
+%ÿï08@R/pn07uscr/f/tr/zavbn/ª
 !ÿï08@R/policy_cookie.js
  ÿï08@R/policyaccept.js
 #ÿï08@R/politicacookies.js
@@ -2567,8 +2564,8 @@ prebid.org08@R/prebid.
 #ÿï08@R/privacy-manager.js
 !ÿï08@R/privacy-modal.js
 "ÿï08@R/privacy/cookie.js
-6ÿï08@R&/privacy/providers/CookiesDataProviderÒ
-ÿï08@R/privacyPopup/
+6ÿï08@R&/privacy/providers/CookiesDataProvider
+ÿï08@R/privacyPopup/Ó
 "ÿï08@R/privacy_cookie.js
 "ÿï08@R/privacy_policy.js
  ÿï08@R/privacy_v2_4.js
@@ -2645,8 +2642,8 @@ $ÿï08@R/pushNotification.js
 ,ÿï08@R/pushwoosh-service-worker.js
 /ÿï08@R/pushwoosh-web-notifications.js
 1ÿï08@R!/pushwoosh-web-pushes-http-sdk.js
-ÿï08@R/pushy-ver.jsÇ
-ÿï08@R/pwcookielaw.js
+ÿï08@R/pushy-ver.js
+ÿï08@R/pwcookielaw.jsÃ
 &ÿï08@R/pwd-cookie-consent.js
 ÿï08@R/pxpcookies.js
 ÿï08@R/q/tdl/95/dnt/
@@ -2720,8 +2717,8 @@ $ÿï08@R/rodo/messages-jsonp
 &ÿï08@R/rodoinfo/*/remodal.js
 ÿï08@R
 /root/ads/
-!ÿï08@R/roularta-gdpr.jsË
-ÿï08@R/rrshare.js
+!ÿï08@R/roularta-gdpr.js
+ÿï08@R/rrshare.jsÕ
  ÿï08@R/rtiCookieLaw.js
 ÿï08@R/s.ashx?btag
 "08@R/s4s-privacy-module/
@@ -2784,8 +2781,8 @@ $ÿï08@R/sdk.privacy-center.
  ÿï08@R/search/tsc.php?
 ,ÿï08@R/section-newsletter-popup.js
 ÿï08@R/select_adv?
-%ÿï08@R/senddata?site=bannerü
-%ÿï08@R/senddata?site=inpage
+%ÿï08@R/senddata?site=banner
+%ÿï08@R/senddata?site=inpageø
 (ÿï08@R/seopress-cookies.min.js
  ‚08@R/servead/request/
 08@R/serveads.php
@@ -2851,8 +2848,8 @@ $ÿï08@R/shareicon-branding-
 /sharer.js
 %ÿï08@R/sharethis-buttons.js
 ÿï08@R/sharethis.js
-ÿï08@R/sharetool.php?€
-!ÿï08@R/sharetw_icon.png
+ÿï08@R/sharetool.php?
+!ÿï08@R/sharetw_icon.pngı
 $ÿï08@R/shariff.complete.js
 ÿï08@R/shariff.min.js
 !ÿï08@R/sharing/sprites/
@@ -2923,8 +2920,8 @@ $ÿï08@R/snack-cmp_v2.min.js
 ÿï08@R/sncmp.min.js
 8ÿï08@R(/sni_cookie_privacy/js/cookie_consent.js
 ÿï08@R/snow-fall.js
- ÿï08@R/snow-falling.jsŠ
-ÿï08@R/snow-storm.js
+ ÿï08@R/snow-falling.js
+ÿï08@R/snow-storm.js‘
 ÿï08@R/snow.min.js
 ÿï08@R/snow/snow.js
 'ÿï08@R/snowfall-master.min.js
@@ -2989,8 +2986,8 @@ Pÿï08@R@/social-proof-testimonials-slider/admin/js/slick-block-editor.j
 08@R	/spc.php?
 08@R
 /spcjs.php
-4ÿï08@R$/spcookieconsent/assets/js/script.jsã
-%08@R/special/specialCtrl.js
+4ÿï08@R$/spcookieconsent/assets/js/script.js
+%08@R/special/specialCtrl.js×
 !ÿï08@R/spmsg20180522.js
 08@R/sponsor-ad
 08@R/sponsorad.jpg
@@ -3072,8 +3069,8 @@ top1sex.me08@R/theme/custom.int.js
 Fÿï08@R6/thrive-leads/thrive-dashboard/js/dist/frontend.min.js
 #ÿï08@R/tiny-cookie.min.js
 ÿï08@R/tm.cookie.js
-08@R/tmbi-a9-header-·
-08@R/tncms/ads/
+08@R/tmbi-a9-header-
+08@R/tncms/ads/¾
 08@R	/tnt.ads.
 !ÿï08@R/tnzcookie/views/
 ÿï08@R/to_pagetop.png
@@ -3152,8 +3149,8 @@ $ÿï08@R/util/gdpr/geo_v1.js
 $ÿï08@R/util/gdpr/geo_v3.js
 ÿï08@R/utx?cb=
 0*
-cdn2.kenhvn2.com08@R/v/*/vast.jsš
- ÿï08@R/v1/newsletters/
+cdn2.kenhvn2.com08@R/v/*/vast.js
+ ÿï08@R/v1/newsletters/£
 ÿï08@R/v2/a/push/js/
 ÿï08@R
 /v2/a/skm/
@@ -3238,8 +3235,8 @@ $ÿï08@R/whatsapp_button.php
 !ÿï08@R/whatsappshare.js
 ÿï08@R/widget-advert?
 ÿï08@R/widget/share?
-ÿï08@R/widget/share_©
-)ÿï08@R/widget_cookieschecker.js
+ÿï08@R/widget/share_
+)ÿï08@R/widget_cookieschecker.jsª
 /ÿï08@R/widget_privacy/scripts/init.js
 !ÿï08@R/widgets/sharing-
 !ÿï08@R/widgets/socials/
@@ -3321,8 +3318,8 @@ Fÿï08@R6/wp-tarteaucitron-js/js/tarteaucitron/tarteaucitron.js
 08@R/wpadgu-clicks.js
 !08@R/wpadgu-frontend.js
 !08@R/wpbanners_show.php
-%ÿï08@R/wpca-frontend.min.js½
-*ÿï08@R/wpfront-scroll-top.min.js
+%ÿï08@R/wpca-frontend.min.js
+*ÿï08@R/wpfront-scroll-top.min.js«
 #ÿï08@R/wpie-common.min.js
  ÿï08@R/wpjslib-ecom.js
  ÿï08@R/wpjslib-sgap.js
@@ -4317,8 +4314,8 @@ bÿë*
 ÿï08@R	=336x280,
 ÿï08@R=468x60/
 ÿï08@R=468x60_
-ÿï08@R=468x80_Í³
-ÿï08@R=728x90/
+ÿï08@R=468x80_
+ÿï08@R=728x90/õ³
 ÿï08@R=half-page-ad&
 ÿï08@R?ab=1&zoneid=
 ,ÿï*
@@ -4925,7 +4922,7 @@ wetter.com*
 vox.de08@R/message?message_id=
 5ÿï*
 myhomebook.de08@R/notification.min.js
-„/ÿï*
+“/ÿï*
 skateboarding.transworld.net*
 costcobusinessdelivery.com*
 bigbearmountainresort.com*
@@ -5151,6 +5148,7 @@ wetter.com*
 wrangler.com*
 1001jeux.fr*
 avon.uk.com*
+booking.com*
 cbsnews.com*
 ci.ford.com*
 de.hgtv.com*
@@ -5812,8 +5810,8 @@ I"*
 5*
 extrarebates.com08@Rad.linksynergy.com^
 Oÿï*
-programs.sbs.co.kr08@R)ad.smartmediarep.com/NetInsight/video/smr&
-1ÿï08@R!adap.tv/redir/javascript/vpaid.js
+programs.sbs.co.kr08@R)ad.smartmediarep.com/NetInsight/video/smr
+1ÿï08@R!adap.tv/redir/javascript/vpaid.jsª&
 5ÿï08@R%adblockplus.org/img/cookie-notice.svg
 "08@Raddicted.es^*/ad728-
 .ÿï08@Radfurikun.jp/adfurikun/images/
@@ -6003,9 +6001,9 @@ Pÿï08@R@amigosmuseoreinasofia.org/assets/js/cookiecuttr/jquery.cookie.j
 electrek.co*
 
 lelum.pl08@Rampproject.org^*/amp-consent-
->ÿï08@R.anadolu.edu.tr/assets/js/jquery.smartbanner.jsş*
+>ÿï08@R.anadolu.edu.tr/assets/js/jquery.smartbanner.js
 >ÿï*
-emarketer.com08@Ranalytics.jst.ai/api/session^
+emarketer.com08@Ranalytics.jst.ai/api/session^ş*
 5ÿï08@R%andromede-cms.com/vendor/rgpd/rgpd.js
 +ÿï08@Ranime47.cam/ads/v/8.26.9/jw
 5ÿï08@R%anime47.cam/ads/v/8.26.9/translations
@@ -6218,8 +6216,8 @@ Fÿï08@R6authy.com/wp-content/themes/authy/assets/images/icons/
 %08@Ravclub.com^*/adManager.
 Jÿï08@R:az.hp.transer.com/content/dam/isetan_mitsukoshi/advertise/
 Oÿï08@R?az.hpcn.transer-cn.com/content/dam/isetan_mitsukoshi/advertise/
-208@R$banki.ru/bitrix/*/advertising.block/À!
-> 08@R0banking.fyrst.de/translations/*-cookiedisclaimer
+208@R$banki.ru/bitrix/*/advertising.block/
+> 08@R0banking.fyrst.de/translations/*-cookiedisclaimerÖ!
 & 08@Rbankofamerica.com^*?adx=
 ?ÿï08@R/banmancounselling.com/wp-content/themes/banman/
 308@R%banner-hiroba.com/wp-content/uploads/
@@ -6279,6 +6277,8 @@ F08@R8brandexperience-group.com/assets/js/cookie.notice.min.js
 deezer.com08@Rbraze.com/api/
 C08@R5britannica.com/mendel-resources/3-52/js/libs/prebid4.
 C08@R5broedersgezondheidswinkel.nl/plugins/gdpr/gdpr.min.js
+T*
+booking.com08@R7bstatic.com/libs/privacy-consent/*/cookie-banner.min.js
 )08@Rbudgetthuis.nl^*/cookieBar-
 4ÿï*
 scan-manga.com08@Rc.ad6media.fr/l.js
@@ -7911,7 +7911,7 @@ nypost.com08@R!newscgp.com/prod/prebid/nyp/pb.js
 , 08@Rnpr.org/sponsorship/targeting/
 7ÿï*
 mcclatchydc.com08@Rntv.io/serve/load.js
-+08@Rnutrija.com/js/*_backtotop.js·.
++08@Rnutrija.com/js/*_backtotop.jsÂ.
 )08@Rnuxt.com/_nuxt/SocialLinks.
 -ÿï08@Roakley.com^*/notifications.js
 'ÿï08@Roauth.vk.com/authorize?
@@ -8104,10 +8104,11 @@ i*
 justthenews.com*
 ladbible.com*
 explosm.net08@Rplayer.avplayer.com^
-U*
+`*
 theautopian.com*
 mm-watch.com*
-usatoday.com08@Rplayer.ex.co/player/
+usatoday.com*	
+ydr.com08@Rplayer.ex.co/player/
 '08@Rplayer.fm^*/social-icons/
 2 *
 
@@ -9159,7 +9160,7 @@ R *
 -08@Rvesmir.cz/components/eu_cookie/
 =ÿï*
 	humix.com08@R videosvc.ezoic.com/play?videoID=
-808@R*virginmediatelevision.ie/*/cookienotice.jsÍ.
+808@R*virginmediatelevision.ie/*/cookienotice.js½,
 /
 08@R!vistaalegre.com/public/js/vendor/
 9*
@@ -9316,27 +9317,6 @@ P *
 .*
 standard.co.uk08@Rz.moatads.com^
 508@R'zappo.fr/assets/plugins/bwp-minify/min/
-ßÿï*
-support.zonealarm.com*
-consumercellular.com*
-portal.afterpay.com*
-streamelements.com*
-myurbanjungle.com*
-help.textnow.com*
-investopedia.com*
-app.buidlbox.io*
-bitsacard.com*
-creative.com*
-meundies.com*
-superbet.pl*
-xjuggler.de*
-
-jeedoo.com*
-
-pionex.com*
-
-skroutz.gr*
-	nvidia.eu08@Rzdassets.com/ekr/snippet.js
 08@Rzeebiz.com/ads/
 Q 08@RCzensus2022.de/SiteGlobals/Modules/CookieBanner/*/CookieBanner.json?
 ÿÿï*
@@ -9388,10 +9368,10 @@ Q 08@RCzensus2022.de/SiteGlobals/Modules/CookieBanner/*/CookieBanner.jso
 downdetector.sk*
 downdetector.tw*
 speedtest.net*	
-ign.com08@Rziffstatic.com^*/zdconsent.jsƒ
+ign.com08@Rziffstatic.com^*/zdconsent.js
 P *
 manageengine.com*
-zohopublic.com08@Rzohopublic.com^*/ADManager_
+zohopublic.com08@Rzohopublic.com^*/ADManager_Ë
 8ÿï08@R(zoominfo.com/_next/*/privacy-policy.json
 ÿï08@R	_120_600.
 ÿï08@R	_120_600_
@@ -9454,8 +9434,8 @@ P *
 ÿï08@R	_468x118.
 ÿï08@R	_468x120.
 ÿï08@R_468x60-
-ÿï08@R_468x60.Ì
-ÿï08@R_468x60/
+ÿï08@R_468x60.
+ÿï08@R_468x60/Ï
 ÿï08@R_468x60_
 ÿï08@R	_468x60b.
 ÿï08@R_468x80-
@@ -9525,8 +9505,8 @@ _adbanner_
 _adchoice.
 ÿï08@R_adchoices.
 ÿï08@R_adhome.
-ÿï08@R	_adlabel_ç
-ÿï08@R_adnetwork.
+ÿï08@R	_adlabel_
+ÿï08@R_adnetwork.è
 ÿï08@R_adpartner.
 ÿï08@R
 _adplugin.
@@ -9601,8 +9581,8 @@ _prebid.js
 ÿï08@R_skinad.
 ÿï08@R
 _small_ad.
-ÿï08@R_small_share.Ì,
-ÿï08@R_social-bar/
+ÿï08@R_small_share.
+ÿï08@R_social-bar/ø,
 ßï08@R_social_badge_
 !ÿï08@R_social_bookmark/
 "ÿï08@R_social_bookmarks/
@@ -9669,8 +9649,8 @@ Vÿï08@RFentrepreneur.com#?#.p-6.justify-center:-abp-contains(Daily news
 Pÿï08@R@erlang-solutions.com#?#.sidebar-sticky:-abp-contains(newsletter)
 Íÿï08@R¼euronews.com#?#.m-object:has(.m-object__quote:-abp-contains(/In partnership with|En partenariat avec|Mit UnterstÃ¼tzung von|In collaborazione con|En colaboraciÃ³n con|Em parceria com|Ğ¡Ğ¾Ğ²Ğ¼ĞµÑÑ‚Ğ½Ğ¾ Ñ|ile birlikte|Î£Îµ ÏƒÏ…Î½ÎµÏÎ³Î±ÏƒÎ¯Î± Î¼Îµ|EgyÃ¼ttmÅ±kÃ¶dÃ©sben a|Ø¨Ø§ Ù‡Ù…Ú©Ø§Ø±ÛŒ|Ø¨Ø§Ù„Ù…Ø´Ø§Ø±ÙƒØ© Ù…Ø¹/))
 Aÿï08@R1ew.com#?#.comp > strong:-abp-contains(newsletter)
-Tÿï08@RDeztv.tf,eztv.yt,123unblock.bar#?#tbody:-abp-contains(WARNING! Use a)±9
-Hÿï08@R8fastcompany.com#?#.pb-1.gap-4:-abp-contains(Sign up for)
+Tÿï08@RDeztv.tf,eztv.yt,123unblock.bar#?#tbody:-abp-contains(WARNING! Use a)
+Hÿï08@R8fastcompany.com#?#.pb-1.gap-4:-abp-contains(Sign up for)µ9
 Aÿï08@R1fastcompany.com#?#.pb-6:-abp-contains(Newsletter)
 yÿï08@Rifilehippo.com#?#article.card-article:-abp-has(span.card-article__author:-abp-contains(Sponsored Content))
 Sÿï08@RCfinsmes.com#?#.td-block-title.block-title:-abp-contains(NEWSLETTER)
@@ -9733,8 +9713,8 @@ Wÿï08@RGnewsroom.ucla.edu#?#.promo-card-primary:-abp-contains(Check you
 Lÿï08@R<nordstrom.com#?#article:has(.Yw5es:-abp-contains(Sponsored))
 sÿï08@Rcnordstrom.com#?#ul[style^="padding: 0px; position: relative;"] > li[class]:-abp-contains(Sponsored)
 Rÿï08@RBnotateslaapp.com#?#.mobile-only-on-col-ab:-abp-contains(Subscribe)
-Pÿï08@R@notthebee.com#?#.bg-gray-50:-abp-contains(Want to stay informed)½+
-Lÿï08@R<officialcharts.com#?#.border-brand-pink:-abp-contains(inbox)
+Pÿï08@R@notthebee.com#?#.bg-gray-50:-abp-contains(Want to stay informed)
+Lÿï08@R<officialcharts.com#?#.border-brand-pink:-abp-contains(inbox)²+
 Aÿï08@R1okxxx1.com#?#.bn-title:-abp-contains(Advertising)
 Uÿï08@REpcmag.com#?#.md\:decorative-horizontal-lines:-abp-contains(subscribe)
 Cÿï08@R3people.com#?#strong:-abp-contains(daily newsletter)
@@ -9797,8 +9777,8 @@ Eÿï08@R5theskimm.com#?#.bg-soft-teal:-abp-contains(Subscribe)
 Mÿï08@R=thestreamable.com#?#.rounded-3.px-5:-abp-contains(Newsletter)
 Jÿï08@R:thetransmitter.org#?#.bg-dark-brown:-abp-contains(Sign up)
 Zÿï08@RJtossinggames.com#?#tbody:-abp-contains(Please visit our below advertisers)
-Tÿï08@RDtrends.gab.com#?#li.list-group-item:-abp-contains(Sponsored content)Ó
-Aÿï08@R1tripadvisor.com#?#.AaFRW:-abp-contains(Sponsored)
+Tÿï08@RDtrends.gab.com#?#li.list-group-item:-abp-contains(Sponsored content)
+Aÿï08@R1tripadvisor.com#?#.AaFRW:-abp-contains(Sponsored)«
 `ÿï08@RPtripadvisor.com#?#.cAWGu:-abp-has(a:-abp-contains(Similar Sponsored Properties))
 Aÿï08@R1tripadvisor.com#?#.tkvEM:-abp-contains(Sponsored)
 mÿï08@R]tripadvisor.com#?#[data-automation="crossSellShelf"] div:has(> span:-abp-contains(Sponsored))
@@ -9867,8 +9847,8 @@ $"*
 ÿï08@R	0cdn.xyz^
 ÿï08@R0cf.io^
 ÿï08@R0d076be0f4.com^
-ÿï08@R0eade9dd8d.com^ğ
-ÿï08@R	0emn.com^
+ÿï08@R0eade9dd8d.com^
+ÿï08@R	0emn.com^ô
 'ÿï08@R0f461325bf56c3e1b9.com^
 ÿï08@R	0fmm.com^
 %ÿï08@R0gw7e6s3wrao9y3q.pro^
@@ -9932,8 +9912,8 @@ $ÿï08@R123animehub.cc/final
 ÿï08@R137kfj65k.de^
 ÿï08@R13b3403320.com^
 ÿï08@R13b696a4c1.com^
-ÿï08@R13c4491879.com^ü
-ÿï08@R13p76nnir.de^
+ÿï08@R13c4491879.com^
+ÿï08@R13p76nnir.de^ˆ
 ÿï08@R141.98.82.232^
 ÿï08@R142.91.159.
 )ÿï08@R1437953666.rsc.cdn77.org^
@@ -9996,8 +9976,8 @@ $ÿï08@R123animehub.cc/final
 2ÿï08@R"18onlygirls.tv/wp-content/banners/
 #ÿï08@R18porn.sex/ptr18.js
 +€08@R18teensex.tv/player/html.php
-ÿï08@R18tlm4jee.de^•
-)ÿï08@R1932195014.rsc.cdn77.org^
+ÿï08@R18tlm4jee.de^
+)ÿï08@R1932195014.rsc.cdn77.org^Š
 ÿï08@R194.26.232.61^
 ÿï08@R19515bia.de^
 ÿï08@R19d7fd2ed2.com^
@@ -10063,8 +10043,8 @@ $ÿï08@R123animehub.cc/final
 ÿï08@R1p8ln1dtr.de^
 ÿï08@R1phads.com^
 ÿï08@R1pqfa71mc.de^
-ÿï08@R	1push.io^–
-ÿï08@R1qgxtxd2n.com^
+ÿï08@R	1push.io^
+ÿï08@R1qgxtxd2n.com^”
 ÿï08@R1r4g65b63.de^
 !ÿï08@R1r8435gsqldr.com^
 ÿï08@R1redira.com^
@@ -10132,8 +10112,8 @@ $ÿï08@R123animehub.cc/final
 "ÿï08@R20trackdomain.com^
 ÿï08@R20tracks.com^
 ÿï08@R2122aaa0e5.com^
-!ÿï08@R2137dc12f9d8.com^È
-ÿï08@R218emo1t.de^
+!ÿï08@R2137dc12f9d8.com^
+ÿï08@R218emo1t.de^Í
 ÿï08@R21hn4b64m.de^
 "ÿï08@R21sexturycash.com^
 ÿï08@R
@@ -10200,8 +10180,8 @@ $ÿï08@R123animehub.cc/final
 "ÿï08@R24x7adservice.com^
 ÿï08@R25073bb296.com^
 ÿï08@R250f0ma86.de^
-ÿï08@R250f851761.com^ 
-!ÿï08@R2520june2024.com^
+ÿï08@R250f851761.com^
+!ÿï08@R2520june2024.com^œ
 ÿï08@R	254a.com^
 ÿï08@R258a912d15.com^
 ÿï08@R25obpfr.de^
@@ -10265,8 +10245,8 @@ $ÿï08@R2cnjuh34jbpoint.com^
 ÿï08@R2h4els889.com^
 ÿï08@R2h6skj2da.de^
 ÿï08@R2hdn.online^
-ÿï08@R2hisnd.com^–
-ÿï08@R2hpb1i5th.de^
+ÿï08@R2hisnd.com^
+ÿï08@R2hpb1i5th.de^–
 ÿï08@R2i30i8h6i.de^
 ÿï08@R2i87bpcbf.de^
 ÿï08@R2iiyrxk0.com^
@@ -10330,8 +10310,8 @@ $ÿï08@R2watchmygf.com/spot/
 ÿï08@R30d5shnjq.de^
 ÿï08@R30e4a37eb7.com^
 ÿï08@R30hccor10.de^
-ÿï08@R30koqnlks.de^¬
-ÿï08@R30m4hpei1.de^
+ÿï08@R30koqnlks.de^
+ÿï08@R30m4hpei1.de^­
 ÿï08@R30p70ar8m.de^
 ÿï08@R30pk41r1i.de^
 ÿï08@R30se9p8a0.de^
@@ -10395,8 +10375,8 @@ $ÿï08@R38fbsbhhg0702m.shop^
 ÿï08@R3b1ac6ca25.com^
 ÿï08@R3bc9b1b89c.com^
 ÿï08@R3bq57qu8o.com^
-ÿï08@R3cb9b57efc.com^¸
-ÿï08@R3cg6sa78w.com^
+ÿï08@R3cb9b57efc.com^
+ÿï08@R3cg6sa78w.com^¹
 ÿï08@R3d5affba28.com^
 5ÿï08@R%3dfcff2ec15099df0a24ad2cee74f21a.com^
 ÿï08@R3e6072834f.com^
@@ -10462,8 +10442,8 @@ $ÿï08@R38fbsbhhg0702m.shop^
 'ÿï08@R478789.everydayporn.co^
 ÿï08@R47c8d48301.com^
 ÿï08@R485f197673.com^
-ÿï08@R49b6b77e56.com^Ğ
-ÿï08@R49d4db4864.com^
+ÿï08@R49b6b77e56.com^
+ÿï08@R49d4db4864.com^Ï
 ÿï08@R4a9517991d.com^
 ÿï08@R4affiliate.net^
 $ÿï08@R4b6994dfa47cee4.com^
@@ -10528,8 +10508,8 @@ $€08@R4fcams.com/in/?track=
 ÿï08@R51.77.227.99^
 ÿï08@R51.89.187.136^
 ÿï08@R51.89.187.137^
-ÿï08@R51.89.187.138^¦
-ÿï08@R51.89.187.139^
+ÿï08@R51.89.187.138^
+ÿï08@R51.89.187.139^§
 ÿï08@R51.89.187.140^
 ÿï08@R51.89.187.141^
 ÿï08@R51.89.187.142^
@@ -10593,13 +10573,14 @@ $€08@R4fcams.com/in/?track=
 ÿï08@R6001628d3d.com^
 ÿï08@R	600z.com^
 ÿï08@R6061de8597.com^
-!ÿï08@R6068a17eed25.com^Ë
-ÿï08@R60739ebc42.com^
+!ÿï08@R6068a17eed25.com^
+ÿï08@R60739ebc42.com^Ë
 ÿï08@R61598081d6.com^
 ÿï08@R6179b859b8.com^
 (ÿï08@R61serve.everydayporn.co^
 ÿï08@R61t2ll6yy.com^
 ÿï08@R61zdn1c9.skin^
+ÿï08@R62a77005fb.com^
 ÿï08@R62ca04e27a.com^
 ÿï08@R63912b9175.com^
 ÿï08@R639c909d45.com^
@@ -15851,15 +15832,14 @@ braze.com^
 )ÿï08@Rbrewailmentsubstance.com^
  ÿï08@Rbrewingjoie.com^
 ÿï08@Rbrewsuper.com^
-#ÿï08@Rbrick.xhamster.com^ã
+#ÿï08@Rbrick.xhamster.com^É
 $ÿï08@Rbrick.xhamster.desi^
 $ÿï08@Rbrick.xhamster2.com^
 $ÿï08@Rbrick.xhamster3.com^
 ÿï08@Rbricks-co.com^
 1ÿï08@R!bricodepot.ro^*/cookie-wrapper.js
-Í*
-thechelseachronicle.com*
-washingtonexaminer.com*
+³*
+thechelseachronicle.com*
 nottinghamforest.news*
 geordiebootboys.com*
 deepdaledigest.com*
@@ -29790,7 +29770,7 @@ Kÿï08@R;lacompagnie.com/Content/dist/templates/common/popupCookies/
 +ÿï08@Rladbrokesaffiliates.com.au^
 ÿï08@R
 ladnet.co^
-ÿï08@Rladnova.info^Ê
+ÿï08@Rladnova.info^Ë
 !ÿï08@Rladrecaidroo.com^
 ÿï08@Rladsabs.com^
 ÿï08@Rladsans.com^
@@ -29849,13 +29829,14 @@ $ÿï08@Rlaimeerulaujaul.net^
 ÿï08@Rlamplynx.com^
 .ÿï08@Rlamppostharmoniousunaware.com^
 $ÿï08@Rlampshademirror.com^
+ ÿï08@Rlamrissmyol.com^
 #ÿï08@Rlanceforthwith.com^
 ÿï08@Rlandelcut.com^
 #ÿï08@Rlanding.meendo.com^
 (ÿï08@Rlanditmounttheworld.com^
 'ÿï08@Rlandmarkfootnotary.com^
-$ÿï08@Rlandscapeuproar.com^
-ÿï08@Rlandwaycru.com^ü
+$ÿï08@Rlandscapeuproar.com^ş
+ÿï08@Rlandwaycru.com^
  ÿï08@Rlaneyounger.com^
 (ÿï08@Rlanguidintentgained.com^
 'ÿï08@Rlanguishnervousroe.com^
@@ -29918,8 +29899,8 @@ $ÿï08@Rlarkenjoyedborn.com^
 #ÿï08@Rlaughedaffront.com^
 )ÿï08@Rlaughedrevealedpears.com^
 -ÿï08@Rlaughingrecordinggossipy.com^
--ÿï08@Rlaughteroccasionallywarp.com^
-ÿï08@Rlaugoust.com^™
+-ÿï08@Rlaughteroccasionallywarp.com^•
+ÿï08@Rlaugoust.com^
 ÿï08@Rlauhefoo.com^
 ÿï08@Rlauhoosh.net^
 ÿï08@Rlaukaivi.net^
@@ -29982,8 +29963,8 @@ $ÿï08@Rlcolumnstoodth.info^
  ÿï08@Rleadadvert.info^
 "€08@Rleadback.ru/sounds/
 ÿï08@Rleadbolt.net^
-ÿï08@Rleadcola.com^
-!ÿï08@Rleadenretain.com^´
+ÿï08@Rleadcola.com^´
+!ÿï08@Rleadenretain.com^
 7ÿï08@R'leadfamly.com/campaign/sdk/popup.min.js
 ÿï08@Rleadfamly.com^
 '€08@Rleadgenic.ru/production/
@@ -30046,8 +30027,8 @@ $ÿï08@Rleeteehigloothu.net^
 %ÿï08@Rleforgotteddisg.info^
 ÿï08@Rleft-world.com^
 'ÿï08@Rleftoverstatistics.com^
-+ÿï08@Rleftshoemakerexpecting.com^
-!ÿï08@Rlegal-weight.pro^µ
++ÿï08@Rleftshoemakerexpecting.com^¥
+!ÿï08@Rlegal-weight.pro^
 3ÿï08@R#legalblink.it/api/cookie-solutions?
 !ÿï08@Rlegalchained.com^
 #ÿï08@Rlegalizedistil.com^
@@ -30110,8 +30091,8 @@ $ÿï08@Rlernodydenknow.info^
 ÿï08@Rleroaboy.net^
 ÿï08@Rleroonge.xyz^
 ÿï08@Rlerrdoriak.com^
-$ÿï08@Rlesbianstate.com/ai/
-1ÿï08@R!lesmeilleurs-jeux.net/images/ban/¿
+$ÿï08@Rlesbianstate.com/ai/Ğ
+1ÿï08@R!lesmeilleurs-jeux.net/images/ban/
 3ÿï08@R#lespagesjaunesafrique.com/bandeaux/
  ÿï08@Rlessbuttons.com^
 *ÿï08@Rlessemf.com/images/banner-
@@ -30180,8 +30161,8 @@ liadm.com^
 !ÿï08@Rliambafaying.com^
 ÿï08@Rliaoptse.net^
 ÿï08@Rliarcram.com^
-)ÿï08@Rlibcdnjs.com/js/script.js
- ÿï08@Rlibedgolart.com^¬
+)ÿï08@Rlibcdnjs.com/js/script.js¬
+ ÿï08@Rlibedgolart.com^
 %ÿï08@Rlibellousstaunch.com^
 %ÿï08@Rlibelradioactive.com^
 ÿï08@Rlibertycdn.com^
@@ -30245,8 +30226,8 @@ $ÿï08@Rlikenessmockery.com^
 2ÿï08@R"likinginconvenientpolitically.com^
 #ÿï08@Rlikropersourgu.net^
  ÿï08@Rliktufmruav.com^
-"ÿï08@Rlikutaencoil.shop^
- ÿï08@Rlilacbeaten.com^Ø
+"ÿï08@Rlikutaencoil.shop^×
+ ÿï08@Rlilacbeaten.com^
 ÿï08@Rlilcybu.com^
 #ÿï08@Rlillytrowman.click^
 ÿï08@Rlilonews.com^
@@ -30316,8 +30297,8 @@ lin01.bid^
 linker.ba^
 ÿï08@R
 linker.hr^
-ÿï08@Rlinkev.com^
-!ÿï08@Rlinkexchange.com^¸
+ÿï08@Rlinkev.com^¿
+!ÿï08@Rlinkexchange.com^
 #ÿï08@Rlinkexchangers.net^
 ÿï08@Rlinkgrand.com^
 ÿï08@Rlinkhaitao.com^
@@ -30381,9 +30362,9 @@ $ÿï08@Rliteraryonboard.com^
 $ÿï08@Rlittlecutelions.com^
 ,ÿï08@Rlittleearthquakeprivacy.com^
 (ÿï08@Rlittleworthjuvenile.com^
-!ÿï08@Rlitukydteamw.com^
+!ÿï08@Rlitukydteamw.com^†
 ÿï08@R
-litvp.com^
+litvp.com^
 $ÿï08@Rlivabledefamer.shop^
  ÿï08@Rlive-a-live.com^
 9ÿï*
@@ -30450,8 +30431,8 @@ $ÿï08@Rljsr-ijbcxvq.online^
  ÿï08@Rlluwrenwsfh.xyz^
 "ÿï08@Rllyighaboveth.com^
 !ÿï08@Rlmaghokalqji.xyz^
-ÿï08@Rlmdfmd.com^
-"ÿï08@Rlmeegwxcasdyo.com^¦
+ÿï08@Rlmdfmd.com^¨
+"ÿï08@Rlmeegwxcasdyo.com^
 ÿï08@Rlmgyjug31.com^
 ÿï08@R
 lmj8i.pro^
@@ -30517,8 +30498,8 @@ $ÿï08@Rlockeddippickle.com^
 "ÿï08@Rlockerdomecdn.com^
 "ÿï08@Rlockersatelic.cam^
 "ÿï08@Rlockerstagger.com^
-%ÿï08@Rlocketcattishson.com^
- ÿï08@Rlocketthose.com^è
+%ÿï08@Rlocketcattishson.com^Ú
+ ÿï08@Rlocketthose.com^
 5ÿï08@R%lockingcooperationoverprotective.com^
 *ÿï08@Rlockingvesselbaseless.com^
 !08@Rloclipsex.net^*.gif
@@ -30582,8 +30563,8 @@ $ÿï08@Rlontent.powzerz.lol^
  ÿï08@Rlookfornews.net^
 ÿï08@Rlookinews.com^
  ÿï08@Rlookingnull.com^
-+ÿï08@Rlookoutabjectinterfere.com^
-.ÿï08@Rlooksblazeconfidentiality.com^¾
++ÿï08@Rlookoutabjectinterfere.com^Ï
+.ÿï08@Rlooksblazeconfidentiality.com^
 'ÿï08@Rlooksdashboardcome.com^
 #ÿï08@Rlookshouldthin.com^
 ÿï08@Rlooksmart.com^
@@ -30647,8 +30628,8 @@ $ÿï08@Rlordeeksogoatee.net^
 !ÿï08@Rlouderwalnut.com^
 #ÿï08@Rloudlongerfolk.com^
 %ÿï08@Rlouisedistanthat.com^
-ÿï08@Rloukoost.net^
-ÿï08@Rloulouly.net^Ì
+ÿï08@Rloukoost.net^Ë
+ÿï08@Rloulouly.net^
 #ÿï08@Rloulowainoopsu.net^
 !ÿï08@Rloungetackle.com^
 !ÿï08@Rloungyserger.com^
@@ -30714,8 +30695,8 @@ lpaoz.xyz^
 !ÿï08@Rlpawakkabpho.com^
 ÿï08@Rlpeqztx.com^
 #ÿï08@Rlpernedasesium.com^
-ÿï08@Rlpewiduqiq.com^
-ÿï08@Rlpmcr1h7z.com^–
+ÿï08@Rlpewiduqiq.com^
+ÿï08@Rlpmcr1h7z.com^
 ÿï08@Rlpmugcevks.com^
 /€08@R lpsnmedia.net/le_unified_window/
 ÿï08@Rlptiljy.com^
@@ -30781,8 +30762,8 @@ $ÿï08@Rlucidityhormone.com^
 ÿï08@Rludsaichid.net^
 !ÿï08@Rludxivsakalg.com^
 'ÿï08@Rluggagebuttonlocum.com^
- ÿï08@Rluhhcodutax.com^
-%ÿï08@Rlukeaccesspopped.com^ø
+ ÿï08@Rluhhcodutax.com^ÿ
+%ÿï08@Rlukeaccesspopped.com^
 !ÿï08@Rlukeexposure.com^
 ÿï08@Rlukomol.com^
 ÿï08@Rlukpush.com^
@@ -30848,8 +30829,8 @@ lustre.ai^
 ÿï08@R
 luxup2.ru^
 ÿï08@Rluxupadva.com^
-ÿï08@Rluxupcdna.com^
-ÿï08@Rluxupcdnb.com^Œ
+ÿï08@Rluxupcdna.com^
+ÿï08@Rluxupcdnb.com^
 ÿï08@Rluxupcdnc.com^
 (ÿï08@Rluxuriousannotation.com^
 +ÿï08@Rluxuriousbreastfeeding.com^
@@ -30918,9 +30899,9 @@ lzhsm.xyz^
  ÿï08@Rlzoasvofvzw.com^
  ÿï08@Rlzukrobrykk.com^
 ÿï08@Rlzxdx24yib.com^
-ÿï08@Rm-fmfadcfm.icu^
+ÿï08@Rm-fmfadcfm.icu^Û
 ÿï08@R
-m-rtb.com^İ
+m-rtb.com^
 ÿï08@Rm.xrum.info^
 9ÿï*
 youtube.com08@Rm.youtube.com/get_midroll_
@@ -30986,8 +30967,8 @@ $ÿï08@Rmadrogueindulge.com^
 ÿï08@Rmadslimz.com^
 ÿï08@Rmadsone.com^
 ÿï08@Rmadspmz.com^
-ÿï08@Rmadurird.com^
-ÿï08@Rmaebtjn.com^‹
+ÿï08@Rmadurird.com^Š
+ÿï08@Rmaebtjn.com^
 'ÿï08@Rmaestroconfederate.com^
 "ÿï08@Rmafflerplaids.com^
 'ÿï08@Rmafiaemptyknitting.com^
@@ -31051,8 +31032,8 @@ $ÿï08@Rmaimcatssystems.com^
  ÿï08@Rmain-ti-cod.com^
 ÿï08@Rmainadv.com^
 ÿï08@Rmainapiary.com^
-ÿï08@Rmainclc.com^
-ÿï08@Rmainroll.com^ê
+ÿï08@Rmainclc.com^å
+ÿï08@Rmainroll.com^
 'ÿï08@Rmaintainedencircle.com^
 'ÿï08@Rmaintenancewinning.com^
 ÿï08@Rmaipheeg.com^
@@ -31115,8 +31096,8 @@ $ÿï08@Rmalowbowohefle.info^
 (ÿï08@Rmammaclassesofficer.com^
 ÿï08@Rmammalbuy.com^
 %ÿï08@Rmammaldealbustle.com^
-+ÿï08@Rmammalsidewaysthankful.com^
-"ÿï08@Rmammocksambos.com^ã
++ÿï08@Rmammalsidewaysthankful.com^á
+"ÿï08@Rmammocksambos.com^
 ÿï08@Rmamydirect.com^
 %ÿï08@Rman2ch5836dester.com^
 #ÿï08@Rmanagementhans.com^
@@ -31179,8 +31160,8 @@ $ÿï08@Rmantisadnetwork.com^
 ÿï08@Rmapchilde.top^
 ÿï08@Rmapeeree.xyz^
 ÿï08@Rmaper.info^
-ÿï08@Rmaphuahin.com^
-$ÿï08@Rmaplecurriculum.com^
+ÿï08@Rmaphuahin.com^’
+$ÿï08@Rmaplecurriculum.com^
 ÿï08@Rmaquiags.com^
 !ÿï08@Rmarapcana.online^
 /ÿï08@Rmarawaresearch.com/js/wosevu.js
@@ -31243,8 +31224,8 @@ $ÿï08@Rmarketinghinder.com^
 *ÿï08@Rmarryingsakesarcastic.com^
 ÿï08@Rmarsads.com^
  ÿï08@Rmarshagalea.com^
-+ÿï08@Rmarshalembeddedtreated.com^
-ÿï08@Rmarshalget.com^­
++ÿï08@Rmarshalembeddedtreated.com^¨
+ÿï08@Rmarshalget.com^
 ÿï08@Rmarsin.shop^
  ÿï08@Rmartafatass.pro^
 (ÿï08@Rmartenconstellation.com^
@@ -31308,8 +31289,8 @@ $ÿï08@Rmathsdelightful.com^
  ÿï08@Rmatrix-cash.com^
 ÿï08@Rmatsuderat.top^
 ÿï08@Rmatswhyask.cam^
-#ÿï08@Rmattockpackall.com^
-$ÿï08@Rmattressashamed.com^¹
+#ÿï08@Rmattockpackall.com^Â
+$ÿï08@Rmattressashamed.com^
 ,ÿï08@Rmattressstumpcomplement.com^
 4ÿï08@R$mature-chicks.com/floral-truth-c224/
  ÿï08@Rmaturecodes.com^
@@ -31378,8 +31359,8 @@ mbnot.com^
 ÿï08@Rmbreviewer.com^
 ÿï08@Rmbreviews.info^
 ÿï08@Rmbstrk.com^
-ÿï08@Rmbuncha.com^
-ÿï08@Rmbvlmx.com^¦
+ÿï08@Rmbuncha.com^ 
+ÿï08@Rmbvlmx.com^
 ÿï08@Rmbvlmz.com^
 !ÿï08@Rmbvndisplay.site^
 ÿï08@R
@@ -31447,8 +31428,8 @@ me7x.site^
 !ÿï08@Rmedbroadcast.com^
 %ÿï08@Rmeddleachievehat.com^
 "ÿï08@Rmeddlingwager.com^
-"ÿï08@Rmedfoodsafety.com^
-!ÿï08@Rmedfoodspace.com^
+"ÿï08@Rmedfoodsafety.com^“
+!ÿï08@Rmedfoodspace.com^
  ÿï08@Rmedfoodtech.com^
  ÿï08@Rmedgoodfood.com^
 ÿï08@Rmedia-412.com^
@@ -31513,8 +31494,8 @@ Iÿï08@R9medibot-image.s3.ap-northeast-1.amazonaws.com/medibot_lp_
 ÿï08@Rmediuln.com^
 !ÿï08@Rmediumpimpin.com^
 %ÿï08@Rmediumtunapatter.com^
-ÿï08@Rmedleyads.com^
-ÿï08@Rmedoofty.com^Õ
+ÿï08@Rmedleyads.com^Ğ
+ÿï08@Rmedoofty.com^
 ÿï08@Rmedriz.xyz^
 "ÿï08@Rmedusasglance.com^
  ÿï08@Rmedyanetads.com^
@@ -31580,8 +31561,8 @@ $ÿï08@Rmemorableeditor.com^
 !ÿï08@Rmendedrefuel.com^
 ÿï08@Rmenews.org^
 "ÿï08@Rmentallyissue.com^
-)ÿï08@Rmentionedpretentious.com^
-"ÿï08@Rmentiopportal.org^ª
+)ÿï08@Rmentionedpretentious.com^ª
+"ÿï08@Rmentiopportal.org^
 ÿï08@Rmentmastsa.org^
 'ÿï08@Rmentoremotionapril.com^
 ÿï08@Rmentrandi.com^
@@ -31646,8 +31627,8 @@ $ÿï08@Rmessengerpeople.com^
 ÿï08@Rmetoacrype.com^
 ÿï08@Rmetogthr.com^
 !ÿï08@Rmetorealiukz.org^
-ÿï08@Rmetosk.com^
-"ÿï08@Rmetredesculic.com^°
+ÿï08@Rmetosk.com^³
+"ÿï08@Rmetredesculic.com^
 #ÿï08@Rmetrica-yandex.com^
 ÿï08@Rmetrics.io^
  ÿï08@Rmetricswpsh.com^
@@ -31710,8 +31691,8 @@ $ÿï08@Rmichaelschmitz.shop^
 !ÿï08@Rmidgetmaying.com^
 !ÿï08@Rmidistortrix.com^
 "ÿï08@Rmidlandfeisty.com^
-ÿï08@Rmidlk.online^
-ÿï08@Rmidmaintee.com^¨
+ÿï08@Rmidlk.online^¦
+ÿï08@Rmidmaintee.com^
 $ÿï08@Rmidnightcontemn.com^
 ÿï08@Rmidootib.net^
 ÿï08@Rmidpopedge.com^
@@ -31775,8 +31756,8 @@ $ÿï08@Rmimtelurdeghaul.net^
 "ÿï08@Rmindedcarious.com^
 #ÿï08@Rmindless-fruit.pro^
 "ÿï08@Rmindlessnight.com^
-#ÿï08@Rmindlessslogan.com^
-!ÿï08@Rmindlessswim.pro^â
+#ÿï08@Rmindlessslogan.com^ç
+!ÿï08@Rmindlessswim.pro^
 ÿï08@Rmindlytix.com^
 #ÿï08@Rmindssometimes.com^
 'ÿï08@Rminealoftcolumnist.com^
@@ -31840,8 +31821,8 @@ $ÿï08@Rmisguidedfriend.pro^
 (ÿï08@Rmisguidednourishing.com^
 "ÿï08@Rmishandlemole.com^
  ÿï08@Rmishapideal.com^
-(ÿï08@Rmishapsummonmonster.com^
-ÿï08@Rmisosoup.io^£
+(ÿï08@Rmishapsummonmonster.com^¡
+ÿï08@Rmisosoup.io^
 $ÿï08@Rmisputidemetome.com^
 ÿï08@Rmisrepush.com^
 $ÿï08@Rmissilesocalled.com^
@@ -31908,8 +31889,8 @@ mlsys.xyz^
  ÿï08@Rmmadsgadget.com^
 #ÿï08@Rmmchoicehaving.com^
 ÿï08@Rmmctsvc.com^
-ÿï08@Rmmentorapp.com^
-ÿï08@Rmmin.io/embed/ñ
+ÿï08@Rmmentorapp.com^ñ
+ÿï08@Rmmin.io/embed/
 ÿï08@Rmmismm.com^
 ÿï08@R
 mmmdn.net^
@@ -31975,8 +31956,8 @@ mnhjk.com^
 ÿï08@Rmobiflyn.com^
 ÿï08@Rmobiflys.com^
 ÿï08@Rmobifobi.com^
-ÿï08@Rmobifoth.com^
-ÿï08@Rmobile-10.com^†
+ÿï08@Rmobifoth.com^ƒ
+ÿï08@Rmobile-10.com^
 9ÿï08@R)mobile.de/api/consent/static/js/loader.js
  ÿï08@Rmobiledevel.com^
 .ÿï08@Rmobileoffers-7-j-download.com^
@@ -32041,8 +32022,8 @@ $ÿï08@Rmogointeractive.com^
 !ÿï08@Rmoiernonpaid.com^
 ÿï08@Rmoilizoi.com^
 ÿï08@Rmoistblank.com^
-ÿï08@Rmoistcargo.com^
-!ÿï08@Rmoistenmanoc.com^¥
+ÿï08@Rmoistcargo.com^ 
+!ÿï08@Rmoistenmanoc.com^
 #ÿï08@Rmojoaffiliates.com^
 #ÿï08@Rmokrqhjjcaeipf.xyz^
 ÿï08@Rmoksoxos.com^
@@ -32106,8 +32087,8 @@ $ÿï08@Rmontent.powzers.lol^
  ÿï08@Rmontnotimex.top^
 ÿï08@Rmontpdp.top^
 ÿï08@Rmontwam.top^
-ÿï08@Rmonu.delivery^
-&ÿï08@Rmonumentcountless.com^ö
+ÿï08@Rmonu.delivery^ó
+&ÿï08@Rmonumentcountless.com^
 +ÿï08@Rmonumentsmaterialeasel.com^
 ÿï08@Rmonxserver.com^
  ÿï08@Rmoocaicaico.com^
@@ -32171,8 +32152,8 @@ $ÿï08@Rmorgenskenotic.shop^
 ÿï08@Rmosspf.com^
 !ÿï08@Rmossyiapyges.com^
 ÿï08@Rmostauthor.com^
-*ÿï08@Rmostlyparabledejected.com^
-)ÿï08@Rmostlysolecounsellor.com^¸
+*ÿï08@Rmostlyparabledejected.com^½
+)ÿï08@Rmostlysolecounsellor.com^
 *ÿï08@Rmotchill.love/js/ads_xx.js
 #08@Rmotchillhi.net/banner
 +ÿï08@Rmotelproficientsmartly.com^
@@ -32237,8 +32218,8 @@ $ÿï08@Rmozo.com.au/widgets/
 mozoo.com^
 ÿï08@Rmp-https.info^
 #ÿï08@Rmp-pop.barryto.one^
-ÿï08@Rmp3bars.com^
-$ÿï08@Rmp3fiber.com/*ml.jpgğ
+ÿï08@Rmp3bars.com^ó
+$ÿï08@Rmp3fiber.com/*ml.jpg
 ÿï08@Rmp3pro.xyz^
 ÿï08@Rmp3vizor.com^
 ÿï08@Rmp3vizor.com^
@@ -32314,8 +32295,8 @@ mtree.com^
 ÿï08@Rmtypitea.net^
 ÿï08@Rmtysrtgur.com^
 ÿï08@Rmtzenhigqg.com^
- ÿï08@Rmuai-pysmlp.icu^
-!ÿï08@Rmuchezougree.com^µ
+ ÿï08@Rmuai-pysmlp.icu^¹
+!ÿï08@Rmuchezougree.com^
  ÿï08@Rmuchlivepad.com^
 #ÿï08@Rmuchooltoarsie.net^
 ÿï08@Rmucinyak.com^
@@ -32379,8 +32360,8 @@ $ÿï08@Rmustang-browser.com^
 ÿï08@Rmustbehand.com^
 +ÿï08@Rmustdealingfrustration.com^
 #ÿï08@Rmutatesreatus.shop^
-!ÿï08@Rmutaz.pro/img/ba/
-ÿï08@Rmutcheng.net^Æ
+!ÿï08@Rmutaz.pro/img/ba/Æ
+ÿï08@Rmutcheng.net^
 ÿï08@Rmutecrane.com^
 *ÿï08@Rmutenessdollyheadlong.com^
 ÿï08@Rmuthfourre.com^
@@ -32445,8 +32426,8 @@ $ÿï08@Rmwtnnfseoiernjx.xyz^
 ÿï08@Rmybestnewz.com^
 ÿï08@Rmybetterck.com^
 ÿï08@Rmybetterdl.com^
-ÿï08@Rmybettermb.com^
-ÿï08@Rmybmrtrg.com^ê
+ÿï08@Rmybettermb.com^é
+ÿï08@Rmybmrtrg.com^
 .ÿï08@Rmybrowseraddon.com/ads/core.js
 ÿï08@Rmycamlover.com^
 (ÿï08@Rmycams.com/freechat.php?
@@ -32513,8 +32494,8 @@ Hÿï08@R8mymuesli.com/assets/js/modules/Default/Static/Consent.js
 -ÿï08@Rmysticaldespiseelongated.com^
 %ÿï08@Rmysticmatebiting.com^
  ÿï08@Rmysweetteam.com^
-ÿï08@Rmytdsnet.com^
-ÿï08@Rmyteamdev.com^ù
+ÿï08@Rmytdsnet.com^ø
+ÿï08@Rmyteamdev.com^
 "ÿï08@Rmythicsallies.com^
 ÿï08@Rmythings.com^
 ÿï08@Rmytiris.com^
@@ -32584,8 +32565,8 @@ nabbr.com^
 ÿï08@Rnairapp.com^
  ÿï08@Rnaisepsaige.com^
  ÿï08@Rnaistophoje.net^
-ÿï08@Rnaitive.pl^
-ÿï08@Rnaive-skin.pro^‹
+ÿï08@Rnaitive.pl^
+ÿï08@Rnaive-skin.pro^
 "ÿï08@Rnaivescorries.com^
 ÿï08@R
 najva.com^
@@ -32652,8 +32633,8 @@ $ÿï08@Rnative-adserver.com^
 ÿï08@Rnativemedia.rs^
 ÿï08@Rnativeone.pl^
 ÿï08@Rnativepu.sh^
-ÿï08@Rnativeroll.tv^
-ÿï08@Rnativery.com^·
+ÿï08@Rnativeroll.tv^µ
+ÿï08@Rnativery.com^
 "ÿï08@Rnativeshumbug.com^
 ÿï08@Rnativespot.com^
 $ÿï08@Rnativesubscribe.pro^
@@ -32716,8 +32697,8 @@ $ÿï08@Rncukankingwith.info^
 %ÿï08@Rndaspiratiotyukn.com^
 ÿï08@Rndatgiicef.com^
 'ÿï08@Rndaymidydlesswale.info^
-ÿï08@Rnddpynonxw.xyz^
-ÿï08@Rndegj3peoh.com^Ù
+ÿï08@Rnddpynonxw.xyz^Û
+ÿï08@Rndegj3peoh.com^
 %ÿï08@Rndejhe73jslaw093.com^
 $ÿï08@Rndenthaitingsho.com^
 %ÿï08@Rnderpurganismpr.info^
@@ -32780,8 +32761,8 @@ $ÿï08@Rnecessaryescort.com^
 #ÿï08@Rnegationomitor.com^
 #ÿï08@Rnegative-might.pro^
 $ÿï08@Rneglectblessing.com^
-*ÿï08@Rnegligentpatentrefine.com^
-ÿï08@Rnegolist.com^ÿ
+*ÿï08@Rnegligentpatentrefine.com^€
+ÿï08@Rnegolist.com^
 #ÿï08@Rnegotiaterealm.com^
 (ÿï08@Rnegotiationmajestic.com^
 ÿï08@Rnegxkj5ca.com^
@@ -32844,8 +32825,8 @@ $ÿï08@Rnesfspublicate.info^
 ÿï08@Rnetnesspb.com^
 ÿï08@Rnetpatas.com^
 ÿï08@Rnetpub.media^
-ÿï08@Rnetrefer.co^
-ÿï08@Rnetseer.com^¯
+ÿï08@Rnetrefer.co^«
+ÿï08@Rnetseer.com^
 ÿï08@Rnetshelter.net^
 ÿï08@Rnetsolads.com^
 ÿï08@Rnetstam.com^
@@ -32910,8 +32891,8 @@ C*
 ÿï08@Rnews-galuzo.cc^
  ÿï08@Rnews-getogo.com^
 "ÿï08@Rnews-headlines.co^
- ÿï08@Rnews-jelafa.com^
- ÿï08@Rnews-jivera.com^ä
+ ÿï08@Rnews-jelafa.com^é
+ ÿï08@Rnews-jivera.com^
 ÿï08@Rnews-mefuba.cc^
 ÿï08@Rnews-nerahu.cc^
  ÿï08@Rnews-place1.xyz^
@@ -32976,8 +32957,8 @@ newton.pw^
 ÿï08@Rnexaapptwp.top^
 ÿï08@R
 nexac.com^
-ÿï08@Rnexage.com^
-ÿï08@Rnexeps.com^†
+ÿï08@Rnexage.com^„
+ÿï08@Rnexeps.com^
 "ÿï08@Rnext-done.website^
 1ÿï08@R!next-immo.com/js/cookies.1.min.js
 ÿï08@Rnextclick.pl^
@@ -33041,8 +33022,8 @@ $ÿï08@Rnicelyinformant.com^
  ÿï08@Rnichedlinks.com^
  ÿï08@Rnichedreps.life^
  ÿï08@Rnichedruta.shop^
-*ÿï08@Rnicheevaderesidential.com^
-ÿï08@Rnichools.com^Ì
+*ÿï08@Rnicheevaderesidential.com^Ç
+ÿï08@Rnichools.com^
 ÿï08@Rnickeeha.net^
 (ÿï08@Rnickeleavesdropping.com^
 )ÿï08@Rnickelphantomability.com^
@@ -33108,8 +33089,8 @@ $ÿï08@Rnippona7n2theum.com^
 wepc.com08@Rnitroscripts.com^
 !ÿï08@Rniveausatan.shop^
 !ÿï08@Rniwluvepisj.site^
-ÿï08@Rniwooghu.com^
-"ÿï08@Rnixbsprhupgor.com^–
+ÿï08@Rniwooghu.com^‚
+"ÿï08@Rnixbsprhupgor.com^
 ÿï08@Rniyimu.xyz^
  ÿï08@Rnizarstream.xyz^
 ÿï08@Rnizvimq.com^
@@ -33176,8 +33157,8 @@ $ÿï08@Rnnxxjjhcwdfsbsa.xyz^
 %ÿï08@Rnoisyoursarrears.com^
 ÿï08@Rnoisytowel.pro^
 /ÿï08@Rnoisyunidentifiedinherited.com^
-"ÿï08@Rnojazz.eu/consent/
-6ÿï08@R&nojazz.eu/nl/client/drimble.nl/init.jsÕ
+"ÿï08@Rnojazz.eu/consent/æ
+6ÿï08@R&nojazz.eu/nl/client/drimble.nl/init.js
 ÿï08@Rnoktaglaik.com^
 !ÿï08@Rnolduniques.shop^
 ÿï08@Rnoltaudi.com^
@@ -33241,8 +33222,8 @@ $ÿï08@Rnope.xn--ygba1c.wtf^
 ,ÿï08@Rnosebleedjumbleblissful.com^
 ÿï08@Rnossairt.net^
 +ÿï08@Rnostrilquarryprecursor.com^
-1ÿï08@R!nostrilsdisappearedconceited.com^
-%ÿï08@Rnostrilsunwanted.com^„
+1ÿï08@R!nostrilsdisappearedconceited.com^Œ
+%ÿï08@Rnostrilsunwanted.com^
 %ÿï08@Rnotabilitytragic.com^
 ÿï08@Rnotabl8.com^
 %ÿï08@Rnotablechemistry.pro^
@@ -33307,8 +33288,8 @@ notiks.io^
 )ÿï08@Rnoughttrustthreshold.com^
  ÿï08@Rnoukotumorn.com^
 ÿï08@Rnounaswarm.com^
-!ÿï08@Rnoungundated.com^
-ÿï08@Rnounooch.com^ò
+!ÿï08@Rnoungundated.com^ğ
+ÿï08@Rnounooch.com^
 'ÿï08@Rnounpasswordangles.com^
 %ÿï08@Rnounrespectively.com^
 ÿï08@Rnoupooth.com^
@@ -33374,8 +33355,8 @@ npvos.com^
 !ÿï08@Rnqrkzcd7ixwr.com^
 !ÿï08@Rnqslmtuswqdz.com^
 ÿï08@Rnqvi-lnlu.icu^
-(ÿï08@Rnrcdn.com/custom-script/
-ÿï08@Rnrcykmnukb.com^ğ
+(ÿï08@Rnrcdn.com/custom-script/ò
+ÿï08@Rnrcykmnukb.com^
 ÿï08@Rnreg.world^
 ÿï08@Rnrelate.com^
 ÿï08@Rnretholas.com^
@@ -33443,8 +33424,8 @@ ntvsw.com^
 -ÿï08@Rnubiles.net/webmasters/promo/
 ÿï08@Rnubseech.com^
 ÿï08@Rnuclearads.com^
-ÿï08@Rnucleo.online^
-ÿï08@Rnude.hu/html/ÿ
+ÿï08@Rnucleo.online^ø
+ÿï08@Rnude.hu/html/
 $ÿï08@Rnudebenzoyl.digital^
 ÿï08@Rnudedworld.com^
 +ÿï08@Rnudepatch.net/dynbak.min.js
@@ -33512,8 +33493,8 @@ $ÿï08@Rnvjgmugfqmffbgk.xyz^
 #ÿï08@Rnvlcnvyqvpjppi.xyz^
 ÿï08@Rnvtvssczb.com^
 ÿï08@Rnvuwqcfdux.xyz^
-ÿï08@Rnvuzubaus.tech^
-$ÿï08@Rnvwjhrimontqvjo.com^´
+ÿï08@Rnvuzubaus.tech^»
+$ÿï08@Rnvwjhrimontqvjo.com^
 !ÿï08@Rnwejuljibczi.com^
 ÿï08@Rnwemnd.com^
 ÿï08@R
@@ -33582,8 +33563,8 @@ $ÿï08@Roaajylbosyndpjl.com^
 ÿï08@Roadrojoa.net^
 ÿï08@Roafairoadu.net^
  ÿï08@Roafqsofimps.com^
-ÿï08@Roaftaijo.net^
-ÿï08@Roagleeju.xyz^
+ÿï08@Roaftaijo.net^š
+ÿï08@Roagleeju.xyz^
 ÿï08@Roagnatch.com^
 ÿï08@Roagnolti.net^
 ÿï08@Roagoalee.xyz^
@@ -33648,8 +33629,8 @@ obeus.com^
 $ÿï08@Robeyingdecrier.shop^
 ÿï08@Robeysatman.com^
 ÿï08@R
-obgdk.top^
-!ÿï08@Robhggjchjkpb.xyz^È
+obgdk.top^Ì
+!ÿï08@Robhggjchjkpb.xyz^
 +ÿï08@Robjectionportedseaside.com^
 4ÿï08@R$objective-wright-961fed.netlify.com^
 &ÿï08@Robjectivepressure.com^
@@ -33714,8 +33695,8 @@ $ÿï08@Roccndvwqxhgeicg.xyz^
 ÿï08@R
 oclus.com^
 ÿï08@Rocmhood.com^
-ÿï08@Rocmtag.com^
-ÿï08@Rocoaksib.com^¿
+ÿï08@Rocmtag.com^½
+ÿï08@Rocoaksib.com^
 ÿï08@Roconner.biz^
 ÿï08@Roconner.link^
  ÿï08@Rocoumsetoul.com^
@@ -33781,8 +33762,8 @@ $ÿï08@Roffenddishwater.com^
 ÿï08@Roffersbid.net^
 ÿï08@Rofferserve.com^
 ÿï08@Roffershub.net^
-&ÿï08@Rofferstrackingnow.com^
-ÿï08@Rofferwall.site^‡
+&ÿï08@Rofferstrackingnow.com^‰
+ÿï08@Rofferwall.site^
  ÿï08@Rofffurreton.com^
 %ÿï08@Roffhandclubhouse.com^
  ÿï08@Roffhandpump.com^
@@ -33853,8 +33834,8 @@ ogfna.net^
 ÿï08@Rogniicbnb.ru^
  ÿï08@Rogqophjilar.com^
 ÿï08@Rografazu.xyz^
- ÿï08@Rogragrugece.net^
-ÿï08@Rograuwih.com^
+ ÿï08@Rogragrugece.net^†
+ÿï08@Rograuwih.com^
  ÿï08@Rogrepsougie.net^
 ÿï08@Rogrrmasukq.com^
 @€*
@@ -33920,8 +33901,8 @@ ojpem.com^
 6ÿï08@R&ok-salute.it^*/cookie-law-info-public-
  ÿï08@Rokaidsotsah.com^
 %ÿï08@Rokakyamoguvampom.com^
-ÿï08@Rokanjo.com^
-%ÿï08@Rokaydisciplemeek.com^Š
+ÿï08@Rokanjo.com^’
+%ÿï08@Rokaydisciplemeek.com^
 %ÿï08@Rokdecideddubious.com^
 ÿï08@Rokdigital.me^
  ÿï08@Rokhrtusmuod.com^
@@ -33984,8 +33965,8 @@ $ÿï08@Rolularhenewrev.info^
 !ÿï08@Rombfunkajont.com^
 ÿï08@Romchanseyr.com^
 #ÿï08@Romchimcharchan.com^
-"ÿï08@Romciecoa37tw4.com^
-ÿï08@Romclacrv.com^í
+"ÿï08@Romciecoa37tw4.com^å
+ÿï08@Romclacrv.com^
 ÿï08@Romcrobata.com^
 ÿï08@Romdittoa.com^
 $ÿï08@Romefukmendation.com^
@@ -34057,8 +34038,8 @@ onads.com^
 ÿï08@Ronclickmax.com^
  ÿï08@Ronclickmega.com^
 'ÿï08@Ronclickperformance.com^
-&ÿï08@Ronclickprediction.com^
-%ÿï08@Ronclickpredictiv.com^Ä
+&ÿï08@Ronclickprediction.com^Æ
+%ÿï08@Ronclickpredictiv.com^
 !ÿï08@Ronclickpulse.com^
 ÿï08@Ronclickrev.com^
 "ÿï08@Ronclickserver.com^
@@ -34121,8 +34102,8 @@ $ÿï08@Ronelpfulinother.com^
 'ÿï08@Ronlinedeltazone.online^
 )ÿï08@Ronlinegoodsonline.online^
  ÿï08@Ronlineporno.fun^
-$ÿï08@Ronlinepromogift.com^
-#ÿï08@Ronlinepromousa.com^·
+$ÿï08@Ronlinepromogift.com^»
+#ÿï08@Ronlinepromousa.com^
 +ÿï08@Ronlineshopping.co.za/expop/
 (ÿï08@Ronlineuserprotector.com^
 2ÿï08@R"onlive.co.uk/account/cookie_notice
@@ -34185,8 +34166,8 @@ $ÿï08@Roogrowairsiksoy.xyz^
 +ÿï08@Rookris.oferty-kredytowe.pl^
 ÿï08@Rookroush.com^
 ÿï08@Rooloptou.net^
-ÿï08@Roolseeshir.xyz^
-ÿï08@Roolsoudsoo.xyz^Ä
+ÿï08@Roolseeshir.xyz^À
+ÿï08@Roolsoudsoo.xyz^
 !ÿï08@Roolsutsougri.net^
  ÿï08@Rooltakreenu.xyz^
 %ÿï08@Roometermerkhet.click^
@@ -34251,8 +34232,8 @@ $ÿï08@Ropeninggloryfin.com^
 #ÿï08@Ropensharecount.com^
 'ÿï08@Ropenslowlypoignant.com^
 ?ÿï08@R/openstack.org/api/public/v1/sponsored-projects?
-ÿï08@Ropentecs.com^
-#ÿï08@Ropenweatherapi.com^·
+ÿï08@Ropentecs.com^·
+#ÿï08@Ropenweatherapi.com^
 ÿï08@R
 openx.net^
 $ÿï08@Ropenxadexchange.com^
@@ -34317,8 +34298,8 @@ opoxv.com^
 #ÿï08@Roptidownloader.com^
 ÿï08@Roptimads.info^
 &ÿï08@Roptimalscreen1.online^
-ÿï08@Roptimatic.com^
-#ÿï08@Roptimizesocial.com^´
+ÿï08@Roptimatic.com^º
+#ÿï08@Roptimizesocial.com^
  ÿï08@Roptimizesrv.com^
 ÿï08@Roptimonk.com^
 ÿï08@Roptinly.net^
@@ -34384,8 +34365,8 @@ $ÿï08@Rorebuthehadsta.info^
 ÿï08@Rorest-vlv.com^
 ÿï08@Roretracker.top^
 ÿï08@Roreyeshe.info^
-ÿï08@Rorfa1st5.de^
-ÿï08@Rorfabfbu.com^â
+ÿï08@Rorfa1st5.de^ß
+ÿï08@Rorfabfbu.com^
 $ÿï08@Rorgagetnization.org^
 .ÿï08@Rorganiccopiedtranquilizer.com^
 !ÿï08@Rorganize3452.fun^
@@ -34448,8 +34429,8 @@ $ÿï08@Rosadooffinegold.com^
 ÿï08@Rosskanger.com^
 ÿï08@Rosskugvirs.com^
 "ÿï08@Rossmightyenar.net^
-"ÿï08@Rossnidorinoom.com^
- ÿï08@Rosspalkiaom.com^—
+"ÿï08@Rossnidorinoom.com^š
+ ÿï08@Rosspalkiaom.com^
 ÿï08@Rosspinsira.com^
 ÿï08@Rosspwamuhn.com^
 ÿï08@Rossrhydonr.com^
@@ -34513,8 +34494,8 @@ $ÿï08@Rouknowsaidthea.info^
 ÿï08@Roumoshomp.xyz^
 ÿï08@Roumtirsu.com^
 #ÿï08@Rounceanalogous.com^
-%ÿï08@Roundhertobeconsi.com^
-ÿï08@Roungimuk.net^¾
+%ÿï08@Roundhertobeconsi.com^²
+ÿï08@Roungimuk.net^
 ÿï08@Roungoowe.xyz^
 %ÿï08@Rounigaugsurvey.space^
 "ÿï08@Rounobdlzzks.world^
@@ -34586,8 +34567,8 @@ $ÿï08@Routgratingknack.com^
 %ÿï08@Routlineappearbar.com^
 #ÿï08@Routloginequity.com^
 "ÿï08@Routlookabsorb.com^
-$ÿï08@Routlookads.live.com^
-)ÿï08@Routlookreservebennet.com^ã
+$ÿï08@Routlookads.live.com^ì
+)ÿï08@Routlookreservebennet.com^
 "ÿï08@Routlopunnytor.com^
 #ÿï08@Routmatchurgent.com^
 "ÿï08@Routnidorinoom.com^
@@ -34650,8 +34631,8 @@ $ÿï08@Routwhirlipedeer.com^
 %ÿï08@Roverjoyedtempfig.com^
 (ÿï08@Roverjoyedwithinthin.com^
 !ÿï08@Roverkirliaan.com^
-)ÿï08@Roverlapflintsidenote.com^
- ÿï08@Roverlivedub.com^·
+)ÿï08@Roverlapflintsidenote.com^´
+ ÿï08@Roverlivedub.com^
 *ÿï08@Roverloadmaturespanner.com^
 'ÿï08@Roverlooked-scratch.pro^
 &ÿï08@Roverlookedtension.pro^
@@ -34715,8 +34696,8 @@ $ÿï08@Rovfmeawrciuajgb.com^
 ÿï08@Rowwogmlidz.com^
 ÿï08@Rox4h1dk85.com^
 ÿï08@R
-oxado.com^
-#ÿï08@Roxamateborrel.shop^À
+oxado.com^¸
+#ÿï08@Roxamateborrel.shop^
 ÿï08@Roxbbzxqfnv.com^
 'ÿï08@Roxbowmentaldraught.com^
 ÿï08@Roxcluster.com^
@@ -34783,8 +34764,8 @@ pa5ka.com^
 "ÿï08@Rpacaka.conxxx.pro^
 ÿï08@Rpacekami.com^
  ÿï08@Rpachegaimax.net^
-&ÿï08@Rpacificprocurator.com^
-+ÿï08@Rpacificvernonoutskirts.com^õ
+&ÿï08@Rpacificprocurator.com^„
++ÿï08@Rpacificvernonoutskirts.com^
 #ÿï08@Rpackageeyeball.com^
 -ÿï08@Rpacontainer.s3.amazonaws.com^
 "ÿï08@Rpacquetmuysca.com^
@@ -34848,8 +34829,8 @@ paht.tech^
 #ÿï08@Rpaintydevelela.org^
 ÿï08@Rpaipsuto.com^
  ÿï08@Rpaishoonain.net^
-#ÿï08@Rpaiwariaroids.shop^
-ÿï08@Rpaiwena.xyz^Ã
+#ÿï08@Rpaiwariaroids.shop^Â
+ÿï08@Rpaiwena.xyz^
 ÿï08@Rpaiwhisep.com^
  ÿï08@Rpajamasgnat.com^
 "ÿï08@Rpajamasguests.com^
@@ -34913,8 +34894,8 @@ panoz.xyz^
  ÿï08@Rpantsurplus.com^
 ÿï08@Rpantuz.xyz^
 6ÿï08@R&pantyhosepornstars.com/foon/pryf003.js
-"ÿï08@Rpapaneecorche.com^
-ÿï08@Rpapatrol.xyz^½
+"ÿï08@Rpapaneecorche.com^¹
+ÿï08@Rpapatrol.xyz^
  ÿï08@Rpapawrefits.com^
 ÿï08@Rpapayads.net^
 %ÿï08@Rpaperclipservice.com^
@@ -34977,8 +34958,8 @@ $ÿï08@Rparking.godaddy.com^
 ÿï08@R	parse.ly^
 ÿï08@Rparsec.media^
 #ÿï08@Rparserskiotomy.com^
-+ÿï08@Rparsimoniousinvincible.net^
-!ÿï08@Rpartial-pair.pro^á
++ÿï08@Rparsimoniousinvincible.net^â
+!ÿï08@Rpartial-pair.pro^
 +ÿï08@Rpartiallyexploitrabbit.com^
 .ÿï08@Rpartiallyguardedascension.com^
 (ÿï08@Rparticipantderisive.com^
@@ -35041,8 +35022,8 @@ $ÿï08@Rparttimelucidly.com^
 *ÿï08@Rpassiondimlyhorrified.com^
 $ÿï08@Rpassionfruitads.com^
 !ÿï08@Rpassirdrowns.com^
-#ÿï08@Rpassive-earner.com^
- ÿï08@Rpasstechusa.com^÷
+#ÿï08@Rpassive-earner.com^û
+ ÿï08@Rpasstechusa.com^
 (ÿï08@Rpasswordslayoutvest.com^
 ,ÿï08@Rpasswordssaturatepebble.com^
 08@Rpaste.fo/*jpeg
@@ -35105,8 +35086,8 @@ $ÿï08@Rpattedearnestly.com^
 'ÿï08@Rpawscreationsurely.com^
 ÿï08@Rpaxmedia.net^
 ÿï08@Rpaxsfiss.com^
-ÿï08@Rpaxxfiss.com^
-ÿï08@Rpaxyued.com^Î
+ÿï08@Rpaxxfiss.com^È
+ÿï08@Rpaxyued.com^
 ÿï08@Rpay-click.ru^
 $ÿï08@Rpaybackmodified.com^
 ÿï08@Rpaydemic.com^
@@ -35178,8 +35159,8 @@ pdn-3.com^
 +ÿï08@Rpeachesevaporateearlap.com^
 $ÿï08@Rpeachessummoned.com^
  ÿï08@Rpeachrecess.com^
--ÿï08@Rpeachybeautifulplenitude.com^
-"ÿï08@Rpeachytopless.com^Ê
+-ÿï08@Rpeachybeautifulplenitude.com^Ë
+"ÿï08@Rpeachytopless.com^
 "ÿï08@Rpeachywaspish.com^
 ÿï08@Rpeacto.com^
  ÿï08@Rpeagsraters.com^
@@ -35243,8 +35224,8 @@ $ÿï08@Rpeeringinvasion.com^
 .ÿï08@Rpenitenceuniversityinvoke.com^
 $ÿï08@Rpenitentarduous.com^
 /ÿï08@Rpenitentiaryoverdosetumble.com^
-+ÿï08@Rpenitentpeepinsulation.com^
-!ÿï08@Rpenniedtache.com^ì
++ÿï08@Rpenitentpeepinsulation.com^æ
+!ÿï08@Rpenniedtache.com^
 'ÿï08@Rpennilesscomingall.com^
 'ÿï08@Rpennilesspictorial.com^
 $ÿï08@Rpennilessrobber.com^
@@ -35308,8 +35289,8 @@ perfb.com^
 (ÿï08@Rperimeterridesnatch.com^
 &ÿï08@Rperiodicjotrickle.com^
 !ÿï08@Rperiodicpole.com^
-%ÿï08@Rperiodicprodigal.com^
-'ÿï08@Rperiodscirculation.com^¿
+%ÿï08@Rperiodicprodigal.com^Æ
+'ÿï08@Rperiodscirculation.com^
 'ÿï08@Rperiodspoppyrefuge.com^
 ÿï08@Rperkcanada.com^
 &ÿï08@Rperksyringefiring.com^
@@ -35372,8 +35353,8 @@ $ÿï08@Rpersuadepointed.com^
 !ÿï08@Rpetasusawber.com^
 ÿï08@Rpetchesa.net^
 ÿï08@Rpetchoub.com^
-!ÿï08@Rpetendereruk.com^
- ÿï08@Rpeterjoggle.com^Ü
+!ÿï08@Rpetendereruk.com^ß
+ ÿï08@Rpeterjoggle.com^
 $ÿï08@Rpethaphegauftup.xyz^
 %ÿï08@Rpetideadeference.com^
 &ÿï08@Rpetrelbeheira.website^
@@ -35437,8 +35418,8 @@ pgssl.com^
 ÿï08@Rphee1oci.com^
 ÿï08@Rpheedsoan.com^
 ÿï08@Rpheeghie.net^
-ÿï08@Rpheegoab.click^
-ÿï08@Rpheegopt.xyz^¤
+ÿï08@Rpheegoab.click^ 
+ÿï08@Rpheegopt.xyz^
 ÿï08@Rpheekoamek.net^
 ÿï08@Rpheepudo.net^
 ÿï08@Rpheersie.com^
@@ -35501,8 +35482,8 @@ $ÿï08@Rphockoogeeraibi.xyz^
 .ÿï08@Rphonearena.com/js/ops/taina.js
 0ÿï08@R phoneboothsabledomesticated.com^
 6ÿï08@R&phonerotica.com/resources/img/banners/
-!ÿï08@Rphonicsblitz.com^
-!ÿï08@Rphoobsoalrie.com^Š
+!ÿï08@Rphonicsblitz.com^‹
+!ÿï08@Rphoobsoalrie.com^
 ÿï08@Rphoognol.com^
 ÿï08@Rphoojeex.xyz^
  ÿï08@Rphookroamte.xyz^
@@ -35582,8 +35563,8 @@ $ÿï08@Rpiaroankenyte.store^
 #ÿï08@Rpichak.net/blogcod/
 ÿï08@Rpickaflick.co^
 !ÿï08@Rpickedincome.com^
-%ÿï08@Rpicklecandourbug.com^
- ÿï08@Rpicklesdumb.com^“
+%ÿï08@Rpicklecandourbug.com^‚
+ ÿï08@Rpicklesdumb.com^
 'ÿï08@Rpickuppestsyndrome.com^
 "ÿï08@Rpickvideolink.com^
 (ÿï08@Rpico.tools/load/build.js
@@ -35646,8 +35627,8 @@ $ÿï08@Rpiledannouncing.com^
 ÿï08@Rpinkleo.pro^
 =ÿï08@R-pinkmonkey.com/includes/right-ad-columns.html
 +ÿï08@Rpinkvisualgames.com/?revid=
-'ÿï08@Rpinpricktuxedokept.com^
-1ÿï08@R!pinprickverificationdecember.com^‘
+'ÿï08@Rpinpricktuxedokept.com^ª
+1ÿï08@R!pinprickverificationdecember.com^
 'ÿï08@Rpinprickwinconfirm.com^
 %ÿï08@Rpinterest.com/images/
 .ÿï08@Rpinterest.com/js/pinit_main.js
@@ -35711,9 +35692,9 @@ piuyt.com^
 #ÿï08@Rpiypjmdsqpznhn.com^
 "ÿï08@Rpizzasocalled.com^
 "ÿï08@Rpizzlessclimb.top^
-ÿï08@Rpjagilteei.com^
+ÿï08@Rpjagilteei.com^½
 08@R
-pjatr.com^Ç
+pjatr.com^
 ÿï08@R
 pjjpp.com^
 ÿï08@Rpjnwmbz.com^
@@ -35781,8 +35762,8 @@ $ÿï08@Rplainphilosophy.pro^
 'ÿï08@Rplasticskilledlogs.com^
 "ÿï08@Rplastleislike.com^
 "ÿï08@Rplatedmanlily.com^
-)ÿï08@Rplatelosingshameless.com^
-"ÿï08@Rplatesnervous.com^¤
+)ÿï08@Rplatelosingshameless.com^–
+"ÿï08@Rplatesnervous.com^
 %ÿï08@Rplatform-hetcash.com^
 *ÿï08@Rplatform.adlinknetwork.vn^
 (ÿï08@Rplatform.foursquare.com^
@@ -35856,8 +35837,8 @@ $ÿï08@Rplayvideodirect.com^
 %ÿï08@Rpleasedprocessed.com^
  ÿï08@Rpleasetrack.com^
 !ÿï08@Rpleasingrest.pro^
-#ÿï08@Rpleasingsafety.pro^
-0ÿï08@R pleasureflatteringmoonlight.com^Ú
+#ÿï08@Rpleasingsafety.pro^è
+0ÿï08@R pleasureflatteringmoonlight.com^
 &ÿï08@Rpleasuregirl.net/bload
 ,ÿï08@Rpledgeexceptionalinsure.com^
 )ÿï08@Rpledgeincludingsteer.com^
@@ -35923,8 +35904,8 @@ $ÿï08@Rplugrushusa.dsp.wtf^
 !ÿï08@Rplumpcontrol.pro^
 $ÿï08@Rplumpdianafraud.com^
 *ÿï08@Rplumpdisobeyastronomy.com^
-(ÿï08@Rplumpgrabbedseventy.com^
-"ÿï08@Rplumsbusiness.com^ú
+(ÿï08@Rplumpgrabbedseventy.com^û
+"ÿï08@Rplumsbusiness.com^
 $ÿï08@Rplumsscientific.com^
 !ÿï08@Rplumssponsor.com^
 %ÿï08@Rplundertentative.com^
@@ -35993,8 +35974,8 @@ pnyf1.top^
 ÿï08@R	pocrd.cc^
 ÿï08@Rpocrowpush.com^
 ÿï08@Rpod.xpress.com^
-ÿï08@Rpodefr.net^
-!ÿï08@Rpodosupsurge.com^Ñ
+ÿï08@Rpodefr.net^Ó
+!ÿï08@Rpodosupsurge.com^
 "ÿï08@Rpodsolnu9hi10.com^
 *ÿï08@Rpoedb.tw/image/torchlight/
 #ÿï08@Rpoemblotrating.com^
@@ -36057,8 +36038,8 @@ $ÿï08@Rpolishedconcert.pro^
 "ÿï08@Rpolluxnetwork.com^
 ÿï08@Rpoloptrex.com^
 $ÿï08@Rpolothdgemanow.info^
-ÿï08@Rpolredsy.com^
-ÿï08@Rpolsonaith.com^­
+ÿï08@Rpolredsy.com^¥
+ÿï08@Rpolsonaith.com^
 ÿï08@Rpoltarimus.com^
 ÿï08@Rpolyad.net^
 ÿï08@Rpolydarth.com^
@@ -36122,8 +36103,8 @@ popnc.com^
 ÿï08@Rpopsads.com^
 ÿï08@Rpopsads.net^
  ÿï08@Rpopsdietary.com^
-#ÿï08@Rpopsreputation.com^
-'ÿï08@Rpopteen.pro/300x250.phpä
+#ÿï08@Rpopsreputation.com^è
+'ÿï08@Rpopteen.pro/300x250.php
 ÿï08@Rpoptival.com^
 ÿï08@R
 poptm.com^
@@ -36187,8 +36168,8 @@ $ÿï08@Rporngals4.com/img/b/
 ÿï08@Rporngray.com^
 #ÿï08@Rpornhat.com/banner/
 !ÿï08@Rpornicom.com/jsb/
- ÿï08@Rpornid.name/ffg/
-#ÿï08@Rpornid.name/polstr/é
+ ÿï08@Rpornid.name/ffg/è
+#ÿï08@Rpornid.name/polstr/
 !ÿï08@Rpornid.xxx/azone/
 ÿï08@Rpornid.xxx/pid/
 #ÿï08@Rpornj.com/wimtvggp/
@@ -36251,8 +36232,8 @@ $ÿï08@Rports.co.za/banners/
 (ÿï08@Rposewardenreligious.com^
 ÿï08@R	posf.xyz^
  ÿï08@Rposhhateful.com^
- ÿï08@Rposhsplitdr.com^
-$ÿï08@Rposhyouthfulton.com^«
+ ÿï08@Rposhsplitdr.com^°
+$ÿï08@Rposhyouthfulton.com^
 #ÿï08@Rpositeasysembl.org^
 *ÿï08@Rpositionavailreproach.com^
  ÿï08@Rpositioner.info^
@@ -36317,8 +36298,8 @@ $ÿï08@Rpounceintention.com^
  ÿï08@Rpourmajeurs.com^
 ÿï08@Rpourorator.com^
 %ÿï08@Rpourpressedcling.com^
-'ÿï08@Rpoutrevenueeyeball.com^
-ÿï08@Rpovsefcrdj.com^ä
+'ÿï08@Rpoutrevenueeyeball.com^Û
+ÿï08@Rpovsefcrdj.com^
 %ÿï08@Rpovvldeo.lol/js/fpu3/
 *ÿï08@Rpowe.asian-xxx-videos.com^
 ÿï08@Rpowerad.ai^
@@ -36385,8 +36366,8 @@ $ÿï08@Rpractiseseafood.com^
 ÿï08@Rpraght.tech^
 (ÿï08@Rpraiseddisintegrate.com^
 &ÿï08@Rpramenterpriseamy.com^
-"ÿï08@Rpraterswhally.com^
-(ÿï08@Rprawnrespiratorgrim.com^ÿ
+"ÿï08@Rpraterswhally.com^ˆ
+(ÿï08@Rprawnrespiratorgrim.com^
 0ÿï08@R prayercertificatecompletion.com^
 $ÿï08@Rprckxbflfaryfau.com^
 ÿï08@Rprdredir.com^
@@ -36449,8 +36430,8 @@ $ÿï08@Rpremium-members.com^
 #ÿï08@Rpremium4kflix.club^
 "ÿï08@Rpremium4kflix.top^
 &ÿï08@Rpremium4kflix.website^
-ÿï08@Rpremiumads.net^
-ÿï08@Rpremiumhdv.com^Ğ
+ÿï08@Rpremiumads.net^Ğ
+ÿï08@Rpremiumhdv.com^
  ÿï08@Rpremiumredir.ru^
 %ÿï08@Rpremiumvertising.com^
 -ÿï08@Rpremonitioneuropeanstems.com^
@@ -36514,8 +36495,8 @@ $ÿï08@Rprevailedbutton.com^
 #ÿï08@Rpriestboundsay.com^
 %ÿï08@Rpriestsuccession.com^
 "ÿï08@Rpriestsuede.click^
- ÿï08@Rpriestsuede.com^
-ÿï08@Rprigskoil.shop^Ö
+ ÿï08@Rpriestsuede.com^Å
+ÿï08@Rprigskoil.shop^
 'ÿï08@Rprimarilyresources.com^
 +ÿï08@Rprimarilysweptabundant.com^
 %ÿï08@Rprimarkingfun.giving^
@@ -36578,8 +36559,8 @@ $ÿï08@Rprivacytools.com.br^
 ,ÿï08@Rprivatelydevotionrewind.com^
 "ÿï08@Rprivateseiten.net^
 %ÿï08@Rprivatewebseiten.com^
-/ÿï08@Rprivilegedmansfieldvaguely.com^
-0ÿï08@R privilegedvitaminimpassable.com^«
+/ÿï08@Rprivilegedmansfieldvaguely.com^¤
+0ÿï08@R privilegedvitaminimpassable.com^
 ,ÿï08@Rprivilegeinjurefidelity.com^
  ÿï08@Rprivilegest.com^
 ÿï08@R
@@ -36645,8 +36626,8 @@ prodmp.ru^
 5ÿï08@R%profesia.cz/assets/js/cookie_consent_
 5ÿï08@R%profesia.sk/assets/js/cookie_consent_
 'ÿï08@Rprofessdeteriorate.com^
-.ÿï08@Rprofessionalbusinesstoday.xyz^
-7ÿï08@R'professionallygravitationbackwards.com^ 
+.ÿï08@Rprofessionalbusinesstoday.xyz^®
+7ÿï08@R'professionallygravitationbackwards.com^
 ,ÿï08@Rprofessionallyjazzotter.com^
 'ÿï08@Rprofessionallytear.com^
 *ÿï08@Rprofessionallywealthy.com^
@@ -36709,8 +36690,8 @@ $ÿï08@Rprogenyproduced.com^
 #ÿï08@Rpromos.camsoda.com^
 !ÿï08@Rpromos.fling.com^
 $ÿï08@Rpromos.gpniches.com^
-&ÿï08@Rpromos.meetlocals.com^
-)ÿï08@Rpromoshq.wildfireapp.com^ö
+&ÿï08@Rpromos.meetlocals.com^
+)ÿï08@Rpromoshq.wildfireapp.com^
 )ÿï08@Rpromote.pair.com/88x31.pl
 &ÿï08@Rpromotion.monster.com^
 &ÿï08@Rpromotions.newegg.com^
@@ -36774,8 +36755,9 @@ $ÿï08@Rprosperousprobe.com^
 -ÿï08@Rprotectorincorporatehush.com^
 'ÿï08@Rprotectyourdevices.com^
 /ÿï08@Rproteinfrivolousfertilised.com^
+-ÿï08@Rproteininnovationpioneer.com^Ø
 !ÿï08@Rprotestgrove.com^
-ÿï08@Rprotizer.ru^Õ
+ÿï08@Rprotizer.ru^
 &ÿï08@Rproto2ad.durasite.net^
 ÿï08@Rprotoawe.com^
 (ÿï08@Rprotocolgroupgroups.com^
@@ -36837,9 +36819,9 @@ $ÿï08@Rprovider-direct.com^
 !ÿï08@Rpsaumseegroa.com^
 ÿï08@Rpsaurdoofy.com^
 ÿï08@Rpsaurteepo.com^
-ÿï08@Rpsaushoas.com^
+ÿï08@Rpsaushoas.com^ƒ
 ÿï08@Rpsausuck.net^
-ÿï08@Rpsauwaun.com^ƒ
+ÿï08@Rpsauwaun.com^
 "ÿï08@Rpschentinfile.com^
 ÿï08@Rpsclicks.com^
 ÿï08@R	psdn.xyz^
@@ -36902,9 +36884,9 @@ psfdi.com^
 !ÿï08@Rpsoostelrupt.net^
 ÿï08@Rpsootaun.com^
 ÿï08@Rpsootchu.net^
-ÿï08@Rpsoroumukr.com^
+ÿï08@Rpsoroumukr.com^œ
 ÿï08@Rpsothoms.com^
-ÿï08@Rpsotudev.com^¦
+ÿï08@Rpsotudev.com^
 ÿï08@Rpsougloo.com^
 ÿï08@Rpsougrie.com^
 ÿï08@Rpsoumoalt.com^
@@ -36968,9 +36950,9 @@ ptawe.com^
  ÿï08@Rpteemteethu.net^
 !ÿï08@Rpteeptamparg.xyz^
 !ÿï08@Rpteghoglapir.com^
-ÿï08@Rptekuwiny.pro^
+ÿï08@Rptekuwiny.pro^Œ
 !ÿï08@Rptensoghutsu.com^
-#ÿï08@Rptersudisurvey.top^
+#ÿï08@Rptersudisurvey.top^
 ÿï08@Rptewarin.net^
 ÿï08@Rptewauta.net^
 ÿï08@Rptexognouh.xyz^
@@ -37036,9 +37018,9 @@ $ÿï08@Rptsixwereksbef.info^
 ÿï08@Rptupsewo.net^
 ÿï08@Rptutchiz.com^
 ÿï08@Rptuxapow.com^
-!ÿï08@Rptvfranfbdaq.xyz^
+!ÿï08@Rptvfranfbdaq.xyz^ï
 ÿï08@Rptwebcams.com^
-ÿï08@Rptwmcd.com^í
+ÿï08@Rptwmcd.com^
 ÿï08@Rptwmemd.com^
 ÿï08@Rptwmjmp.com^
 ÿï08@Rptwmstc.com^
@@ -37102,9 +37084,9 @@ $ÿï08@Rpubpowerplatform.io^
 #ÿï08@Rpubsrv.devhints.io^
 ÿï08@Rpubtech.ai^
 ÿï08@R
-pubtm.com^
+pubtm.com^
 ÿï08@Rpubtrky.com^
-ÿï08@Rpubwise.io^†
+ÿï08@Rpubwise.io^
 !ÿï08@Rpuczuxqijadg.com^
 $ÿï08@Rpuddingdefeated.com^
 'ÿï08@Rpuddleincidentally.com^
@@ -37169,9 +37151,9 @@ $ÿï08@Rpurgeregulation.com^
 "ÿï08@Rpurgescholars.com^
 ÿï08@Rpurgoaho.xyz^
 #ÿï08@Rpurifybaptism.guru^
-;ÿï08@R+puromarketing.com/modals/main/modal_cookies
+;ÿï08@R+puromarketing.com/modals/main/modal_cookiesÕ
 ÿï08@Rpurpleads.io^
-ÿï08@Rpurpleflag.net^Õ
+ÿï08@Rpurpleflag.net^
 #ÿï08@Rpurplepatch.online^
 "ÿï08@Rpurposelyharp.com^
 (ÿï08@Rpurposelynextbinary.com^
@@ -37233,9 +37215,9 @@ $ÿï08@Rpush.bytesignal.com^
 ÿï08@Rpushame.com^
 ÿï08@Rpushamir.com^
 ÿï08@Rpushance.com^
-ÿï08@Rpushanert.com^
+ÿï08@Rpushanert.com^
 ÿï08@Rpushango.com^
-ÿï08@Rpushanishe.com^ÿ
+ÿï08@Rpushanishe.com^
 ÿï08@Rpushanya.net^
 ÿï08@Rpusharest.com^
 ÿï08@Rpushassist.com^
@@ -37297,9 +37279,9 @@ $ÿï08@Rpushinstruments.com^
 ÿï08@Rpushlat.com^
 ÿï08@Rpushlemm.com^
 ÿï08@Rpushlinck.com^
-ÿï08@Rpushlnk.com^
+ÿï08@Rpushlnk.com^„
 ÿï08@Rpushlommy.com^
-ÿï08@Rpushloop.io^
+ÿï08@Rpushloop.io^
 ÿï08@Rpushlum.com^
 ÿï08@Rpushly.com^
  ÿï08@Rpushmashine.com^
@@ -37361,9 +37343,9 @@ $ÿï08@Rpushinstruments.com^
 $ÿï08@Rpushyexcitement.pro^
 ÿï08@Rpushzolo.com^
 ÿï08@Rpusishegre.com^
-ÿï08@Rpussersy.com^
+ÿï08@Rpussersy.com^
 ÿï08@Rpussl3.com^
-ÿï08@Rpussl48.com^•
+ÿï08@Rpussl48.com^
 ÿï08@Rpussy-pics.net^
 .ÿï08@Rpussycash.com/content/banners/
 .ÿï08@Rpussycatxx.com/tab49fb22988.js
@@ -37427,9 +37409,9 @@ pvrtx.net^
 !ÿï08@Rpyxiscablese.com^
 ÿï08@Rpyzwxkb.com^
 !ÿï08@Rpzdwscqipdbg.com^
-#ÿï08@Rpzmeblamivop.world^
+#ÿï08@Rpzmeblamivop.world^Ü
 "ÿï08@Rpznhfofqtwkky.com^
-ÿï08@Rpzqfmhy.com^ß
+ÿï08@Rpzqfmhy.com^
 ÿï08@Rpzvai.site^
 ÿï08@Rq.broes.xyz^
 ÿï08@Rq.ikre.xyz^
@@ -37498,9 +37480,9 @@ qdmil.com^
 qeryz.com^
 !ÿï08@Rqewwklaovmmw.top^
 ÿï08@Rqf-ebeydt.top^
-!ÿï08@Rqfamlcfqhtla.com^
+!ÿï08@Rqfamlcfqhtla.com^“
 "ÿï08@Rqfaqwxkclrwel.com^
-ÿï08@Rqfdn3gyfbs.com^
+ÿï08@Rqfdn3gyfbs.com^
 ÿï08@Rqfgtepw.com^
 !ÿï08@Rqfiofvovgapc.com^
 ÿï08@Rqfjherc.com^
@@ -37567,9 +37549,9 @@ $ÿï08@Rqontent.powzers.lol^
 ÿï08@R
 qortex.ai^
 (ÿï08@Rqovua60gue.tubewolf.com^
-ÿï08@Rqowncyf.com^
+ÿï08@Rqowncyf.com^
 ÿï08@Rqozveo.com^
-"ÿï08@Rqp-kkhdfspt.space^
+"ÿï08@Rqp-kkhdfspt.space^
 !ÿï08@Rqpbtocrhhjnz.one^
 ÿï08@Rqppq166n.de^
 ÿï08@R
@@ -37636,9 +37618,9 @@ qrlsx.com^
 ÿï08@R
 quanta.la^
 +ÿï08@Rquantcast.mgr.consensu.org^
-ÿï08@Rquantoz.xyz^
+ÿï08@Rquantoz.xyz^Ñ
 ÿï08@Rquantumads.com^
-ÿï08@Rquantumdex.io^Ë
+ÿï08@Rquantumdex.io^
 ÿï08@Rquantumws.net^
 ÿï08@Rquanzai.xyz^
 ,ÿï08@Rquarantinedisappearhive.com^
@@ -37700,9 +37682,9 @@ $ÿï08@Rquilkinhulking.shop^
 %ÿï08@Rquitesousefulhe.info^
 ÿï08@Rquitjav11.fun^
 &ÿï08@Rquiveringriddance.com^
-#ÿï08@Rquizmastersnag.com^
+#ÿï08@Rquizmastersnag.com^¼
 ÿï08@Rquizna.xyz^
-ÿï08@Rqumagee.com^±
+ÿï08@Rqumagee.com^
  ÿï08@Rqummafsivff.com^
 !ÿï08@Rquokkacheeks.com^
 ÿï08@Rquora.com/ads/
@@ -37733,6 +37715,7 @@ t*
 ÿï08@Rquqliodl.com^
 ÿï08@Rqushad.com^
 ÿï08@Rqutejo.xyz^
+"ÿï08@Rquwsncrlcwjpj.com^
  ÿï08@Rquxsiraqxla.com^
  ÿï08@Rquxwpwcwmmx.xyz^
 ÿï08@Rquytsyru.com^
@@ -37783,10 +37766,10 @@ $ÿï08@Rqz496amxfh87mst.com^
 ÿï08@R
 r-q-e.com^
 ÿï08@R	r-tb.com^
-!ÿï08@Rr023m83skv5v.com^
+!ÿï08@Rr023m83skv5v.com^¯
 ÿï08@Rr18.com/track/
 ÿï08@Rr2b2.cz^
-ÿï08@Rr2b2.io^Õ
+ÿï08@Rr2b2.io^
 ÿï08@Rr42tag.com^
 &ÿï08@Rr5apiliopolyxenes.com^
 ÿï08@Rr66net.com^
@@ -37848,10 +37831,10 @@ $ÿï08@Rraidrush.net/ticker/
 ÿï08@Rraijigrip.com^
 ÿï08@Rraikijausa.net^
 .ÿï08@Rrailroadfatherenlargement.com^
-#ÿï08@Rrailroadlineal.com^
+#ÿï08@Rrailroadlineal.com^•
 'ÿï08@Rrailroadmanytwitch.com^
 'ÿï08@Rrailwayboringnasal.com^
-&ÿï08@Rrainchangedquaver.com^ø
+&ÿï08@Rrainchangedquaver.com^
 *ÿï08@Rraincoatbowedstubborn.com^
 *ÿï08@Rraincoatnonstopsquall.com^
 "ÿï08@Rrainmealslow.live^
@@ -37915,10 +37898,10 @@ tuoitre.vn08@Rraovat.tuoitre.vn^
 "ÿï08@Rrapidlybeaver.com^
 (ÿï08@Rrapidlypierredictum.com^
 %ÿï08@Rrapidshookdecide.com^
-!ÿï08@Rrapingdistil.com^
+!ÿï08@Rrapingdistil.com^”
 "ÿï08@Rrapmqouaqpmir.com^
 ÿï08@Rrapolok.com^
-ÿï08@R	rapt.com^œ
+ÿï08@R	rapt.com^
 "ÿï08@Rrapturemeddle.com^
 ÿï08@Rrar-vpn.com^
 ÿï08@R
@@ -37980,10 +37963,10 @@ $ÿï08@Rrayonnesiemens.shop^
  ÿï08@Rrazzlebuyer.com^
 ÿï08@Rrbcxttd.com^
 ÿï08@R	rbnt.org^
-"ÿï08@Rrboyqkyrwrvkq.top^
+"ÿï08@Rrboyqkyrwrvkq.top^ 
 ÿï08@Rrbqcg6g.de^
 &ÿï08@Rrbrightscarletcl.info^
-ÿï08@Rrbropocxt.com^²
+ÿï08@Rrbropocxt.com^
 ÿï08@Rrbtfit.com^
 ÿï08@Rrbthre.work^
 ÿï08@R
@@ -38016,6 +37999,7 @@ rdiul.com^
 ÿï08@Rrdsb2.club^
 !ÿï08@Rrdstation.com.br^
 ÿï08@Rrdtk.io^
+ÿï08@Rrdtlnutu.com^
 ÿï08@Rrdtracer.com^
 ÿï08@Rrdtrck2.com^
 ÿï08@Rrdwmct.com^
@@ -38045,11 +38029,11 @@ rdiul.com^
 ÿï08@Rreajyu.net^
 %ÿï08@Rreal-consequence.pro^
 ÿï08@Rrealbig.media^
-7ÿï08@R'realclearpolitics.com^*/widget_wrapper_
+7ÿï08@R'realclearpolitics.com^*/widget_wrapper_”
  ÿï08@Rrealclick.co.kr^
 ÿï08@Rrealclick.vn^
 ÿï08@Rrealevalbs.com^
-2ÿï08@R"realgfporn.com/js/bbbasdffdddf.phpœ
+2ÿï08@R"realgfporn.com/js/bbbasdffdddf.php
 #ÿï08@Rrealhumandeals.com^
 *ÿï08@Rrealisecheerfuljockey.com^
 .ÿï08@Rrealiseequanimityliteracy.com^
@@ -38109,11 +38093,11 @@ $ÿï08@Rreceiverchinese.com^
 -ÿï08@Rrecentlyremainingbrevity.com^
 #ÿï08@Rrecentlywishes.com^
 /ÿï08@Rrecentrecentboomsettlement.com^
-ÿï08@Rrecentteem.com^
+ÿï08@Rrecentteem.com^È
 'ÿï08@Rreceptiongrimoddly.com^
 #ÿï08@Rrecesslikeness.com^
 *ÿï08@Rrecesslotdisappointed.com^
-"ÿï08@Rrecesssignary.com^µ
+"ÿï08@Rrecesssignary.com^
 !ÿï08@Rrechannelapi.com^
 ÿï08@Rrechanque.com^
 (ÿï08@Rrecipefy.net/rssfeed.php
@@ -38173,11 +38157,11 @@ $ÿï08@Rrecordedthereby.com^
 #ÿï08@Rredbillecphory.com^
 "ÿï08@Rreddenlightly.com^
 )ÿï08@Rreddit.com/api/info.json?
-%ÿï08@Rreddit.com/button.js?
+%ÿï08@Rreddit.com/button.js?ú
 "ÿï08@Rreddit.com/static/
 ÿï08@Rreddleops.pro^
 "ÿï08@Rreddockbedman.com^
-!ÿï08@Rredeemforest.com^Œ
+!ÿï08@Rredeemforest.com^
 $ÿï08@Rredenyswallet.click^
 (ÿï08@Rredetaailshiletteri.com^
 $ÿï08@Rredfootchiros.click^
@@ -38239,11 +38223,11 @@ $ÿï08@Rredwingmagazine.com^
 "ÿï08@Rreewastogloow.net^
 ÿï08@Rreewoumak.com^
 ÿï08@Rrefbanners.com^
-#ÿï08@Rrefbanners.website^
+#ÿï08@Rrefbanners.website^„
 !ÿï08@Rrefereenutty.com^
 .ÿï08@Rreferredencouragedlearned.com^
 !ÿï08@Rreferrer.website^
-%ÿï08@Rrefershareus.xyz/ads?‹
+%ÿï08@Rrefershareus.xyz/ads?
 )ÿï08@Rreferwhimperceasless.com^
 ÿï08@R
 refia.xyz^
@@ -38305,11 +38289,11 @@ $ÿï08@Rregistroconsensi.it^
 ,ÿï08@Rregulationprivilegescan.top^
 !ÿï08@Rregulushamal.top^
 ÿï08@Rrehvbghwe.cc^
-Sÿï08@RCrei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^
+Sÿï08@RCrei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^™
  ÿï08@Rreicezenana.com^
 #ÿï08@Rreichelcormier.bid^
 <ÿï08@R,reiclub.com/templates/interviews/exit_popup/
-ÿï08@Rreindaks.com^”
+ÿï08@Rreindaks.com^
 *ÿï08@Rreinstandpointdumbest.com^
  ÿï08@Rreissue2871.xyz^
 ÿï08@Rrejco2.store^
@@ -38369,11 +38353,11 @@ $ÿï08@Rremainsuggested.com^
 -ÿï08@Rremarkableflashseptember.com^
 #ÿï08@Rremarkedoneof.info^
 ,ÿï08@Rremarksnicermasterpiece.com^
-+ÿï08@Rremax-malta.com/widget_new/
++ÿï08@Rremax-malta.com/widget_new/õ
 ÿï08@Rremaysky.com^
 %ÿï08@Rremedyabruptness.com^
 4ÿï08@R$remembercompetitioninexplicable.com^
-!ÿï08@Rremembergirl.com^ç
+!ÿï08@Rremembergirl.com^
 0ÿï08@R rememberinfertileeverywhere.com^
 *ÿï08@Rremembermaterialistic.com^
 .ÿï08@Rremembertoolsuperstitious.com^
@@ -38433,11 +38417,11 @@ $ÿï08@Rrepentant-plant.pro^
 *ÿï08@Rreplacementdispleased.com^
 &ÿï08@Rreplacestuntissue.com^
 ÿï08@Rreplynasal.com^
-ÿï08@Rreporo.net^
+ÿï08@Rreporo.net^Ì
 ÿï08@Rreport1.biz^
 +ÿï08@Rreportbulletindaybreak.com^
  ÿï08@Rreportions.club^
-"ÿï08@Rreposefearful.com^Î
+"ÿï08@Rreposefearful.com^
 $ÿï08@Rreposemarshknot.com^
 ÿï08@R
 repost.us^
@@ -38498,11 +38482,11 @@ $ÿï08@Rresesmyinteukr.info^
 "ÿï08@Rresidentshove.com^
 1ÿï08@R!residetransactionsuperiority.com^
 ,ÿï08@Rresignationcustomerflaw.com^
-*ÿï08@Rresignedcamelplumbing.com^
+*ÿï08@Rresignedcamelplumbing.com^ª
 "ÿï08@Rresignedsauna.com^
 $ÿï08@Rresinherjecling.com^
 "ÿï08@Rresinkaristos.com^
-#ÿï08@Rresionsfrester.com^®
+#ÿï08@Rresionsfrester.com^
 $ÿï08@Rresistanceouter.com^
 $ÿï08@Rresistcorrectly.com^
 "ÿï08@Rresistpajamas.com^
@@ -38562,11 +38546,11 @@ $ÿï08@Rrestrictionsvan.com^
 &ÿï08@Rresumeconcurrence.com^
 ÿï08@Rretagro.com^
 +ÿï08@Rretaineraerialcommonly.com^
-#ÿï08@Rretaliatepoint.com^
+#ÿï08@Rretaliatepoint.com^Ö
 -ÿï08@Rretardpreparationsalways.com^
 "ÿï08@Rretarget2core.com^
 !ÿï08@Rretargetcore.com^
-ÿï08@Rretargeter.com^Ñ
+ÿï08@Rretargeter.com^
 )ÿï08@Rretewebitalia.net/banner/
 #ÿï08@Rretgspondingco.com^
 ÿï08@Rreth45dq.de^
@@ -38626,11 +38610,11 @@ $ÿï08@Rrevive-adserver.net^
 ÿï08@Rrevivestar.com^
 ÿï08@Rreviveusa.com//
 ÿï08@R	revlt.be^
-ÿï08@Rrevmob.com^
+ÿï08@Rrevmob.com^·
 ÿï08@Rrevoke1266.fun^
 ÿï08@Rrevokejoin.com^
 #ÿï08@Rrevolutionary2.fun^
-)ÿï08@Rrevolutionpersuasive.com^©
+)ÿï08@Rrevolutionpersuasive.com^
 )ÿï08@Rrevolvemockerycopper.com^
 #ÿï08@Rrevolveoppress.com^
 1ÿï08@R!revolver.news/wp-content/banners/
@@ -38691,12 +38675,12 @@ rfity.com^
 #ÿï08@Rrhombicsomeday.com^
 $ÿï08@Rrhombicswotted.shop^
 ÿï08@Rrhombusads.com^
-#ÿï08@Rrhouseoyopers.info^
+#ÿï08@Rrhouseoyopers.info^û
 ÿï08@Rrhoxbneasg.xyz^
 ÿï08@R
 rhrim.com^
 ÿï08@Rrhsorga.com^
-'ÿï08@Rrhubarbmasterpiece.com^
+'ÿï08@Rrhubarbmasterpiece.com^
 *ÿï08@Rrhubarbsuccessesshaft.com^
 ÿï08@Rrhudsplm.com^
 $ÿï08@Rrhumbslauders.click^
@@ -38759,11 +38743,11 @@ $ÿï08@Rrigheegrelroazo.net^
 ÿï08@Rrikakza.xyz^
 ÿï08@Rrileimply.com^
 !ÿï08@Rrilelogicbuy.com^
-ÿï08@Rriluaneth.com^
+ÿï08@Rriluaneth.com^Ü
  ÿï08@Rrimefatling.com^
 #ÿï08@Rriminghoggoofy.com^
 ÿï08@Rrimoadoumo.net^
- ÿï08@Rrimwigckagz.com^à
+ ÿï08@Rrimwigckagz.com^
 #ÿï08@Rrincipledecli.info^
 #ÿï08@Rrinddelusional.com^
 #ÿï08@Rringashewasfl.info^
@@ -38825,12 +38809,12 @@ rkomf.com^
 ÿï08@R
 rlcdn.com^
 "ÿï08@Rrldwideorgani.org^
-$ÿï08@Rrletcloaksandth.com^
+$ÿï08@Rrletcloaksandth.com^¡
 %ÿï08@Rrlittleboywhowas.com^
 &ÿï08@Rrlornextthefirean.com^
 ÿï08@R
 rlxw.info^
-!ÿï08@Rrmahmighoogg.com^½
+!ÿï08@Rrmahmighoogg.com^
 (ÿï08@Rrmaticalacycurated.info^
 "ÿï08@Rrmervvazooqzk.top^
 ÿï08@Rrmhfrtnd.com^
@@ -38890,11 +38874,11 @@ $ÿï08@Rrocketplaintiff.com^
  ÿï08@Rrockmostbet.com^
 ÿï08@Rrockpicky.com^
 'ÿï08@Rrockpoint.xhaccess.com^
-'ÿï08@Rrockpoint.xhamster.com^
+'ÿï08@Rrockpoint.xhamster.com^­
 (ÿï08@Rrockpoint.xhamster.desi^
 (ÿï08@Rrockpoint.xhamster2.com^
 (ÿï08@Rrockpoint.xhamster3.com^
-*ÿï08@Rrockpoint.xhamster42.desi^™
+*ÿï08@Rrockpoint.xhamster42.desi^
 ÿï08@Rrockyou.net^
  ÿï08@Rrockytrails.top^
 ÿï08@Rrocoads.com^
@@ -38954,11 +38938,11 @@ $ÿï08@Rrolltrafficroll.com^
  ÿï08@Rrookretired.com^
 $ÿï08@Rrooksreused.website^
 "ÿï08@Rrookstashrif.shop^
- ÿï08@Rrookuvabege.net^
+ ÿï08@Rrookuvabege.net^¥
 !ÿï08@Rroomersgluts.com^
 $ÿï08@Rroommateskinner.com^
 (ÿï08@Rroompowerfulprophet.com^
-!ÿï08@Rroomrentpast.com^¡
+!ÿï08@Rroomrentpast.com^
 ÿï08@Rrooptawu.net^
 #ÿï08@Rrootderideflex.com^
  ÿï08@Rrootleretip.top^
@@ -39020,11 +39004,11 @@ $ÿï08@Rround-highlight.pro^
 ÿï08@Rroundpush.com^
 .ÿï08@Rroundspaniardindefinitely.com^
  ÿï08@Rrounidorana.com^
-ÿï08@Rrounsh.com^
+ÿï08@Rrounsh.com^²
 ÿï08@Rrouonixon.com^
 #ÿï08@Rrousedaudacity.com^
 -ÿï08@Rroute-fifty.com/cookie-policy
-ÿï08@Rrouteit.one^¼
+ÿï08@Rrouteit.one^
 ÿï08@Rrouteme.one^
 "ÿï08@Rrouterhydrula.com^
 ÿï08@Rroutes.name^
@@ -39088,11 +39072,11 @@ $ÿï08@Rrreauksofthecom.xyz^
 ÿï08@Rrsaltsjt.com^
 !ÿï08@Rrscilnmkkfbl.com^
 ÿï08@Rrsfmzirxwg.com^
-ÿï08@Rrsjagnea.com^
+ÿï08@Rrsjagnea.com^Ğ
 ÿï08@Rrsldfvt.com^
 <ÿï08@R,rspro.xyz/wp-content/uploads/*/redotpay.webp
  ÿï08@Rrss.dtiserv.com^
-ÿï08@Rrsspump.com^§
+ÿï08@Rrsspump.com^
  ÿï08@Rrst.pornyhd.com^
  ÿï08@Rrsthwwqhxef.xyz^
 >ÿï08@R.rswebsols.com/wp-content/uploads/rsws-banners/
@@ -39155,13 +39139,13 @@ rtclx.com^
 ÿï08@Rrtmark.net^
 ÿï08@Rrtnews.pro^
 $ÿï08@Rrtoukfareputfe.info^
-ÿï08@Rrtphit.com^
+ÿï08@Rrtphit.com^Ó
 ÿï08@R
 rtpnt.xyz^
 ÿï08@Rrtqdgro.com^
 ÿï08@R
 rtrgt.com^
-ÿï08@Rrtrgt2.com^ë
+ÿï08@Rrtrgt2.com^
 ÿï08@Rrtrhit.com^
 ÿï08@Rrtty.in^
 ÿï08@R
@@ -39224,11 +39208,11 @@ $ÿï08@Rruinedtolerance.com^
 (ÿï08@Rrummageengineneedle.com^
 !ÿï08@Rrummagemason.com^
 #ÿï08@Rrummentaltheme.com^
-$ÿï08@Rrummyaffiliates.com^
+$ÿï08@Rrummyaffiliates.com^Û
 ÿï08@Rrumsroots.com^
 "ÿï08@Rrun-syndicate.com^
 ÿï08@Rrun4app.com^
-'ÿï08@Rrunative-syndicate.com^È
+'ÿï08@Rrunative-syndicate.com^
 ÿï08@Rrunative.com^
 ÿï08@Rrunetki.co^
 ÿï08@Rrunetki.com^
@@ -39288,13 +39272,13 @@ $ÿï08@Rrxcihltrqjvdeus.com^
 ÿï08@Rrxeosevsso.com^
 ÿï08@Rrxrczbxdc.com^
 !ÿï08@Rrxtgbihqbs99.com^
-ÿï08@Rrxthdr.com^
+ÿï08@Rrxthdr.com^‚
 ÿï08@R
 rxvej.com^
 ÿï08@R
 ryads.xyz^
 !ÿï08@Rryaqlybvobjw.top^
-ÿï08@Rryauzo.xyz^¤
+ÿï08@Rryauzo.xyz^
 ÿï08@Rrydresa.info^
 (ÿï08@Rryenetworkconvicted.com^
 ÿï08@Rryeprior.com^
@@ -39364,11 +39348,11 @@ s7feh.top^
 #ÿï08@Rsabotageharass.com^
 #ÿï08@Rsackbarngroups.com^
 ÿï08@Rsackeelroy.net^
-0ÿï08@R sacredperpetratorbasketball.com^
+0ÿï08@R sacredperpetratorbasketball.com^ö
 (ÿï08@Rsacrificeaffliction.com^
 #ÿï08@Rsadbasindinner.com^
 &ÿï08@Rsaddlecooperation.com^
-!ÿï08@Rsadrettinnow.com^ù
+!ÿï08@Rsadrettinnow.com^
  ÿï08@Rsadsaunsord.com^
 -ÿï08@Rsafarinow.com/affiliate-zone/
 &ÿï08@Rsafe-connection21.com^
@@ -39428,11 +39412,11 @@ Dÿï08@R4sales-pop-dot-autoketing-production-sdk.appspot.com^
 #ÿï08@Rsalivanmobster.com^
 $ÿï08@Rsalivatreatment.com^
 !ÿï08@Rsalleamebean.com^
-%ÿï08@Rsallyfundamental.com^
+%ÿï08@Rsallyfundamental.com^î
 *ÿï08@Rsaltcardiacprotective.com^
 &ÿï08@Rsaltconfectionery.com^
 !ÿï08@Rsaltpairwoo.live^
-$ÿï08@Rsaltsarchlyseem.com^Ş
+$ÿï08@Rsaltsarchlyseem.com^
 #ÿï08@Rsaltsupbrining.com^
 /ÿï08@Rsalutationpersecutewindows.com^
 ÿï08@Rsalvador24.com^
@@ -39495,11 +39479,11 @@ $ÿï08@Rsaptiledispatch.com^
 #ÿï08@Rsarcasmadvisor.com^
 -ÿï08@Rsarcasticnotarycontrived.com^
 #ÿï08@Rsarcinedewlike.com^
-ÿï08@Rsarcodrix.com^
+ÿï08@Rsarcodrix.com^ì
 $ÿï08@Rsardineforgiven.com^
 ÿï08@Rsarinfalun.com^
  ÿï08@Rsarinnarks.shop^
-"ÿï08@Rsarrowgrivois.com^
+"ÿï08@Rsarrowgrivois.com^
 ÿï08@Rsartolutus.com^
 $ÿï08@Rsaryprocedentw.info^
 $ÿï08@Rsascdn.com/config.js
@@ -39559,11 +39543,11 @@ $ÿï08@Rsaunasupposedly.com^
 #ÿï08@Rsawfluenttwine.com^
 ÿï08@Rsaworbpox.com^
 ÿï08@Rsawsdaggly.com^
-"ÿï08@Rsayableconder.com^
+"ÿï08@Rsayableconder.com^Ä
 ÿï08@Rsaycaptain.com^
 ÿï08@Rsayelo.xyz^
 .ÿï08@Rsayhentai.one/assets/js/ads.js
-208@R$sayhentai.one/storage/images/banner/¬
+208@R$sayhentai.one/storage/images/banner/
 $ÿï08@Rsayingconvicted.com^
 )ÿï08@Rsayingdentalinternal.com^
 ÿï08@Rsaylnk.com^
@@ -39625,11 +39609,11 @@ $ÿï08@Rscapulaburgoo.click^
 ÿï08@Rscarfcreed.com^
 &ÿï08@Rscaringposterknot.com^
 $ÿï08@Rscarlet-clicks.info^
-!ÿï08@Rscarletmares.com^
+!ÿï08@Rscarletmares.com^Ã
 ÿï08@Rscarofnght.com^
  ÿï08@Rscarymarine.com^
 ÿï08@Rscashwl.com^
-'ÿï08@Rscatteredhecheaper.com^Ò
+'ÿï08@Rscatteredhecheaper.com^
 #ÿï08@Rscatulalactate.com^
 6ÿï08@R&scatxxxporn.com/static/images/banners/
 #ÿï08@Rscavelbuntine.life^
@@ -39689,11 +39673,11 @@ $ÿï08@Rscientificdimly.com^
 &ÿï08@Rscoreasleepbother.com^
 "ÿï08@Rscoredconnect.com^
 ,ÿï08@Rscoreheadingbabysitting.com^
-&ÿï08@Rscoreland.*/tranny.jpg
+&ÿï08@Rscoreland.*/tranny.jpgù
 %ÿï08@Rscoreland.com/banner/
 ÿï08@Rscorespro.com^
 #ÿï08@Rscormationwind.org^
-+ÿï08@Rscornphiladelphiacarla.com^€
++ÿï08@Rscornphiladelphiacarla.com^
 #ÿï08@Rscorpiovirls.click^
 $ÿï08@Rscorserbitting.shop^
 "ÿï08@Rscotergushing.com^
@@ -39755,11 +39739,11 @@ $ÿï08@Rsdkfjxjertertry.com^
 ÿï08@R
 sdkl.info^
 #ÿï08@Rsdmfyqkghzedvx.com^
-ÿï08@Rsdxtxvq.com^
+ÿï08@Rsdxtxvq.com^©
 ÿï08@Rseaboblit.com^
 'ÿï08@Rseafoodclickwaited.com^
 0ÿï08@R seafooddiscouragelavishness.com^
-#ÿï08@Rsealeryshilpit.com^˜
+#ÿï08@Rsealeryshilpit.com^
 !ÿï08@Rsealthatleak.com^
 (ÿï08@Rseamanphaseoverhear.com^
  ÿï08@Rseanfoisons.top^
@@ -39820,11 +39804,11 @@ $ÿï08@Rsecureaddisplay.com^
 %ÿï08@Rsecureclouddt-cd.com^
 "ÿï08@Rsecureconv-dl.com^
 !ÿï08@Rsecuredvisit.com^
-ÿï08@Rsecuregate.xyz^
+ÿï08@Rsecuregate.xyz^
  ÿï08@Rsecuregate9.com^
 ÿï08@Rsecuregfm.com^
 'ÿï08@Rsecureleadsforever.com^
-"ÿï08@Rsecureleadsrn.com^­
+"ÿï08@Rsecureleadsrn.com^
 "ÿï08@Rsecurely-send.com^
 ÿï08@Rsecuremoney.ru^
 &ÿï08@Rsecurenetguardian.top^
@@ -39885,11 +39869,11 @@ $ÿï08@Rseichesditali.click^
 "ÿï08@Rsekqeraneosbm.com^
  ÿï08@Rsel-sel-fie.com^
 *ÿï08@Rseldomsevereforgetful.com^
-ÿï08@Rselectad.com^
+ÿï08@Rselectad.com^ç
 &ÿï08@Rselectdisgraceful.com^
 &ÿï08@Rselectedhoarfrost.com^
 )ÿï08@Rselectedunrealsatire.com^
-!ÿï08@Rselectmedia.asia^ã
+!ÿï08@Rselectmedia.asia^
 ÿï08@Rselectr.net^
 !ÿï08@Rselecttopoff.com^
 "ÿï08@Rselenicabbot.shop^
@@ -39949,11 +39933,11 @@ $ÿï08@Rseminarentirely.com^
 !ÿï08@Rseo-overview.com^
 &ÿï08@Rseparatelyweeping.com^
 $ÿï08@Rseparatepattern.pro^
-'ÿï08@Rseparationalphabet.com^
+'ÿï08@Rseparationalphabet.com^‚
 +ÿï08@Rseparationharmgreatest.com^
 (ÿï08@Rseparationheadlight.com^
 ÿï08@Rseptads.store^
-!ÿï08@Rseptaraneae.shop^ë
+!ÿï08@Rseptaraneae.shop^
 (ÿï08@Rseptemberautomobile.com^
 $ÿï08@Rseptfd2em64eber.com^
 #ÿï08@Rseptierpotrack.com^
@@ -40017,12 +40001,12 @@ servh.net^
  ÿï08@Rserving-sys.com^
 ÿï08@Rservingcdn.net^
 "ÿï08@Rservingserved.com^
--ÿï08@Rservingsurroundworldwide.com^
+-ÿï08@Rservingsurroundworldwide.com^œ
 !ÿï08@Rservsserverz.com^
  ÿï08@Rservtraff97.com^
 ÿï08@R
 servw.bid^
- ÿï08@Rsessfetchio.com^ 
+ ÿï08@Rsessfetchio.com^
 %ÿï08@Rseteamsobtantion.com^
 "ÿï08@Rsetitoefanyor.org^
 'ÿï08@Rsetlitescmode-4.online^
@@ -40086,11 +40070,11 @@ sextf.com^
 .ÿï08@Rsextubebox.com/js/239eka836.js
 .ÿï08@Rsextubebox.com/js/580eka426.js
 %ÿï08@Rsextubepromo.com/ubr/
-ÿï08@Rsextubeweb.com^
+ÿï08@Rsextubeweb.com^ó
 %ÿï08@Rsextvx.com/*/ads/web/
 "ÿï08@Rsexualpitfall.com^
 ÿï08@Rsexufly.com^
-ÿï08@Rsexuhot.com^ù
+ÿï08@Rsexuhot.com^
 ÿï08@Rsexvertise.com^
  ÿï08@Rsexvid.pro/knxx/
 ÿï08@Rsexvid.pro/rrt/
@@ -40153,11 +40137,11 @@ $ÿï08@Rshameful-leader.com^
 'ÿï08@Rshameless-sentence.pro^
 )ÿï08@Rshamelessappellation.com^
 &ÿï08@Rshamelessgoodwill.com^
-,ÿï08@Rshamelessnullneutrality.com^
+,ÿï08@Rshamelessnullneutrality.com^„
 *ÿï08@Rshamepracticegloomily.com^
 !ÿï08@Rshamnmalcwob.com^
 ÿï08@Rshanaurg.net^
-ÿï08@Rshanorin.com^ƒ
+ÿï08@Rshanorin.com^
 *ÿï08@Rshapedhomicidalalbert.com^
 "ÿï08@Rshapelcounset.xyz^
 #ÿï08@Rshaperswhorts.shop^
@@ -40217,11 +40201,11 @@ $ÿï08@Rshdegtbokshipns.xyz^
 $ÿï08@Rshebudriftaiter.net^
 ÿï08@Rsheefursoz.com^
 ÿï08@Rsheegiwo.com^
-ÿï08@Rsheeltaibu.net^
+ÿï08@Rsheeltaibu.net^Ã
 ÿï08@Rsheeme.com^
 -ÿï08@Rsheerliteracyquestioning.com^
 ÿï08@Rsheeroop.com^
-ÿï08@Rsheeshumte.net^Î
+ÿï08@Rsheeshumte.net^
 ÿï08@Rsheesimo.net^
 ÿï08@Rsheetvibe.com^
 !ÿï08@Rsheewoamsaun.com^
@@ -40282,11 +40266,11 @@ $ÿï08@Rshinglelatitude.com^
 %ÿï08@Rshlyapapodplesk.site^
 ÿï08@Rshmokiads.com^
 ÿï08@Rshoabibs.xyz^
-#ÿï08@Rshoadessuglouz.net^
+#ÿï08@Rshoadessuglouz.net^·
 "ÿï08@Rshoalsestrepe.top^
 #ÿï08@Rshoathuftussux.net^
 &ÿï08@Rshockadviceinsult.com^
-$ÿï08@Rshocked-failure.com^³
+$ÿï08@Rshocked-failure.com^
 $ÿï08@Rshocking-design.pro^
 %ÿï08@Rshocking-profile.pro^
 "ÿï08@Rshockingrobes.com^
@@ -40346,11 +40330,11 @@ $ÿï08@Rshortfailshared.com^
 ÿï08@Rshowcasead.com^
 ÿï08@Rshowcasead.com^
 !ÿï08@Rshowcasebytes.co^
-!ÿï08@Rshowcasethat.com^
+!ÿï08@Rshowcasethat.com^æ
 "ÿï08@Rshowdoyoukno.info^
 "ÿï08@Rshowedinburgh.com^
 &ÿï08@Rshowedprovisional.com^
-!ÿï08@Rshowilycola.shop^ù
+!ÿï08@Rshowilycola.shop^
 ÿï08@Rshowjav11.fun^
 ÿï08@Rshowmebars.com^
 %ÿï08@Rshowmeyouradsnow.com^
@@ -40416,11 +40400,11 @@ $ÿï08@Rsibilantsuccess.com^
  ÿï08@Rsicklybates.com^
 /ÿï08@Rsicklypercussivecoordinate.com^
 !ÿï08@Rsicouthautso.net^
-ÿï08@Rsidanarchy.net^
+ÿï08@Rsidanarchy.net^û
 *ÿï08@Rsidebiologyretirement.com^
 ÿï08@Rsidebyx.com^
 )ÿï08@Rsidegeographycondole.com^
-/ÿï08@Rsidelinearrogantinterposed.com^Û
+/ÿï08@Rsidelinearrogantinterposed.com^
 !ÿï08@Rsidelinesapp.com^
 ,ÿï08@Rsidenoteinvolvingcranky.com^
 +ÿï08@Rsidenoteproductionbond.com^
@@ -40480,11 +40464,11 @@ $ÿï08@Rsimilarpresence.com^
 $ÿï08@Rsimplistic-king.pro^
 'ÿï08@Rsimply-hentai.com/prod/
  ÿï08@Rsimplyhired.com^
-(ÿï08@Rsimplyscepticaltoad.com^
+(ÿï08@Rsimplyscepticaltoad.com^Ä
 ÿï08@Rsimpunok.com^
 !ÿï08@Rsimurgmugged.com^
 ÿï08@Rsincalled.com^
-"ÿï08@Rsincenturypro.org^Î
+"ÿï08@Rsincenturypro.org^
 -ÿï08@Rsincerelyseverelyminimum.com^
 "ÿï08@Rsinderpalaced.top^
 !ÿï08@Rsing-tracker.com^
@@ -40544,11 +40528,11 @@ $ÿï08@Rsinterfumescomy.org^
 ÿï08@Rsitethree.com^
 ÿï08@Rsitewithg.com^
 *ÿï08@Rsittingtransformation.com^
--ÿï08@Rsituatedconventionalveto.com^
+-ÿï08@Rsituatedconventionalveto.com^®
 #ÿï08@Rsitymirableabo.org^
 $ÿï08@Rsiversbesomer.space^
  ÿï08@Rsiwheelsukr.xyz^
-!ÿï08@Rsixassertive.com^°
+!ÿï08@Rsixassertive.com^
 %ÿï08@Rsixcombatberries.com^
  ÿï08@Rsixft-apart.com^
 *€08@Rsixriversmedia.com/gfembed/
@@ -40609,11 +40593,11 @@ $ÿï08@Rskillpropulsion.com^
 %ÿï08@Rskiofficerdemote.com^
 /ÿï08@Rskipdissatisfactionengland.com^
 ÿï08@Rskipperx.net^
-(ÿï08@Rskirmishbabencircle.com^
+(ÿï08@Rskirmishbabencircle.com^«
 "ÿï08@Rskirtastelic.shop^
 $ÿï08@Rskirtimprobable.com^
 #ÿï08@Rskivingepileny.top^
-!ÿï08@Rskltrachqwbd.com^²
+!ÿï08@Rskltrachqwbd.com^
 ÿï08@Rsklxqcam.com^
 ÿï08@Rskohssc.cfd^
 ÿï08@Rskolvortex.com^
@@ -40675,11 +40659,11 @@ slfpu.com^
 ÿï08@Rslideaspen.com^
 'ÿï08@Rslidecaffeinecrown.com^
 ÿï08@Rslideff.com^
-#ÿï08@Rslidekidsstair.com^
+#ÿï08@Rslidekidsstair.com^ö
 ÿï08@Rslietap.com^
 !ÿï08@Rslight-tooth.com^
 )ÿï08@Rslightcareconditions.com^
-+ÿï08@Rslightestpretenddebate.com^ê
++ÿï08@Rslightestpretenddebate.com^
 'ÿï08@Rslightlyeaglepenny.com^
 ÿï08@Rslikslik.com^
 ÿï08@Rslimelump.com^
@@ -40739,12 +40723,12 @@ $ÿï08@Rsmachnakittchen.com^
 )ÿï08@Rsmallestspoutmuffled.com^
 -ÿï08@Rsmallestunrealilliterate.com^
 $ÿï08@Rsmallfunnybears.com^
-.08@R smallseotools.com/webimages/a12/
+.08@R smallseotools.com/webimages/a12/Ì
 ÿï08@R
 smarf.icu^
 &ÿï08@Rsmart-redirecting.com^
 ÿï08@Rsmart-wp.com^
-(ÿï08@Rsmart.idmnet.pl/consent/Ö
+(ÿï08@Rsmart.idmnet.pl/consent/
 #ÿï08@Rsmart1adserver.com^
 ÿï08@Rsmartad.ee^
 *ÿï08@Rsmartads.statsperform.com^
@@ -40807,11 +40791,11 @@ smi.today^
 ÿï08@Rsmkezc.com^
 ÿï08@Rsmljmp.com^
 ÿï08@Rsmlypotr.net^
-,ÿï08@Rsmn-news.com/images/banners/
+,ÿï08@Rsmn-news.com/images/banners/¾
 &ÿï08@Rsmokecreaseunpack.com^
 !ÿï08@Rsmokedbluish.com^
  ÿï08@Rsmokedcards.com^
-(ÿï08@Rsmokeorganizervideo.com^½
+(ÿï08@Rsmokeorganizervideo.com^
  ÿï08@Rsmonitor.com.br^
 (ÿï08@Rsmoothenglishassent.com^
 ÿï08@R
@@ -40873,11 +40857,11 @@ $ÿï08@Rsnippystowstool.com^
  ÿï08@Rsnobdilemma.com^
 %ÿï08@Rsnoopundesirable.com^
 ÿï08@Rsnoopytown.pro^
-'ÿï08@Rsnorefamiliarsiege.com^
+'ÿï08@Rsnorefamiliarsiege.com^æ
 !ÿï08@Rsnortedbingo.com^
 "ÿï08@Rsnortedhearth.com^
 )ÿï08@Rsnoutcaffeinecrowded.com^
-"ÿï08@Rsnoutcapacity.com^â
+"ÿï08@Rsnoutcapacity.com^
 #ÿï08@Rsnoutinsolence.com^
 "ÿï08@Rsnowdayonline.xyz^
 *ÿï08@Rsnowmanpenetrateditto.com^
@@ -40940,11 +40924,11 @@ $ÿï08@Rsociallypublish.com^
 ÿï08@Rsocialvibe.com^
 Bÿï08@R2societe-des-avis-garantis.fr/wp-content/*/widgets/
 %ÿï08@Rsocietyhavocbath.com^
-ÿï08@Rsociocast.com^
+ÿï08@Rsociocast.com^î
  ÿï08@Rsociomantic.com^
 &ÿï08@Rsocket.streamable.com^
  ÿï08@Rsocketbuild.com^
-$ÿï08@Rsockmildinherit.com^õ
+$ÿï08@Rsockmildinherit.com^
 )ÿï08@Rsocksupgradeproposed.com^
 !ÿï08@Rsockwardrobe.com^
 #ÿï08@Rsocxqrsbwxwyee.com^
@@ -41004,11 +40988,11 @@ $ÿï08@Rsolubleallusion.com^
 %ÿï08@Rsolutionsadultes.com^
  ÿï08@Rsomaskeefs.shop^
 ÿï08@Rsombes.com^
- ÿï08@Rsomedaytrip.com^
+ ÿï08@Rsomedaytrip.com^Ã
 #ÿï08@Rsomehowlighter.com^
 +ÿï08@Rsomehowluxuriousreader.com^
 ÿï08@Rsomeonetop.com^
-$ÿï08@Rsomeplacepepper.com^°
+$ÿï08@Rsomeplacepepper.com^
 0ÿï08@R somethingmanufactureinvalid.com^
 .ÿï08@Rsomethingprecursorfairfax.com^
 /ÿï08@Rsometimeadministratormound.com^
@@ -41074,11 +41058,11 @@ $ÿï08@Rsorrowfulcredit.pro^
 &ÿï08@Rsorryfearknockout.com^
 $ÿï08@Rsorryglossywimp.com^
 ÿï08@Rsorucall.com^
-ÿï08@Rsoshoord.com^
+ÿï08@Rsoshoord.com^ò
 #ÿï08@Rsosslereglair.shop^
 ÿï08@Rsotchoum.com^
 ÿï08@Rsotetahe.pro^
-!ÿï08@Rsothiacalain.com^
+!ÿï08@Rsothiacalain.com^
 &ÿï08@Rsoughtflaredeeper.com^
 ÿï08@Rsoukoope.com^
 "ÿï08@Rsoulslaidmale.com^
@@ -41140,11 +41124,11 @@ Pÿï*
 !ÿï08@Rspankmasters.com^
 %ÿï08@Rspannercopyright.com^
 %ÿï08@Rsparkerfarding.click^
-.ÿï08@Rsparkle-industries-i-205.site^
+.ÿï08@Rsparkle-industries-i-205.site^ë
 ,ÿï08@Rsparkleunwelcomepleased.com^
 08@Rsparkloop.app^
 $ÿï08@Rsparkrainstorm.host^
-!ÿï08@Rsparkstudios.com^õ
+!ÿï08@Rsparkstudios.com^
 +ÿï08@Rsparrowfencingnumerous.com^
 ÿï08@Rsparsgroff.com^
 ÿï08@Rsparteo.com^
@@ -41205,11 +41189,11 @@ $ÿï08@Rsperans-beactor.com^
 &ÿï08@Rspicy-combination.pro^
 !ÿï08@Rspicy-effect.com^
 $ÿï08@Rspicygirlshere.life^
-*ÿï08@Rspike-plant.valorbuff.com^
+*ÿï08@Rspike-plant.valorbuff.com^
 (ÿï08@Rspikearsonembroider.com^
 "ÿï08@Rspikedelishah.com^
 ÿï08@Rspikethat.xyz^
-/ÿï08@Rspilldemolitionarrangement.com^‚
+/ÿï08@Rspilldemolitionarrangement.com^
 ÿï08@Rspinasale.com^
 ÿï08@Rspinbox.net^
 #ÿï08@Rspindlyrebegin.top^
@@ -41270,11 +41254,11 @@ $ÿï08@Rspooksuspicions.com^
 :ÿï08@R*sportshub.to/player-source/images/banners/
 @ÿï08@R0sportskeeda.com/js/production/web-notifications/
 %ÿï08@Rsportsmanmeaning.com^
- ÿï08@Rsportstoday.pro^
+ ÿï08@Rsportstoday.pro^ß
 !ÿï08@Rsportstreams.xyz^
 $ÿï08@Rsportsyndicator.com^
 ÿï08@Rsportzflix.xyz^
-'ÿï08@Rspotbeepgreenhouse.com^õ
+'ÿï08@Rspotbeepgreenhouse.com^
 ÿï08@Rspotible.com^
  ÿï08@Rspotify.com/ads/
 #ÿï08@Rspotify.com/follow/
@@ -41335,11 +41319,11 @@ spxhu.com^
 (ÿï08@Rsquatcowarrangement.com^
 )ÿï08@Rsqueaknicheentangled.com^
 -ÿï08@Rsquealaviationrepeatedly.com^
-%ÿï08@Rsqueezesharedman.com^
+%ÿï08@Rsqueezesharedman.com^ 
 "ÿï08@Rsquintopposed.com^
 ,ÿï08@Rsquirrelformatapologise.com^
 )ÿï08@Rsquirrels.getsquirrel.co^
-*ÿï08@Rsquirtsuitablereverse.com^ÿ
+*ÿï08@Rsquirtsuitablereverse.com^
 ÿï08@Rsr7pv7n5x.com^
  ÿï08@Rsragegedand.org^
  ÿï08@Rsrbtztegq.today^
@@ -41402,11 +41386,11 @@ $ÿï08@Rstagerydialing.shop^
 "ÿï08@Rstaggeredplan.com^
 *ÿï08@Rstaggeredquelldressed.com^
 -ÿï08@Rstaggeredravehospitality.com^
-.ÿï08@Rstaggersuggestedupbrining.com^
+.ÿï08@Rstaggersuggestedupbrining.com^î
 "ÿï08@Rstagingjobshq.com^
 ÿï08@Rstaiftee.com^
 ÿï08@Rstained-a.pro^
-#ÿï08@Rstained-collar.pro^
+#ÿï08@Rstained-collar.pro^
 ,ÿï08@Rstaircaseminoritybeeper.com^
 #ÿï08@Rstairgoastoafa.net^
 ÿï08@Rstairtuy.com^
@@ -41467,11 +41451,11 @@ starti.pl^
 ÿï08@Rstatcamp.net^
 ,ÿï08@Rstatedfertileconference.com^
 'ÿï08@Rstatedthoughtslave.com^
-,ÿï08@Rstatementsnellattenuate.com^
+,ÿï08@Rstatementsnellattenuate.com^ç
 &ÿï08@Rstatesbenediction.com^
 $ÿï08@Rstatesmanchosen.com^
 /ÿï08@Rstatesmanmajesticcarefully.com^
-'ÿï08@Rstatesmansubstance.com^¸
+'ÿï08@Rstatesmansubstance.com^
 -ÿï08@Rstatestockingsconfession.com^
 %ÿï08@Rstatewilliamrate.com^
 t*
@@ -41494,6 +41478,7 @@ Dÿï08@R4static.chrono24.com/lib/generated/js/app-hint-layer.
 $ÿï08@Rstatic.philacct.com^
 4ÿï08@R$static.prd.datawars.io/static/promo/
  ÿï08@Rstatic.smi2.net^
+?ÿï08@R/static.socialminer.com/mastertag/Tray/common.js
 0ÿï08@R static.sunmedia.tv/integrations/
 (ÿï08@Rstatic.tradetracker.net^
 9ÿï08@R)static.twincdn.com/special/license.packed
@@ -41542,12 +41527,12 @@ s*
 xem20.gavang1.net*
 gavang3.link08@R+stc02bc54661548.cloud.anycastapnic.com^*gif
  ÿï08@Rstdirection.com^
-(ÿï08@Rsteadilyearnfailure.com^
+(ÿï08@Rsteadilyearnfailure.com^ñ
  ÿï08@Rsteadydonut.com^
 #ÿï08@Rsteadypriority.com^
 (ÿï08@Rsteadyquarryderived.com^
 %ÿï08@Rsteakdeteriorate.com^
- ÿï08@Rsteakeffort.com^Ş
+ ÿï08@Rsteakeffort.com^
 ,ÿï08@Rstealcurtainsdeeprooted.com^
 'ÿï08@Rstealingdyingprank.com^
  ÿï08@Rstealinggin.com^
@@ -41606,12 +41591,12 @@ $ÿï08@Rsternedfranion.shop^
 ÿï08@Rsteveirene.com^
 !ÿï08@Rstevoodsefta.com^
 &ÿï08@Rstewomelettegrand.com^
-ÿï08@Rstewsmall.com^
+ÿï08@Rstewsmall.com^±
 !ÿï08@Rstewsmemento.top^
 #ÿï08@Rstexoakraimtap.com^
 ÿï08@Rstgcdn.com^
 ÿï08@Rstgowan.com^
-"ÿï08@Rstherewerealo.org^Â
+"ÿï08@Rstherewerealo.org^
 ÿï08@Rsthgqhb.com^
 ÿï08@Rsthoutte.com^
 (ÿï08@Rsticalsdebaticalfe.info^
@@ -41670,12 +41655,12 @@ $ÿï08@Rstocker.bonnint.net^
 !ÿï08@Rstooboastaud.net^
  ÿï08@Rstoobsugree.net^
 $ÿï08@Rstoodthestatueo.com^
-ÿï08@Rstookoth.com^
+ÿï08@Rstookoth.com^ç
 ÿï08@Rstoomawy.net^
 (ÿï08@Rstoopeddemandsquint.com^
 *ÿï08@Rstoopedsignbookkeeper.com^
 ÿï08@Rstoopfalse.com^
- ÿï08@Rstoopsaipee.com^é
+ ÿï08@Rstoopsaipee.com^
 !ÿï08@Rstoopsellers.com^
 ÿï08@Rstoorgel.com^
 ÿï08@Rstoorgouxy.com^
@@ -41735,12 +41720,12 @@ $ÿï08@Rstorystaffrings.com^
 %ÿï08@Rstraight-storage.pro^
 #ÿï08@Rstraightenchin.com^
 /ÿï08@Rstraightenedsleepyanalysis.com^
-!ÿï08@Rstraightmenu.com^
+!ÿï08@Rstraightmenu.com^Ï
 $ÿï08@Rstrainemergency.com^
 !ÿï08@Rstrainprimar.com^
 %ÿï08@Rstraitchangeless.com^
 #ÿï08@Rstraitmeasures.com^
-#ÿï08@Rstraletmitvoth.com^ê
+#ÿï08@Rstraletmitvoth.com^
 -ÿï08@Rstranddecidedlydemeanour.com^
 !ÿï08@Rstrandedpeel.com^
 %ÿï08@Rstrandedprobable.com^
@@ -41799,12 +41784,12 @@ $ÿï08@Rstretchedcreepy.com^
 +ÿï08@Rstrictrebukeexasperate.com^
 $ÿï08@Rstridentbedroom.pro^
 *ÿï08@Rstrideovertakelargest.com^
-ÿï08@Rstrikead.com^
+ÿï08@Rstrikead.com^®
 (ÿï08@Rstrikeprowesshelped.com^
 ,ÿï08@Rstrikinghystericalglove.com^
 +ÿï08@Rstripchat.com/api/external/
 'ÿï08@Rstripchat.com^*/widget/
-%ÿï08@Rstripe.rs-1028-a.com^ó
+%ÿï08@Rstripe.rs-1028-a.com^
 !ÿï08@Rstripedcover.pro^
 #ÿï08@Rstripedonerous.com^
 !ÿï08@Rstriperoused.com^
@@ -41864,13 +41849,13 @@ struq.com^
 #ÿï08@Rstupidityitaly.com^
 $ÿï08@Rstupidityscream.com^
 -ÿï08@Rstupidspaceshipfestivity.com^
-#ÿï08@Rstutchoorgeltu.net^
+#ÿï08@Rstutchoorgeltu.net^Ò
 ÿï08@Rstuwhost.net^
 ÿï08@Rstvbiopr.net^
 ÿï08@R
 stvkr.com^
 ÿï08@Rstvwell.online^
-ÿï08@Rstyld-by.com^ö
+ÿï08@Rstyld-by.com^
 %ÿï08@Rstyletrackstable.com^
 ÿï08@Rstyleui.ru^
 $ÿï08@Rstylish-airport.com^
@@ -41929,12 +41914,12 @@ $ÿï08@Rsubmitexpress.co.uk^
 &ÿï08@Rsucceedprosperity.com^
  08@Rsucceedscene.com^
 !ÿï08@Rsuccess-news.net^
- ÿï08@Rsuccesscuff.com^
+ ÿï08@Rsuccesscuff.com^˜
 /ÿï08@Rsuccessionfireextinguisher.com^
 %ÿï08@Rsuccessionflimsy.com^
 !ÿï08@Rsuchasricew.info^
  ÿï08@Rsuchcesusar.org^
-ÿï08@Rsuchroused.com^
+ÿï08@Rsuchroused.com^
 ÿï08@Rsuckae.xyz^
 'ÿï08@Rsuckfaintlybooking.com^
 $08@Rsuckhoelamdep.vn^*.gif
@@ -41993,12 +41978,12 @@ Tÿï08@RDsundayobserver.lk/sites/default/files/pictures/COVID19-Flash-1_
 1ÿï08@R!sunglassesmentallyproficient.com^
 ÿï08@Rsunkcosign.com^
 !ÿï08@Rsunkwarriors.com^
-ÿï08@Rsunmedia.net^
+ÿï08@Rsunmedia.net^
  ÿï08@Rsunmediaads.com^
 ÿï08@Rsunnshele.com^
 !ÿï08@Rsunnudvelure.com^
 )ÿï08@Rsunnycategoryopening.com^
-!ÿï08@Rsunnyscanner.com^°
+!ÿï08@Rsunnyscanner.com^
  ÿï08@Rsunonline.store^
 'ÿï08@Rsunporno.com/api/spots/
 $ÿï08@Rsunporno.com/blb.php
@@ -42058,12 +42043,12 @@ $ÿï08@Rsuppermalignant.com^
 $ÿï08@Rsupportingbasic.com^
 'ÿï08@Rsupportive-promise.com^
 %ÿï08@Rsupportiverarity.com^
-)ÿï08@Rsupportresentbritish.com^
+)ÿï08@Rsupportresentbritish.com^£
 "ÿï08@Rsupposedbrand.com^
 .ÿï08@Rsupposedlycakeimplication.com^
 *ÿï08@Rsuppressedanalogyrain.com^
 .ÿï08@Rsuppressedbottlesenjoyable.com
-!ÿï08@Rsupqajfecgjv.com^­
+!ÿï08@Rsupqajfecgjv.com^
 ÿï08@Rsupremeden.com^
 #ÿï08@Rsupremeoutcome.com^
 (ÿï08@Rsupremepresumptuous.com^
@@ -42126,12 +42111,12 @@ $ÿï08@Rsusanbabysitter.com^
 %ÿï08@Rsuspectedadvisor.com^
 0ÿï08@R suspectunfortunateblameless.com^
 %ÿï08@Rsuspendedjetthus.com^
-(ÿï08@Rsuspensionstorykeel.com^
+(ÿï08@Rsuspensionstorykeel.com^ñ
 #ÿï08@Rsuspicionflyer.com^
 %ÿï08@Rsuspicionsmutter.com^
 2ÿï08@R"suspicionsrespectivelycobbler.com^
 ,ÿï08@Rsuspicionssmartstumbled.com^
--ÿï08@Rsustainsuspenseorchestra.com^Ú
+-ÿï08@Rsustainsuspenseorchestra.com^
 ÿï08@Rsuthaumsou.net^
 !ÿï08@Rsutiletoroid.com^
 ÿï08@Rsutraf.com^
@@ -42190,13 +42175,13 @@ $ÿï08@Rswan-swan-goose.com^
 ÿï08@Rswelen.com^
 )ÿï08@Rswellingconsultation.com^
 'ÿï08@Rswelltomatoesguess.com^
-"ÿï08@Rswelltouching.com^
+"ÿï08@Rswelltouching.com^
 "ÿï08@Rsweltdiasper.shop^
 $ÿï08@Rswelteringcrazy.pro^
 %ÿï08@Rsweptbroadarchly.com^
 ÿï08@Rswesomepop.com^
 2ÿï*
-swiftype.com08@Rswiftypecdn.com^
+swiftype.com08@Rswiftypecdn.com^
 !ÿï08@Rswiggermahwa.com^
 "ÿï08@Rswimmerallege.com^
 %ÿï08@Rswimmerperfectly.com^
@@ -42257,12 +42242,12 @@ $ÿï08@Rsycow.pl/a/cookie.js
 'ÿï08@Rsync-transcend-cdn.com^
 6 08@R(sync.amperwave.net/api/get/magnite/auid=
 %ÿï08@Rsynchronizerobot.com^
-'ÿï08@Rsyndicate.payloadz.com^
+'ÿï08@Rsyndicate.payloadz.com^®
 &ÿï08@Rsyndicatedsearch.goog^
 (ÿï08@Rsyndication.jsadapi.com^
 $ÿï08@Rsyndromeentered.com^
 #ÿï08@Rsyndromegarlic.com^
-ÿï08@Rsynkd.life^‘
+ÿï08@Rsynkd.life^
 ;ÿï08@R+synology.com/js/syno/syno_cookie_element.js
 -ÿï08@Rsynonymcuttermischievous.com^
 ÿï08@Rsynsads.com^
@@ -42326,12 +42311,12 @@ Zÿï*
 independent.co.uk*
 technobuffalo.com*
 outlook.live.com08@Rtaboola.com^
-08@Rtaboola.com^
+08@Rtaboola.com^
  ÿï08@Rtackleyoung.com^
 ÿï08@Rtackmainly.com^
 ÿï08@Rtacoda.net^
 ÿï08@Rtacopush.ru^
-ÿï08@Rtacrater.com^¤
+ÿï08@Rtacrater.com^
 %ÿï08@Rtacticalrepublic.com^
 $ÿï08@Rtacticmuseumbed.com^
 #ÿï08@Rtacticsadamant.com^
@@ -42393,12 +42378,12 @@ $ÿï08@Rtakefile.link/promo/
 ÿï08@Rtakelnk.com^
  ÿï08@Rtakemybackup.co^
 ÿï08@Rtakemydesk.co^
-*ÿï08@Rtakeoutregularlyclack.com^
+*ÿï08@Rtakeoutregularlyclack.com^’
 "ÿï08@Rtakeoverrings.com^
 "ÿï08@Rtakeyouforward.co^
 'ÿï08@Rtakingbelievingbun.com^
 ÿï08@Rtakingpot.com^
- ÿï08@Rtakiparkrb.site^
+ ÿï08@Rtakiparkrb.site^
  ÿï08@Rtalabsorbs.shop^
 ÿï08@Rtalaobsf.shop^
 ÿï08@Rtalaropa.com^
@@ -42458,12 +42443,12 @@ tapdb.net^
 ÿï08@Rtaproximo.com^
  ÿï08@Rtaprtopcldfa.co^
 "ÿï08@Rtaprtopcldfard.co^
- ÿï08@Rtaprtopcldfb.co^
+ ÿï08@Rtaprtopcldfb.co^Ã
 ÿï08@Rtapwhigwy.com^
 !ÿï08@Rtarafnagging.com^
 ÿï08@Rtarcavbul.com^
 ÿï08@Rtardangro.com^
-ÿï08@Rtargaubs.com^Ñ
+ÿï08@Rtargaubs.com^
 !ÿï08@Rtargechirtil.net^
 !ÿï08@Rtarget.vivid.com^
 ÿï08@Rtargetbay.com^
@@ -42523,12 +42508,12 @@ tbpot.com^
 ÿï08@Rtbudz.co.in^
 ÿï08@Rtbxyuwctmt.com^
 #ÿï08@Rtbydnpeykunahn.com^
-+ÿï08@Rtcadserver.rain-digital.ca^
++ÿï08@Rtcadserver.rain-digital.ca^‘
 !ÿï08@Rtcaochocskid.com^
 ÿï08@Rtcdypeptz.com^
 ÿï08@Rtcgjpib.com^
 )ÿï08@Rtcloaksandtheirclean.com^
-"ÿï08@Rtcontametrop.info^
+"ÿï08@Rtcontametrop.info^
 ÿï08@Rtcowmrj.com^
 ÿï08@Rtcpcharms.com^
 ÿï08@R
@@ -42589,12 +42574,12 @@ $ÿï08@Rtechourtoapingu.com^
 "ÿï08@Rtecominchisel.com^
 ÿï08@Rtecuil.com^
 $ÿï08@Rtedhilarlymcken.org^
-&ÿï08@Rtediousgorgefirst.com^
+&ÿï08@Rtediousgorgefirst.com^Ç
 )ÿï08@Rtediouswavingwhiskey.com^
 ÿï08@Rtedtaxi.com^
 ÿï08@Rtedtug.com^
 ÿï08@Rteeglimu.com^
-(ÿï08@Rteemmachinerydiffer.com^Á
+(ÿï08@Rteemmachinerydiffer.com^
 ÿï08@Rteemooge.net^
 'ÿï08@Rteenagerapostrophe.com^
 !ÿï08@Rteenporno.xxx/ab/
@@ -42655,12 +42640,12 @@ $ÿï08@Rtemgthropositea.com^
 %ÿï08@Rtenseapprobation.com^
 "ÿï08@Rtensorsbancos.com^
 'ÿï08@Rtentativenegotiate.com^
-ÿï08@Rtenthgiven.com^
+ÿï08@Rtenthgiven.com^í
 !ÿï08@Rtenthsfrumpy.com^
 $ÿï08@Rtentioniaukmla.info^
 ÿï08@Rtentmess.com^
 ÿï08@Rtentubu.xyz^
-!ÿï08@Rtenutoboma.click^å
+!ÿï08@Rtenutoboma.click^
 ,08@Rtepbac.com/upload/advertiment/
  ÿï08@Rtepysilscpm.xyz^
 (ÿï08@Rterabigyellowmotha.info^
@@ -42722,13 +42707,13 @@ tfb7jc.de^
 ÿï08@R	tfla.xyz^
 ÿï08@Rtfmgqdj.com^
 ÿï08@Rtfosrv.com^
-ÿï08@Rtfsqxdc.com^
+ÿï08@Rtfsqxdc.com^Ş
 ÿï08@Rtfsxszw.com^
 ÿï08@Rtftnbbok.xyz^
 ÿï08@R
 tftrm.com^
 !ÿï08@Rtgandmotivat.com^
-#ÿï08@Rtgbpdufhyqbvhx.com^ë
+#ÿï08@Rtgbpdufhyqbvhx.com^
 ÿï08@Rtgel2ebtx.ru^
 !ÿï08@Rtgktlgyqsffx.xyz^
 ÿï08@Rtgolived.com^
@@ -42787,12 +42772,12 @@ C08@R5thaudiotruyen.com/wp-content/uploads/2024/10/temu.jpg
 ÿï08@Rtheapple.site^
 #ÿï08@Rtheathematica.info^
 $ÿï08@Rthebestgame2020.com^
-ÿï08@Rthebtrads.top^
+ÿï08@Rthebtrads.top^Ã
 &ÿï08@Rthecarconnections.com^
 ÿï08@Rthechleads.pro^
 ÿï08@Rthechoansa.com^
 #ÿï08@Rthechronicles2.xyz^
-ÿï08@Rtheckouz.com^Ü
+ÿï08@Rtheckouz.com^
 &ÿï08@Rthecoinworsttrack.com^
 !ÿï08@Rthecoolposts.com^
 ÿï08@Rthecoreadv.com^
@@ -42853,12 +42838,12 @@ $ÿï08@Rthematicalaste.info^
  ÿï08@Rthenicenewz.com^
 .ÿï08@Rthenipslip.com/b6c0cc29df5a.js
 ÿï08@Rtheod-omq.com^
-ÿï08@Rtheod-qsr.com^
+ÿï08@Rtheod-qsr.com^ü
 ,ÿï08@Rtheologicalpresentation.com^
 ÿï08@Rtheonecdn.com^
 ,ÿï08@Rtheonesstoodtheirground.com^
 ÿï08@Rtheonlins.com^
-)ÿï08@Rtheorysuspendlargest.com^á
+)ÿï08@Rtheorysuspendlargest.com^
 ÿï08@Rtheoutplay.com^
  ÿï08@Rtheoverheat.com^
 ÿï08@Rthepayporn.com^
@@ -42920,12 +42905,12 @@ $ÿï08@Rthickstatements.com^
 !ÿï08@Rthiefbeseech.com^
 $ÿï08@Rthiefperpetrate.com^
 #ÿï08@Rthievesanction.com^
- ÿï08@Rthiftossebi.net^
+ ÿï08@Rthiftossebi.net^Ô
 !ÿï08@Rthighleopard.com^
 ÿï08@Rthikraik.net^
 ÿï08@Rthikreept.com^
 (ÿï08@Rthimblehaltedbounce.com^
-ÿï08@Rthin-hold.pro^é
+ÿï08@Rthin-hold.pro^
 "ÿï08@Rthingrealtape.com^
 !ÿï08@Rthingsshrill.com^
 "ÿï08@Rthingstorrent.com^
@@ -42984,12 +42969,12 @@ $ÿï08@Rthomasbarlowpro.com^
 )ÿï08@Rthoroughlynightsteak.com^
 %ÿï08@Rthoroughlypantry.com^
 $ÿï08@Rthoroughlyshave.com^
-)ÿï08@Rthorperepresentation.com^
+)ÿï08@Rthorperepresentation.com^ä
 /ÿï08@Rthorpeseriouslybabysitting.com^
 ÿï08@Rthoseads.com^
 ÿï08@Rthoudroa.net^
 -ÿï08@Rthoughtgraphicshoarfrost.com^
-!ÿï08@Rthoughtleadr.com^Ñ
+!ÿï08@Rthoughtleadr.com^
 0ÿï08@R thoughtlessindeedopposition.com^
 !ÿï08@Rthouphouwhad.net^
 ÿï08@Rthoupsuk.net^
@@ -43048,12 +43033,12 @@ $ÿï08@Rthrongwhirlpool.com^
 $ÿï08@Rti.tradetracker.net^
 ÿï08@Rtiaoap.xyz^
 ÿï08@Rtibacta.com^
-!ÿï08@Rtibcpowpiaqv.com^
+!ÿï08@Rtibcpowpiaqv.com^˜
 ÿï08@Rtibykzo.com^
  ÿï08@Rtic-tic-bam.com^
  ÿï08@Rtic-tic-toc.com^
 !ÿï08@Rticaframeofm.xyz^
-'ÿï08@Rticalfelixstownru.info^“
+'ÿï08@Rticalfelixstownru.info^
 ÿï08@Rtichoake.xyz^
 $ÿï08@Rticielongsuched.com^
 %ÿï08@Rticketnegligence.com^
@@ -43112,12 +43097,12 @@ $ÿï08@Rtimesroadmapwed.com^
  ÿï08@Rtinbuadserv.com^
 %ÿï08@Rtingecauyuksehin.com^
 *ÿï08@Rtingexcelelernodyden.info^
-"ÿï08@Rtingisincused.com^
+"ÿï08@Rtingisincused.com^ß
 ÿï08@Rtingrinter.com^
 "ÿï08@Rtingswifing.click^
 #ÿï08@Rtinhayvip.com^*.gif
 ÿï08@Rtinker.com^
- ÿï08@Rtinkerwidth.com^İ
+ ÿï08@Rtinkerwidth.com^
 %ÿï08@Rtinkleswearfranz.com^
 .ÿï08@Rtinmoi.vn/?mod=ajax&act=getAds
 "08@Rtinsoikeo.live^*.gif
@@ -43193,13 +43178,13 @@ tjfot.com^
  ÿï08@Rtkmrdtcfoid.com^
 "ÿï08@Rtkqlhce.com/image-
 (ÿï08@Rtkqlhce.com/placeholder-
-!ÿï08@Rtktube.com/adlib/
+!ÿï08@Rtktube.com/adlib/İ
 ÿï08@Rtktujhhc.com^
 ÿï08@R
 tl2go.com^
 (ÿï08@Rtlavideo.com/affiliates/
 "ÿï08@Rtlingitlaisse.top^
-ÿï08@Rtlootas.org^ë
+ÿï08@Rtlootas.org^
 ÿï08@Rtlrkcj17.de^
  ÿï08@Rtlsmluxersi.com^
 ÿï08@Rtlvmedia.com^
@@ -43260,12 +43245,12 @@ $ÿï08@Rtocontraceptive.com^
 .ÿï08@Rtoffeecollationsdogcollar.com^
 ÿï08@Rtogenron.com^
 %ÿï08@Rtogetherballroom.com^
-ÿï08@Rtoglooman.com^
+ÿï08@Rtoglooman.com^
 ÿï08@Rtogothitaa.com^
  ÿï08@Rtogranbulla.com^
 "ÿï08@Rtohechaustoox.net^
 )ÿï08@Rtoiletallowingrepair.com^
-!ÿï08@Rtoiletpaper.life^Ÿ
+!ÿï08@Rtoiletpaper.life^
 %ÿï08@Rtoithuthuat.com^*.gif
 ÿï08@Rtokenads.com^
 ÿï08@Rtokenbroker.sh^
@@ -43324,12 +43309,12 @@ $ÿï08@Rtools.net-parade.it^
 "ÿï08@Rtoothoverdone.com^
  ÿï08@Rtoothstrike.com^
 ÿï08@Rtoovoala.net^
- ÿï08@Rtoowubozout.net^
+ ÿï08@Rtoowubozout.net^ï
 %ÿï08@Rtop-performance.best^
 %ÿï08@Rtop-performance.club^
 $ÿï08@Rtop-performance.top^
 %ÿï08@Rtop-performance.work^
-)ÿï08@Rtop100-images.rambler.ru^ö
+)ÿï08@Rtop100-images.rambler.ru^
 "ÿï08@Rtop100.rambler.ru^
 ÿï08@R
 top100.ru^
@@ -43390,12 +43375,12 @@ topsy.com^
 ÿï08@Rtorioluor.com^
 $ÿï08@Rtoroadvertising.com^
 ÿï08@Rtoromclick.com^
-ÿï08@Rtororango.com^
+ÿï08@Rtororango.com^´
 ÿï08@Rtorpsol.com^
 ÿï08@Rtorrango.com^
 'ÿï08@Rtorrent-protection.com^
  ÿï08@Rtorrent911.ws/z-
-Cÿï08@R3torrenteditor.com/img/graphical-network-monitor.gifŠ
+Cÿï08@R3torrenteditor.com/img/graphical-network-monitor.gif
 4ÿï08@R$torrentfreak.com/wp-content/banners/
 'ÿï08@Rtorrentsuperintend.com^
 )ÿï08@Rtorrindex.net/images/ads/
@@ -43455,12 +43440,12 @@ $ÿï08@Rtourukaustoglee.net^
 %ÿï08@Rtownrusisedpriva.org^
 'ÿï08@Rtownrusisedprivat.info^
 (ÿï08@Rtownstainpolitician.com^
-!ÿï08@Rtoxemiaslier.com^
+!ÿï08@Rtoxemiaslier.com^Œ
 "ÿï08@Rtoxonetwigger.com^
 ÿï08@Rtoxtren.com^
 !ÿï08@Rtoyarableits.com^
 ÿï08@Rtozoruaon.com^
-ÿï08@Rtozqvor.com^‘
+ÿï08@Rtozqvor.com^
 ÿï08@Rtozuoi.xyz^
 ÿï08@Rtpbdir.com^
 *ÿï08@Rtpc.googlesyndication.com^
@@ -43525,12 +43510,12 @@ $ÿï08@Rtrackingmembers.com^
 "ÿï08@Rtrackmedclick.com^
 ÿï08@Rtrackmundo.com^
 !ÿï08@Rtrackpshgoto.win^
-ÿï08@Rtrackpush.com^
+ÿï08@Rtrackpush.com^
 ÿï08@Rtracks20.com^
 !ÿï08@Rtracksfaster.com^
 !ÿï08@Rtrackspeeder.com^
 "ÿï08@Rtrackstracker.com^
-ÿï08@Rtracktds.com^‡
+ÿï08@Rtracktds.com^
 ÿï08@Rtracktds.live^
 $ÿï08@Rtracktilldeath.club^
 ÿï08@Rtrackuity.com^
@@ -43589,12 +43574,12 @@ $ÿï08@Rtrafficmagnates.com^
 ÿï08@Rtrafficman.io^
 &ÿï08@Rtrafficmediaareus.com^
  ÿï08@Rtrafficmoon.com^
-!ÿï08@Rtrafficmoose.com^
+!ÿï08@Rtrafficmoose.com^
 !ÿï08@Rtrafficpimps.com^
 #ÿï08@Rtrafficportsrv.com^
 ÿï08@Rtrafficsan.com^
  ÿï08@Rtrafficshop.com^
-!ÿï08@Rtrafficstars.com^“
+!ÿï08@Rtrafficstars.com^
 !ÿï08@Rtrafficswarm.com^
 #ÿï08@Rtraffictraders.com^
 'ÿï08@Rtraffictraffickers.com^
@@ -43662,12 +43647,12 @@ $ÿï08@Rtransmission423.fun^
 *ÿï08@Rtransportationdelight.com^
 &ÿï08@Rtrapexpansionmoss.com^
 !ÿï08@Rtrappedpetty.com^
- ÿï08@Rtrapskating.com^
+ ÿï08@Rtrapskating.com^ı
 ,ÿï08@Rtrashdisguisedextension.com^
 ÿï08@Rtrasupr.com^
 ÿï08@Rtratbc.com^
 %ÿï08@Rtraumatizedenied.com^
- ÿï08@Rtraumavirus.com^í
+ ÿï08@Rtraumavirus.com^
 1ÿï08@R!travel.mediaalpha.com/js/serve.js
 &ÿï08@Rtraveladvertising.com^
 )ÿï08@Rtraveldurationbrings.com^
@@ -43727,13 +43712,13 @@ $ÿï08@Rtrendmouthsable.com^
 &ÿï08@Rtrespassapologies.com^
 ÿï08@Rtretmumbel.com^
 ÿï08@Rtrewnhiok.com^
-ÿï08@Rtreycircle.com^
+ÿï08@Rtreycircle.com^¸
 ÿï08@Rtrfpump.com^
 ÿï08@Rtrftopp.biz^
  ÿï08@Rtrhdcukvcpz.com^
 ÿï08@R
 tri.media^
-&ÿï08@Rtriadmedianetwork.com^´
+&ÿï08@Rtriadmedianetwork.com^
 )ÿï08@Rtrialdepictprimarily.com^
 !ÿï08@Rtrialsgroove.com^
 &ÿï08@Rtrianglecollector.com^
@@ -43797,13 +43782,13 @@ trknk.com^
 'ÿï08@Rtrksmorestreacking.com^
 ÿï08@Rtrktnc.com^
 ÿï08@Rtrkunited.com^
-ÿï08@Rtrlxcf05.com^
+ÿï08@Rtrlxcf05.com^³
 ÿï08@R
 trmit.com^
 ÿï08@Rtrmobc.com^
 ÿï08@Rtrmzum.com^
 $ÿï08@Rtrocarssubpool.shop^
- ÿï08@Rtrodspivery.com^Î
+ ÿï08@Rtrodspivery.com^
 ÿï08@Rtrokemar.com^
 &ÿï08@Rtrolleydemocratic.com^
  ÿï08@Rtrolleytool.com^
@@ -43863,12 +43848,12 @@ $ÿï08@Rtrustflayer1.online^
 %ÿï08@Rtrusting-produce.com^
 %ÿï08@Rtrustiseverything.de^
 #ÿï08@Rtrustmaxonline.com^
-'ÿï08@Rtrustseal.e-rasaneh.ir^
+'ÿï08@Rtrustseal.e-rasaneh.ir^
 2ÿï08@R"trustworthyturnstileboyfriend.com^
 ÿï08@Rtrustx.org^
 $ÿï08@Rtrusty-research.com^
 ÿï08@Rtrustyable.com^
-ÿï08@Rtrustyfine.com^¤
+ÿï08@Rtrustyfine.com^
 "ÿï08@Rtrustzonevpn.info^
 "ÿï08@Rtrutheyesstab.com^
 $ÿï08@Rtruthfulanomaly.com^
@@ -43929,12 +43914,12 @@ $ÿï08@Rtthathehadstop.info^
 ÿï08@Rttzmedia.com^
 0ÿï08@R tubator.com/lookout/ex_rendr3.js
 ÿï08@Rtubberlo.com^
-&ÿï08@Rtubbyconversation.pro^
+&ÿï08@Rtubbyconversation.pro^
 ÿï08@Rtube.ac^
 <ÿï08@R,tube.hentaistream.com/wp-includes/js/pop4.js
 "ÿï08@Rtubeadnetwork.com^
 ÿï08@Rtubeadv.com^
-#ÿï08@Rtubeadvertising.eu^€
+#ÿï08@Rtubeadvertising.eu^
  ÿï08@Rtubeadvisor.com^
 ÿï08@Rtubecoast.com^
  ÿï08@Rtubecontext.com^
@@ -43994,12 +43979,12 @@ $ÿï08@Rtunnerbiogeny.click^
  ÿï08@Rtuquesperes.com^
  ÿï08@Rtur-tur-key.com^
 &ÿï08@Rturb.cc/fd1/img/promo/
-!ÿï08@Rturbanmadman.com^
+!ÿï08@Rturbanmadman.com^û
 ÿï08@Rturboadv.com^
 !ÿï08@Rturbobit.net/pus/
 ÿï08@Rturbocap.net^
 ÿï08@Rturbolit.biz^
-ÿï08@Rturbostats.xyz^
+ÿï08@Rturbostats.xyz^
 +ÿï08@Rturbulentfeatherhorror.com^
 (ÿï08@Rturbulentimpuresoul.com^
 $ÿï08@Rtureukworektob.info^
@@ -44060,12 +44045,12 @@ Sÿï08@RCtvpworld.com/files/portale-v4/polityka-prywatnosci/js/tvp-tcfap
 $ÿï08@Rtwentiesinquiry.com^
 +ÿï08@Rtwentyatonementflowing.com^
 #ÿï08@Rtwentyaviation.com^
-,ÿï08@Rtwentycustomimprovement.com^
+,ÿï08@Rtwentycustomimprovement.com^Ï
 (ÿï08@Rtwentydisappearance.com^
 &ÿï08@Rtwentydruggeddumb.com^
 ÿï08@Rtwewmykfe.com^
 #ÿï08@Rtwi-hjritecl.world^
-ÿï08@Rtwigwisp.com^Á
+ÿï08@Rtwigwisp.com^
 'ÿï08@Rtwilightsuburbmill.com^
 ÿï08@Rtwinadsrv.com^
 !ÿï08@Rtwinboutjuly.com^
@@ -44126,12 +44111,12 @@ $ÿï08@Rtypescoordinate.com^
  ÿï08@Rtypgodaovzh.com^
 %ÿï08@Rtypicalappleashy.com^
 &ÿï08@Rtypicallyapplause.com^
-*ÿï08@Rtypicalsecuritydevice.com^
+*ÿï08@Rtypicalsecuritydevice.com^“
 #ÿï08@Rtypicalstudent.org^
 ÿï08@Rtypiccor.com^
 !ÿï08@Rtypiconrices.com^
 ÿï08@Rtypojesuit.com^
-ÿï08@Rtyqwjh23d.com^
+ÿï08@Rtyqwjh23d.com^
 "ÿï08@Rtyranbrashore.com^
 !ÿï08@Rtyranpension.com^
 !ÿï08@Rtyrianbewrap.top^
@@ -44197,12 +44182,12 @@ Gÿï08@R7uchubiz.com/wp-content/themes/uchubiz/assets/js/push.js
 udbaa.com^
 ÿï08@Rudinugoo.com^
 ÿï08@Rudmserve.net^
-ÿï08@Rudookrou.com^
+ÿï08@Rudookrou.com^æ
 ÿï08@Ruduxztwig.com^
 ÿï08@Rudzpel.com^
 0ÿï08@R uefa.com/imgml/uefacom/sponsors/
  ÿï08@Ruejntsxdffp.com^
- ÿï08@Ruel-uel-fie.com^ã
+ ÿï08@Ruel-uel-fie.com^
 ÿï08@Ruelllwrite.com^
 #ÿï08@Ruenwfxleosjsyf.com^
 ÿï08@Ruepkcdjgp.com^
@@ -44263,12 +44248,12 @@ uk08i.top^
 !ÿï08@Rukcomparends.pro^
 ÿï08@Rukdtzkc.com^
 "ÿï08@Rukenthasmeetu.com^
-'ÿï08@Rukentsiwoulukdlik.info^
+'ÿï08@Rukentsiwoulukdlik.info^•
 ÿï08@Rukgzavrhc.com^
 "ÿï08@Rukindwouldmeu.com^
 #ÿï08@Rukizeiasninan.info^
 !ÿï08@Rukloxmchcdnn.com^
-"ÿï08@Rukmlastityty.info^´
+"ÿï08@Rukmlastityty.info^
 &ÿï08@Rukmlastitytyeastf.com^
 ÿï08@Rukqibzitix.com^
 &ÿï08@Rukrkskillsombine.info^
@@ -44327,12 +44312,12 @@ $ÿï08@Rumjcamewiththe.info^
 .ÿï08@Runattractivehastypendulum.com^
 8ÿï08@R(unauthorizedsufficientlysensitivity.com^
 3ÿï08@R#unavailableprocessionamazingly.com^
- ÿï08@Runawaredisk.com^
+ ÿï08@Runawaredisk.com^Ç
 #ÿï08@Runawarehistory.pro^
 2ÿï08@R"unbearablepulverizeinevitably.com^
 $ÿï08@Runbeastskilled.shop^
 !ÿï08@Runbeedrillom.com^
-+ÿï08@Runbelievableheartbreak.com^Æ
++ÿï08@Runbelievableheartbreak.com^
 ,ÿï08@Runbelievableinnumerable.com^
 5ÿï08@R%unbelievablesuitcasehaberdashery.com^
 )ÿï08@Runbelievablydemocrat.com^
@@ -44391,12 +44376,12 @@ $ÿï08@Runderwaterbirch.com^
 *ÿï08@Rundooptimisticsuction.com^
 'ÿï08@Rundress.app/ad_banners/
 -ÿï08@Rundressregionaladdiction.com^
-$ÿï08@Rundubirprourass.com^
+$ÿï08@Rundubirprourass.com^’
 ÿï08@Runelekidan.com^
 0ÿï08@R unemploymentinstinctiverite.com^
 )ÿï08@Runequalbrotherhermit.com^
 )ÿï08@Runequaled-department.pro^
-#ÿï08@Runequaledchair.com^ø
+#ÿï08@Runequaledchair.com^
 $ÿï08@Runevenobjective.com^
 !ÿï08@Runevenregime.com^
 &ÿï08@Runfairgenelullaby.com^
@@ -44455,12 +44440,12 @@ $ÿï08@Runiversalappend.com^
 'ÿï08@Runlockmaddenhooray.com^
 "ÿï08@Runlockmelted.shop^
 ÿï08@Runlocky.org^
-ÿï08@Runlocky.xyz^
+ÿï08@Runlocky.xyz^‹
  ÿï08@Runloetiosal.com^
 'ÿï08@Runluckyflagtopmost.com^
 ÿï08@Runluxioer.com^
 ÿï08@Runmantyker.com^
-&ÿï08@Runmoor.com/config.json•
+&ÿï08@Runmoor.com/config.json
 $ÿï08@Runnaturalstring.com^
 .ÿï08@Runnecessarydispleasedleak.com^
 !ÿï08@Runoakrookroo.com^
@@ -44519,13 +44504,13 @@ $ÿï08@Runresolveddrama.com^
 "ÿï08@Runtineanunder.com^
 "ÿï08@Runtineforward.com^
  ÿï08@Runtrendenam.com^
-!ÿï08@Runtriedcause.pro^
+!ÿï08@Runtriedcause.pro^í
 ÿï08@R
 untrk.xyz^
 ÿï08@Runtrol.com^
  ÿï08@Runtropiuson.com^
 ,ÿï08@Runusualbrainlessshotgun.com^
-3ÿï08@R#unusuallynonfictionconsumption.com^ş
+3ÿï08@R#unusuallynonfictionconsumption.com^
 "ÿï08@Runusuallyswam.com^
 (ÿï08@Runusualwarmingloner.com^
 4ÿï08@R$unwelcomegardenerinterpretation.com^
@@ -44586,12 +44571,12 @@ $ÿï08@Rupcurlsreid.website^
 !ÿï08@Ruponsurskita.com^
 !ÿï08@Rupontogeticr.com^
 (ÿï08@Rupornia.com/yxpffpuqtjc/
- ÿï08@Ruppsyduckan.com^
+ ÿï08@Ruppsyduckan.com^Å
 1ÿï08@R!uprightanalysisphotographing.com^
 'ÿï08@Ruprightsaunagather.com^
 #ÿï08@Ruprightthrough.com^
 ÿï08@Ruprimp.com^
-/ÿï08@Ruprisingrecalledpeppermint.com^›
+/ÿï08@Ruprisingrecalledpeppermint.com^
 $ÿï08@Ruprivaladserver.net^
 !ÿï08@Ruproarglossy.com^
 ÿï08@Rupsaibou.net^
@@ -44651,12 +44636,12 @@ $ÿï08@Rurllistparding.info^
 ÿï08@Ruruswan.com^
 ÿï08@Rurvgwij.com^
 ÿï08@Rus4post.com^
-ÿï08@Rusaballs.fun^
+ÿï08@Rusaballs.fun^ü
 ÿï08@Rusablenet.com^
 ÿï08@Rusageultra.com^
 ÿï08@Rusainoad.net^
 ÿï08@Rusbanners.com^
-#ÿï08@Rusbrowserspeed.com^€
+#ÿï08@Rusbrowserspeed.com^
 !ÿï08@Ruseaptrecoil.com^
 ÿï08@Rusearch.site^
 ÿï08@Rusefomo.com^
@@ -44720,12 +44705,12 @@ usurv.com^
 !ÿï08@Rutilizedshoe.com^
 #ÿï08@Rutilizeimplore.com^
 0ÿï08@R utilizepersonalityillegible.com^
-ÿï08@Rutillib.xyz^
+ÿï08@Rutillib.xyz^ç
 ÿï08@Rutiq-aws.net^
 ÿï08@Rutiq.24auto.de^
 "ÿï08@Rutiq.24hamburg.de^
  ÿï08@Rutiq.24rhein.de^
-!ÿï08@Rutiq.buzzfeed.de^å
+!ÿï08@Rutiq.buzzfeed.de^
  ÿï08@Rutiq.come-on.de^
 &ÿï08@Rutiq.einfach-tasty.de^
 ÿï08@Rutiq.fnp.de^
@@ -44785,12 +44770,12 @@ $ÿï08@Ruzauxaursachoky.net^
 ÿï08@Rv.scurra.space^
 <08@R.v.xemphimviet.xyz/client_assets/js/minijumb.js
 ÿï08@Rv124mers.com^
-ÿï08@Rv2cigs.com^
+ÿï08@Rv2cigs.com^Ô
 'ÿï08@Rv3cars.com/load-ads.php
 ÿï08@Rv6rxv5coo5.com^
 ÿï08@Rv785.online^
 ÿï08@Rv9banners.com^
-ÿï08@Rvaatmetu.net^ğ
+ÿï08@Rvaatmetu.net^
 !ÿï08@Rvacaneedasap.com^
 #ÿï08@Rvacationmonday.com^
 !ÿï08@Rvacationsoot.com^
@@ -44849,12 +44834,12 @@ $ÿï08@Rvaluableenquiry.com^
 ÿï08@Rvalueclick.com^
 ÿï08@Rvalueclick.net^
 $ÿï08@Rvalueclickmedia.com^
-"ÿï08@Rvaluecommerce.com^
+"ÿï08@Rvaluecommerce.com^É
 $ÿï08@Rvaluedalludejoy.com^
 #ÿï08@Rvaluepastscowl.com^
 %ÿï08@Rvaluerfadjavelin.com^
 !ÿï08@Rvaluermainly.com^
-,ÿï08@Rvaluerstarringarmistice.com^Æ
+,ÿï08@Rvaluerstarringarmistice.com^
  ÿï08@Rvaluerstray.com^
 !ÿï08@Rvalueslinear.com^
 %ÿï08@Rvaluethemarkets.info^
@@ -44913,12 +44898,12 @@ $ÿï08@Rvariationsradio.com^
 !ÿï08@Rvasgenerete.site^
 ÿï08@Rvasstycom.com^
 ÿï08@Rvasteeds.net^
-ÿï08@Rvastroll.ru^
+ÿï08@Rvastroll.ru^„
 ÿï08@Rvastserved.com^
 (ÿï08@Rvastsneezevirtually.com^
 ,ÿï08@Rvastz.b-cdn.net/hsr/HSR*.mp4
 ÿï08@Rvatanclick.ir^
-%ÿï08@Rvatcertaininject.com^î
+%ÿï08@Rvatcertaininject.com^
 ÿï08@Rvaugroar.com^
 ÿï08@Rvaukoloon.net^
 ÿï08@Rvauloops.net^
@@ -44981,13 +44966,13 @@ Iÿï08@R9vectips.com/wp-content/themes/vectips-theme/js/adzones.js
 %ÿï08@Rveilsuccessfully.com^
 )ÿï08@Rveincartrigeforceful.com^
 "ÿï08@Rveinourdreams.com^
-!ÿï08@Rvekseptaufin.com^
+!ÿï08@Rvekseptaufin.com^Ï
 ÿï08@Rvelocecdn.com^
  ÿï08@Rvelocitycdn.com^
 &ÿï08@Rvelocitypaperwork.com^
 ÿï08@R
 velti.com^
-"ÿï08@Rveluredcipo.click^Û
+"ÿï08@Rveluredcipo.click^
 /ÿï08@Rvelvetgossip.it^*/gdprvelvet.js
 +ÿï08@Rvelvetneutralunnatural.com^
 %ÿï08@Rvemflutuartambem.com^
@@ -45048,12 +45033,12 @@ $ÿï08@Rvernonspurtrash.com^
 'ÿï08@Rverticallyrational.com^
 "ÿï08@Rvertismedia.co.uk^
 ÿï08@R
-verwh.com^
+verwh.com^€
 &ÿï08@Rverygoodminigames.com^
 ÿï08@Rveryn1ce.com^
  ÿï08@Rverysilenit.com^
 *08@Rvesotantai.com/upload/photo/
-ÿï08@Rvespymedia.com^ò
+ÿï08@Rvespymedia.com^
 ÿï08@Rvessoupy.com^
 "ÿï08@Rvestalsabuna.shop^
 $ÿï08@Rvestigeencumber.com^
@@ -45120,12 +45105,12 @@ viads.net^
  ÿï08@Rviamariller.com^
 !ÿï08@Rvianadserver.com^
 "ÿï08@Rviandryochavo.com^
-!ÿï08@Rvianoivernom.com^
+!ÿï08@Rvianoivernom.com^º
 !ÿï08@Rviapawniarda.com^
 ÿï08@Rviaphioner.com^
  ÿï08@Rviapizza.online^
 ÿï08@Rviapush.com^
-"ÿï08@Rviatechonline.com^à
+"ÿï08@Rviatechonline.com^
 ÿï08@Rviatepigan.com^
 !ÿï08@Rviavideo.digital^
 ÿï08@Rvibanioa.com^
@@ -45185,12 +45170,12 @@ videoo.tv^
 ÿï08@Rvidsrev.com^
 :ÿï08@R*vidstream.pro/AB/pioneersuspectedjury.com/
 ÿï08@Rvidverto.io^
-&ÿï08@Rvidz.com/promo_banner/
+&ÿï08@Rvidz.com/promo_banner/«
 *ÿï08@Rvidzstore.com/popembed.php
 $ÿï08@Rviennafeedman.click^
 $ÿï08@Rviensvoircesite.com^
 /08@R!vietjack.com/FrontEndWeb/js/sp.js
-#ÿï08@Rvietpub.com/banner/
+#ÿï08@Rvietpub.com/banner/
 ÿï08@R
 vieva.xyz^
 ÿï08@Rview-flix.com^
@@ -45250,13 +45235,13 @@ vieva.xyz^
 ÿï08@Rviitqvjx.com^
 ÿï08@Rviivedun.com^
 ÿï08@Rviiyblva.com^
- ÿï08@Rvijcwykceav.com^
+ ÿï08@Rvijcwykceav.com^
 ÿï08@R
 vijkc.top^
 ÿï08@Rvikaez.xyz^
 5ÿï08@R%vikiporn.com/contents/images-banners/
 /ÿï08@Rvikiporn.com/js/customscript.js
-ÿï08@Rvikuhiaor.com^…
+ÿï08@Rvikuhiaor.com^
 "ÿï08@Rvilereasoning.com^
 &ÿï08@Rvilerebuffcontact.com^
 ÿï08@Rviliaff.com^
@@ -45315,12 +45300,12 @@ $ÿï08@Rvioletlovelines.com^
 #ÿï08@Rvirool.com/widgets/
 !ÿï08@Rvirtuagirlhd.com^
 6ÿï08@R&virtualhottie2.com/cash/tools/banners/
-1ÿï08@R!virtuallythanksgivinganchovy.com^
+1ÿï08@R!virtuallythanksgivinganchovy.com^²
 (ÿï08@Rvirtualpushplatform.com^
 %ÿï08@Rvirtualroecrisis.com^
 ÿï08@Rvirtue1266.fun^
  ÿï08@Rvirtuereins.com^
-#ÿï08@Rvirtuousescape.pro^€
+#ÿï08@Rvirtuousescape.pro^
 !ÿï08@Rvisariomedia.com^
 $ÿï08@Rviscountquality.com^
 ÿï08@Rvisfirst.com^
@@ -45381,7 +45366,7 @@ vjugz.com^
 ÿï08@Rvkeagmfz.com^
 ÿï08@Rvkgtrack.com^
 !ÿï08@Rvkhrhbjsnypu.com^
-%ÿï08@Rvknrfwwxhxaxupqp.pro^
+%ÿï08@Rvknrfwwxhxaxupqp.pro^Ê
 ]ÿï*
 tapclap.com*
 
@@ -45393,7 +45378,7 @@ arudex.com*
 'ÿï08@Rvkontakte.ru/share.php?
 1ÿï08@R!vkontakte.ru/widget_community.php
 ,ÿï08@Rvkontakte.ru/widget_like.php
-ÿï08@Rvksphze.com^ò
+ÿï08@Rvksphze.com^
 ÿï08@Rvkv2nodv.xyz^
 08@Rvl3x.vip/ads/
  ÿï08@Rvleigearman.com^
@@ -45457,12 +45442,12 @@ $ÿï08@Rvolcanostricken.com^
 ÿï08@Rvoldarinis.com^
 ÿï08@Rvolform.online^
 (ÿï08@Rvolleyballachiever.site^
-ÿï08@Rvolomedia.com^
+ÿï08@Rvolomedia.com^«
 ÿï08@Rvolopi.cfd^
 #ÿï08@Rvolumedpageboy.com^
 !ÿï08@Rvolumesundue.com^
 #ÿï08@Rvoluminouscopy.pro^
-#ÿï08@Rvoluminoussoup.pro^£
+#ÿï08@Rvoluminoussoup.pro^
 ÿï08@Rvolumntime.com^
 $ÿï08@Rvoluntarilydale.com^
 %ÿï08@Rvoluntarilylease.com^
@@ -45528,12 +45513,12 @@ vpipi.com^
 vpop2.com^
 ÿï08@Rvprtrfc.com^
 ÿï08@R
-vptbn.com^
+vptbn.com^Š
 ÿï08@Rvpuaklat.com^
 !ÿï08@Rvpumfeghiall.com^
 ÿï08@Rvqfumxea.com^
 ÿï08@Rvqonjcnsl.com^
-$ÿï08@Rvrcjleonnurifjy.xyz^…
+$ÿï08@Rvrcjleonnurifjy.xyz^
 $ÿï08@Rvrcvuqtijiwgemi.com^
 %ÿï08@Rvrgvugostlyhewo.info^
 ÿï08@R
@@ -45593,12 +45578,12 @@ $ÿï08@Rvulsubsaugrourg.net^
 !ÿï08@Rvuvcroguwtuk.com^
 (ÿï08@Rvuwjv7sjvg7.zedporn.com^
 ÿï08@Rvv.7vid.net^
-!ÿï08@Rvv8h9vyjgnst.com^
+!ÿï08@Rvv8h9vyjgnst.com^ñ
 "ÿï08@Rvvabjoqaamezj.top^
 ÿï08@R	vvbox.cz^
 ÿï08@Rvvehvch.com^
 "ÿï08@Rvvewkbleeebez.top^
-ÿï08@Rvvpojbsibm.xyz^‚
+ÿï08@Rvvpojbsibm.xyz^
 ÿï08@Rvvprcztaw.com^
 ÿï08@Rvvvvdbrrt.com^
 ÿï08@Rvwagkipi.com^
@@ -45657,12 +45642,12 @@ $ÿï08@Rwabblydungari.click^
 "ÿï08@Rwaitedprowess.com^
 -ÿï08@Rwaiterregistrydelusional.com^
 ÿï08@Rwaitheja.net^
-ÿï08@Rwaiting.biz^
+ÿï08@Rwaiting.biz^í
 ÿï08@Rwaitumaiwy.xyz^
 #ÿï08@Rwaiwiboonubaup.xyz^
 %ÿï08@Rwakemessyantenna.com^
  ÿï08@Rwakenprecox.com^
-"ÿï08@Rwakenssponged.com^ñ
+"ÿï08@Rwakenssponged.com^
  ÿï08@Rwalkedcreak.com^
 "ÿï08@Rwalkerbayonet.com^
 !ÿï08@Rwalkinggruff.com^
@@ -45721,12 +45706,12 @@ $ÿï08@Rwarnothnayword.shop^
 !ÿï08@Rwarrantpiece.com^
 'ÿï08@Rwarriorflowsweater.com^
 .ÿï08@Rwarsabnormality.com/pixel/pure
-$ÿï08@Rwarsabnormality.com^
+$ÿï08@Rwarsabnormality.com^œ
 'ÿï08@Rwarscoltmarvellous.com^
 'ÿï08@Rwarumbistdusoarm.space^
  ÿï08@Rwary-corner.com^
 ÿï08@Rwarycsrm.com^
-"ÿï08@Rwasanasosetto.com^‚
+"ÿï08@Rwasanasosetto.com^
 %ÿï08@Rwashedgrimlyhill.com^
  ÿï08@Rwashingchew.com^
 (ÿï08@Rwashingoccasionally.com^
@@ -45785,13 +45770,13 @@ iÿï08@RYwaterfordwhispersnews.com/wp-content/themes/therex-child/js/_ne
 #ÿï08@Rwayfarerfiddle.com^
 !ÿï08@Rwayfgwbipgiz.com^
 #ÿï08@Rwaymarkgentiin.com^
-"ÿï08@Rwaymentriddel.com^
+"ÿï08@Rwaymentriddel.com^
 ÿï08@Rwazaki.xyz^
 !ÿï08@Rwazctigribhy.com^
 !ÿï08@Rwazzeyzlobbj.top^
 ÿï08@R
 wbdds.com^
-ÿï08@Rwbdqwpu.com^
+ÿï08@Rwbdqwpu.com^
 ÿï08@Rwbidder.online^
 ÿï08@Rwbidder2.com^
 ÿï08@Rwbidder3.com^
@@ -45854,12 +45839,12 @@ $ÿï08@Rweatherstumphrs.com^
 ,ÿï08@Rweb-oao.ssp.yahoo.com/admax/
 'ÿï08@Rweb-protection-app.com^
 #ÿï08@Rweb-security.cloud^
- ÿï08@Rweb.adblade.com^
+ ÿï08@Rweb.adblade.com^‚
 "ÿï08@Rweb.delighted.com^
 ÿï08@Rweb0.eu^
 ÿï08@Rweb3-api-v2.cc^
 ÿï08@Rweb3ads.net^
-ÿï08@Rwebads.co.nz^‘
+ÿï08@Rwebads.co.nz^
 ÿï08@R
 webads.eu^
 ÿï08@Rwebads.media^
@@ -45920,12 +45905,12 @@ $ÿï08@Rwebstorestore.store^
 "ÿï08@Rwedgierbirsit.com^
 #ÿï08@Rwednesdaynaked.com^
 %ÿï08@Rwednesdaywestern.com^
-%ÿï08@Rwedonhisdhiltew.info^
+%ÿï08@Rwedonhisdhiltew.info^ä
 "ÿï08@Rwee-intention.com^
 ÿï08@Rweebipoo.com^
 ÿï08@Rweedazou.net^
 "ÿï08@Rweedfowlsgram.com^
-#ÿï08@Rweedieritched.shop^ö
+#ÿï08@Rweedieritched.shop^
  ÿï08@Rweednewspro.com^
 ÿï08@Rweejaugest.net^
 ÿï08@Rweek1time.com^
@@ -45984,12 +45969,12 @@ $ÿï08@Rweownthetraffic.com^
 -ÿï08@Rwepc.com/sp-push-worker-fb.js
 ÿï08@Rwerdolsolt.com^
 #ÿï08@Rweredthechild.info^
-$ÿï08@Rweredthechildre.com^
+$ÿï08@Rweredthechildre.com^É
 %ÿï08@Rwereksbeforebut.info^
 ÿï08@Rweremoiety.com^
 ÿï08@Rwererxrzmp.com^
 .ÿï08@Rwerkenntwen.de/images/buttons/
-"ÿï08@Rwersoorgaglaz.xyz^³
+"ÿï08@Rwersoorgaglaz.xyz^
  ÿï08@Rwerwolfloll.com^
 ÿï08@Rweshooship.net^
 ÿï08@Rwesicuros.com^
@@ -46048,12 +46033,12 @@ Bÿï08@R2whatismyipaddress.cyou/assets/images/ip-banner.png
 'ÿï08@Rwhatisnewappforyou.top^
 %ÿï08@Rwhatisuptodaynow.com^
 ÿï08@Rwhatredkm.com^
-%ÿï08@Rwhatsoeverlittle.com^
+%ÿï08@Rwhatsoeverlittle.com^ç
  ÿï08@Rwhatstheword.co^
 ÿï08@Rwhaudsur.net^
 ÿï08@Rwhauglorga.com^
 !ÿï08@Rwhaukrimsaix.com^
- ÿï08@Rwhaunsockou.xyz^ö
+ ÿï08@Rwhaunsockou.xyz^
  ÿï08@Rwhaurgoopou.com^
 ÿï08@Rwhautchaup.net^
 ÿï08@Rwhautsis.com^
@@ -46113,12 +46098,12 @@ $ÿï08@Rwhimpercategory.com^
 &ÿï08@Rwhinemalnutrition.com^
 (ÿï08@Rwhippedfreezerbegun.com^
 "ÿï08@Rwhippetahunt.shop^
-#ÿï08@Rwhiprayoutkill.com^
+#ÿï08@Rwhiprayoutkill.com^ó
 ÿï08@Rwhirlclick.com^
 ÿï08@Rwhirltoes.com^
 $ÿï08@Rwhirlwindofnews.com^
 !ÿï08@Rwhishannuent.com^
-*ÿï08@Rwhiskersbonnetcamping.com^Û
+*ÿï08@Rwhiskersbonnetcamping.com^
 -ÿï08@Rwhiskerssituationdisturb.com^
 -ÿï08@Rwhiskerssunflowertumbler.com^
 "ÿï08@Rwhiskersthird.com^
@@ -46177,12 +46162,12 @@ $ÿï08@Rwholefreshposts.com^
 ÿï08@Rwhourgie.com^
 ÿï08@Rwhouroazu.net^
 ÿï08@Rwhoursie.com^
-ÿï08@Rwhouseem.com^
+ÿï08@Rwhouseem.com^ñ
 ÿï08@Rwhouvoart.com^
 ÿï08@Rwhowhipi.net^
 ÿï08@Rwhqxqwy.com^
 ÿï08@Rwhubouzees.com^
-ÿï08@Rwhudroots.net^¦
+ÿï08@Rwhudroots.net^
  ÿï08@Rwhufteekoam.com^
 !ÿï08@Rwhugeestauva.com^
 ÿï08@Rwhugesto.net^
@@ -46244,12 +46229,12 @@ $ÿï08@Rwidget.whatshelp.io^
 #ÿï08@Rwidgets.guppy.live^
 )ÿï08@Rwidgets.itunes.apple.com^
 (ÿï08@Rwidgets.lendingtree.com^
-#ÿï08@Rwidgets.monito.com^
+#ÿï08@Rwidgets.monito.com^Ğ
 (ÿï08@Rwidgets.oddschecker.com^
 #ÿï08@Rwidgets.openli.com^
 0ÿï08@R widgets.outbrain.com^*/widget.js
 %ÿï08@Rwidgets.progrids.com^
-)ÿï08@Rwidgets.recruitology.com^®
+)ÿï08@Rwidgets.recruitology.com^
 (ÿï08@Rwidgets.sprinkletxt.com^
 #ÿï08@Rwidgets.tapcdn.com^
 !ÿï08@Rwidgets.tree.com^
@@ -46309,12 +46294,12 @@ $ÿï08@Rwinbestprizess.info^
 "ÿï08@Rwindowsuseful.com^
 $ÿï08@Rwindrightyshade.com^
 ÿï08@Rwindsplay.com^
-%ÿï08@Rwindymissphantom.com^
+%ÿï08@Rwindymissphantom.com^¬
 (ÿï08@Rwinecolonistbaptize.com^
 "ÿï08@Rwineinstaller.com^
 ÿï08@Rwinewiden.com^
 ÿï08@Rwingads.com^
-#ÿï08@Rwingerssetiger.com^Ğ
+#ÿï08@Rwingerssetiger.com^
 ÿï08@Rwingjav11.fun^
 "ÿï08@Rwingoodprize.life^
 !ÿï08@Rwingselastic.com^
@@ -46376,12 +46361,12 @@ $ÿï08@Rwithyouryretye.info^
 %ÿï08@Rwitnessedcompany.com^
 )ÿï08@Rwitnessedworkerplaid.com^
 "ÿï08@Rwitnessjacket.com^
-)ÿï08@Rwitnessremovalsoccer.com^
+)ÿï08@Rwitnessremovalsoccer.com^õ
 *ÿï08@Rwitnesssellingoranges.com^
 *ÿï08@Rwitnesssimilarindoors.com^
 #ÿï08@Rwittilyfrogleg.com^
  ÿï08@Rwivtuhoftat.com^
-4ÿï08@R$wixlabs-adsense-v3.uc.r.appspot.com^È
+4ÿï08@R$wixlabs-adsense-v3.uc.r.appspot.com^
 'ÿï08@Rwizardscharityvisa.com^
 /ÿï08@Rwizardunstablecommissioner.com^
 ÿï08@Rwizkrdxivl.com^
@@ -46442,12 +46427,12 @@ wmgtr.com^
  ÿï08@Rwnrvrwabnxa.com^
 "ÿï08@Rwnt-s0me-push.net^
 !ÿï08@Rwnt-some-psh.net^
-"ÿï08@Rwnt-some-push.com^
+"ÿï08@Rwnt-some-push.com^ñ
 "ÿï08@Rwnt-some-push.net^
 "ÿï08@Rwnvdgegsjoqoe.xyz^
 ÿï08@Rwoafoame.net^
  ÿï08@Rwoagroopsek.com^
-ÿï08@Rwoaneezy.com^ò
+ÿï08@Rwoaneezy.com^
 ÿï08@Rwoaniphud.com^
 ÿï08@Rwoapheer.com^
 ÿï08@Rwoapimaugu.net^
@@ -46510,12 +46495,12 @@ $ÿï08@Rwoodymotherhood.com^
 ÿï08@Rwootmedia.net^
 ÿï08@Rwoovoree.net^
 $ÿï08@Rwoppishdonned.click^
-$ÿï08@Rwopsedoaltuwipp.com^
+$ÿï08@Rwopsedoaltuwipp.com^Ä
 "ÿï08@Rwopsedoaltuwn.com^
 "ÿï08@Rwopsedoaltuwo.com^
 "ÿï08@Rwopsedoaltuwp.com^
 ÿï08@Rwordego.com^
-ÿï08@Rwordfence.me^Ğ
+ÿï08@Rwordfence.me^
 "ÿï08@Rwordpersonify.com^
  ÿï08@Rwordsnought.com^
 ÿï08@Rwordyhall.pro^
@@ -46574,12 +46559,12 @@ $ÿï08@Rworthwhile-wash.com^
 ÿï08@Rwoudaufe.net^
 #ÿï08@Rwouhikeelichoo.net^
 ÿï08@Rwoujaupi.xyz^
-ÿï08@Rwoujoami.com^
+ÿï08@Rwoujoami.com^×
  ÿï08@Rwoulddecade.com^
 $ÿï08@Rwouldlikukemyf.info^
 !ÿï08@Rwouldmakefea.com^
 !ÿï08@Rwouldmakefea.org^
-%ÿï08@Rwouldmakefeagre.info^Ó
+%ÿï08@Rwouldmakefeagre.info^
 "ÿï08@Rwouldtalkbust.com^
 ÿï08@Rwoushucaug.com^
 ÿï08@Rwouvista.com^
@@ -46641,12 +46626,12 @@ $ÿï08@Rwraithyupswept.shop^
 )ÿï08@Rwrathful-alternative.com^
 "ÿï08@Rwrathyblesmol.com^
 ÿï08@Rwrdnaunq.com^
-"ÿï08@Rwreaksyolkier.com^
+"ÿï08@Rwreaksyolkier.com^
  ÿï08@Rwreathabble.com^
 !ÿï08@Rwreckonturr.info^
 "ÿï08@Rwrenterritory.com^
 ÿï08@Rwrestcut.com^
-'ÿï08@Rwretched-confusion.com^ù
+'ÿï08@Rwretched-confusion.com^
 !ÿï08@Rwretchedbomb.com^
 %ÿï08@Rwretcheddrunkard.com^
 #ÿï08@Rwrevenuewasadi.com^
@@ -46706,12 +46691,12 @@ $ÿï08@Rwugroansaghadry.com^
 ÿï08@Rwuxlvvcv.com^
 ÿï08@Rwuzbhjpvsf.com^
 ÿï08@Rwvboajjti.com^
- ÿï08@Rwvfhosisdsl.xyz^
+ ÿï08@Rwvfhosisdsl.xyz^Ú
 ÿï08@Rwvhba6470p.com^
 ÿï08@Rwvtynme.com^
 ÿï08@Rwvubihtrc.com^
 ÿï08@Rwvvkxni.com^
-ÿï08@Rwvwjdrli.com^ä
+ÿï08@Rwvwjdrli.com^
  ÿï08@Rwvy-ctvjoon.xyz^
 ÿï08@Rww.hoes.tube^
 !ÿï08@Rww2.imgadult.com^
@@ -46775,12 +46760,12 @@ Lÿï08@R<www.glassdoor.*/static/js/gd-user-hardsell-overlay.bundle.js
 !ÿï08@Rwzcuinglezyz.one^
 !ÿï08@Rwzk5ndpc3x05.com^
 ÿï08@Rwzlbhfldl.com^
-ÿï08@Rwzxty168.com^
+ÿï08@Rwzxty168.com^™
 ÿï08@Rx-c.eu^
 $ÿï08@Rx-hd.video/vcrtlrvw/
 "ÿï08@Rx-jmezfjpjt.today^
  ÿï08@Rx-zjxfhysb.love^
-ÿï08@Rx.castanet.net^Ç
+ÿï08@Rx.castanet.net^
 D*
 x.clipsexhot.org08@R"x.clipsexhot.org/theme/main.isa.js
 !ÿï08@Rx.com/*/videoads/
@@ -46843,7 +46828,7 @@ xder1.fun^
 'ÿï08@Rxdowl0adxd0wnloadx.com^
 #ÿï08@Rxdownloadright.com^
 ÿï08@Rxebadu.com^
-ÿï08@Rxedo.me^
+ÿï08@Rxedo.me^Æ
 ÿï08@Rxegluwate.com^
  ÿï08@Rxel-xel-fie.com^
 ÿï08@Rxelllwrite.com^
@@ -46851,7 +46836,7 @@ xder1.fun^
 xeltq.com^
 S*
 vv13.thapcamtivi.live*
-xem.thapcamtv.com08@Rxem.thapcamtv.com^*.gif‘
+xem.thapcamtv.com08@Rxem.thapcamtv.com^*.gif
 ÿï08@Rxemiro.uno^
  ÿï08@Rxenosmussal.com^
 ÿï08@Rxenylclio.com^
@@ -46911,12 +46896,12 @@ $ÿï08@Rxhamster3.com*/vast?
 ÿï08@Rxjfqqyrcz.com^
 #ÿï08@Rxjincmbrulchml.xyz^
 ÿï08@Rxjkhaow.com^
-ÿï08@Rxjlqybkll.com^
+ÿï08@Rxjlqybkll.com^­
 ÿï08@Rxjrwxfdphc.com^
 ÿï08@R	xjsx.lol^
 ÿï08@Rxjupijxdt.xyz^
 ÿï08@Rxkacs5av.xyz^
-"ÿï08@Rxkbgqducppuan.xyz^°
+"ÿï08@Rxkbgqducppuan.xyz^
 ÿï08@Rxkejsns.com^
  ÿï08@Rxkesalwueyz.com^
 ÿï08@Rxkowcsl.com^
@@ -46981,12 +46966,12 @@ xoalt.com^
 xolen.xyz^
 ÿï08@Rxovdrxkog.xyz^
 ÿï08@Rxoyrxawri.com^
-*€08@Rxozilla.com/player/html.php
+*€08@Rxozilla.com/player/html.phpä
 ÿï08@Rxpaavmvkc.xyz^
 "ÿï08@Rxpics.me/everyone.
 ÿï08@Rxpollo.com^
 ÿï08@R	xporn.in^
-$ÿï08@Rxppedxgjxcajuae.xyz^è
+$ÿï08@Rxppedxgjxcajuae.xyz^
 ÿï08@Rxpxsfejcf.com^
 ÿï08@Rxqeoitqw.site^
 ÿï08@Rxqmvzmt.com^
@@ -47049,13 +47034,13 @@ N*
 xx.sexkhongchemoi.com08@R'xx.sexkhongchemoi.com/theme/main.isa.js
 ÿï08@Rxxccdshj.com^
 ÿï08@Rxxdfexbwv.top^
-ÿï08@R	xxe2.com^
+ÿï08@R	xxe2.com^è
 !ÿï08@Rxxivzamarra.shop^
 ÿï08@R
 xxltr.com^
 08@Rxxoilac.com^*.gif
  ÿï08@Rxxx.sdtraff.com^
-"ÿï08@Rxxxbannerswap.com^ğ
+"ÿï08@Rxxxbannerswap.com^
 !ÿï08@Rxxxblackbook.com^
 "ÿï08@Rxxxbox.me/vcrtlrvw
 ÿï08@Rxxxc2c.org^
@@ -47120,14 +47105,14 @@ yahuu.org^
 ÿï08@Ryapclench.com^
 ÿï08@Ryapdiscuss.com^
 &ÿï08@Ryapforestsfairfax.com^
-*ÿï08@Ryapunderstandsounding.com^
+*ÿï08@Ryapunderstandsounding.com^¨
 ÿï08@Ryapzoa.xyz^
 ÿï08@R
 yardr.net^
 ÿï08@Ryarlnk.com^
 ÿï08@R
 yashi.com^
-:ÿï08@R*yastatic.net/pcode/adfox/header-bidding.js–
+:ÿï08@R*yastatic.net/pcode/adfox/header-bidding.js
  ÿï08@Ryauperstote.top^
  ÿï08@Ryausbprxfft.xyz^
 !ÿï08@Ryavaflocker.shop^
@@ -47189,12 +47174,12 @@ Gÿï08@R7yeptube.*/templates/base_master/js/jquery.shows2.min.js
 =ÿï08@R-yespornpleasexxx.com/wp-content/litespeed/js/
  ÿï08@Ryessearches.com^
 #ÿï08@Ryeswplearning.info^
-$ÿï08@Ryeticbtgfpbgpfd.xyz^
+$ÿï08@Ryeticbtgfpbgpfd.xyz^
 ÿï08@Ryetshape.com^
  ÿï08@Ryetterslave.com^
 ÿï08@Ryfefdlv.com^
 ÿï08@Ryfgrxkz.com^
-ÿï08@Ryfinwemk.com^¢
+ÿï08@Ryfinwemk.com^
 ÿï08@Ryfkflfa.com^
 %ÿï08@Ryflexibilitukydt.com^
 ÿï08@Ryftpnol.com^
@@ -47255,12 +47240,12 @@ $ÿï08@Ryicixvmgmhpvbcl.xyz^
 ÿï08@Ryiqetu.uno^
 %ÿï08@Ryirringamnesic.click^
 ÿï08@Ryjdigtr.com^
-ÿï08@Ryjrrwchaz.com^
+ÿï08@Ryjrrwchaz.com^Ÿ
 %ÿï08@Ryjustingexcelele.org^
 #ÿï08@Ryjvuthpuwrdmdt.xyz^
 #ÿï08@Rykdnbbzxmiqkye.com^
 ÿï08@Rykraeij.com^
-ÿï08@Rykrohjqz.com^¤
+ÿï08@Rykrohjqz.com^
 ÿï08@Rykwll.site^
 ÿï08@Ryl-sooippd.vip^
 ÿï08@R
@@ -47326,12 +47311,12 @@ yoads.net^
 $ÿï08@Ryotta.scrolller.com^
 ÿï08@Ryottacash.com^
 ÿï08@Ryottos.com^
-ÿï08@Ryou4cdn.com^
+ÿï08@Ryou4cdn.com^’
 +ÿï08@Ryou75.youpornsexvideos.com^
 ÿï08@Ryouaixx.xyz^
 #ÿï08@Ryouappi.com/widget/
 ÿï08@Ryoudguide.com^
-!ÿï08@Ryougotacheck.com^Œ
+!ÿï08@Ryougotacheck.com^
 ÿï08@Ryoulamedia.com^
 ÿï08@Ryoule55.com^
 +ÿï08@Ryoulead.pl/webpushprompt.js
@@ -47396,12 +47381,12 @@ $ÿï08@Rypa.focusoftime.com^
 yqeuu.com^
 ÿï08@Ryqmxfz.com^
 "ÿï08@Ryr.fopbandido.com^
-ÿï08@Ryr9n47004g.com^
+ÿï08@Ryr9n47004g.com^Ç
 ÿï08@Ryrbnfoys.com^
 #ÿï08@Ryremovementxvi.org^
 ÿï08@Ryrhnw7h63.com^
 $ÿï08@Ryrincelewasgiw.info^
-!ÿï08@Ryrmqfojomlwh.com^õ
+!ÿï08@Ryrmqfojomlwh.com^
 ÿï08@Ryrvzqabfxe.com^
  ÿï08@Ryrwqquykdja.com^
 ÿï08@Rysesials.net^
@@ -47463,12 +47448,12 @@ $ÿï08@Rywronwasthetron.com^
 ÿï08@Ryyjvimo.com^
 ÿï08@Ryyselrqpyu.com^
 ÿï08@Ryzfjlvqa.com^
-ÿï08@Rz-eaazoov.top^
+ÿï08@Rz-eaazoov.top^×
 ÿï08@Rz0il3m3u2o.pro^
 1ÿï08@R!z3x-team.com/wp-content/*-banner-
 ÿï08@R	z54a.xyz^
 ÿï08@Rz5x.net^
-Pÿï08@R@z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^º
+Pÿï08@R@z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 "ÿï08@Rzaamgqlgdhac.love^
 ÿï08@Rzabanit.xyz^
  ÿï08@Rzachunsears.com^
@@ -47530,13 +47515,12 @@ zanox.com^
 ÿï08@R
 zcode7.me^
 ÿï08@Rzcoptry.com^
-ÿï08@Rzcswet.com^
-+ÿï08@Rzdassets.com/ekr/snippet.js
+ÿï08@Rzcswet.com^®
 '€08@Rzdassets.com/web_widget/
 #ÿï08@Rzdkgxeeykuhs.today^
 ÿï08@R
 zeads.com^
-%ÿï08@Rzealotillustrate.com^š
+%ÿï08@Rzealotillustrate.com^
 /ÿï08@Rzealouscompassionatecranny.com^
 ÿï08@Rzealsalts.com^
 ÿï08@Rzebeaa.click^
@@ -47599,11 +47583,11 @@ zewkj.com^
 $ÿï08@Rzextit.com/partners/
 ÿï08@Rzeyappland.com^
 ÿï08@Rzeydoo.com^
-ÿï08@Rzeypreland.com^
+ÿï08@Rzeypreland.com^Ó
 ÿï08@Rzfacts.com^
 ÿï08@Rzfeaubp.com^
 ÿï08@Rzferral.com^
-"ÿï08@Rzfvsnpir-cxx.buzz^Ô
+"ÿï08@Rzfvsnpir-cxx.buzz^
 ÿï08@Rzgoa097eh.com^
 ÿï08@Rzgody.infor.pl^
 ÿï08@Rzgsqnyb.com^
@@ -47667,11 +47651,11 @@ zjdac.com^
 !ÿï08@Rzkcdn.net/ados.js
 ÿï08@R
 zkcvb.com^
-!ÿï08@Rzkczzltlhp6y.com^
+!ÿï08@Rzkczzltlhp6y.com^Ğ
 ÿï08@Rzkt0flig7.com^
 ÿï08@Rzktsygv.com^
 ÿï08@Rzkulupt.com^
- ÿï08@Rzkuotxaxkov.com^Ø
+ ÿï08@Rzkuotxaxkov.com^
 ÿï08@Rzlacraft.com^
 ÿï08@Rzlink2.com^
 ÿï08@Rzlink6.com^
@@ -47733,11 +47717,11 @@ $ÿï08@Rzodiacranbehalf.com^
  ÿï08@Rzoopoptiglu.xyz^
 ÿï08@Rzoopsame.com^
 ÿï08@Rzoozishooh.com^
-(ÿï08@Rzopim.com/widget/sounds/
+(ÿï08@Rzopim.com/widget/sounds/©
 ÿï08@Rzorango.com^
 (ÿï08@Rzotabox.com^*/widgets.js
 ÿï08@Rzougreek.com^
-ÿï08@Rzouloafi.net^¥
+ÿï08@Rzouloafi.net^
 $ÿï08@Rzounaishuphaucu.xyz^
 ÿï08@Rzouphuru.net^
 ÿï08@Rzoustara.net^
@@ -47801,11 +47785,12 @@ $ÿï08@Rzungiwhaigaunsi.net^
 ÿï08@Rzunsoach.com^
 ÿï08@R
 zupee.cim^
-ÿï08@Rzuphaims.com^
+ÿï08@Rzuphaims.com^Î
+
 ÿï08@Rzuqalzajno.com^
 ÿï08@Rzuzodoad.com^
 ÿï08@Rzv.7vid.net^
-"ÿï08@Rzvela.filegram.to^Ì	
+"ÿï08@Rzvela.filegram.to^
 &ÿï08@Rzvetokr2hr8pcng09.com^
 ÿï08@Rzvhprab.com^
 !ÿï08@Rzvkytbjimbhk.com^
