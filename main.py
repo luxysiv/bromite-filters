@@ -7,7 +7,7 @@ RESOURCES = {
     'abpvn.txt': 'https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt',
     'easylist.txt': 'https://easylist.to/easylist/easylist.txt',
     'annoyance.txt': 'https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt',
-    'my-rules.txt': 'https://manhduonghn.github.io/custom-filters/my-rules.txt',
+    'adblock.txt': 'https://raw.githubusercontent.com/luxysiv/ABPVN-txt/refs/heads/main/adblock.txt',
     'adguard.txt': 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt'
 }
 MERGED_FILE = "merged.txt"
